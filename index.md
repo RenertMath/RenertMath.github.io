@@ -3,6 +3,16 @@
 
 <div class="row">
   <div class="column">
+    <h2> Teacher Pages </h2>
+    <p>
+      <ul>
+        <li> <a href="https://MerrickMath.github.io"> Mr. Merrick </a>  </li>
+        <li> <a href="https://vchan2.github.io"> Mr. Merrick </a>  </li>
+      </ul> 
+    </p>
+  </div>
+  
+  <div class="column">
     <h2> Challenges </h2>
     <p>
       <ul>
@@ -20,12 +30,6 @@
         <li><a href="https://mathpickle.com"> Math Pickle </a> </li>
         <li><a href="https://www.mathplayground.com"> Math Playground </a> </li>
       </ul> 
-    </p>
-  </div>
-  
-  <div class="column">
-    <h2>  </h2>
-    <p>
     </p>
   </div>
 </div>
