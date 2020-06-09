@@ -17,7 +17,7 @@
     <p>
       <ul>
         <li> <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge</a>  </li>
-        <li> <a href="https://MerrickMath.github.io/renertmath.github.io-celebratemath/"> COL Math Challenge </a>  </li>
+        <li> <a href="https://renertmath.github.io/RenertMath-CelebrateMath/"> COL Math Challenge </a>  </li>
       </ul> 
     </p>
   </div>
