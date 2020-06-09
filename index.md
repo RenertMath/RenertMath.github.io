@@ -1,40 +1,5 @@
 *"The enchanting charms of this sublime science reveal only to those who have the courage to go deeply into it."* - Carl Friedrich Gauss 
 
-<div class="row">
-  <div class="column">
-    <h2> Mathematics </h2>
-    <p>
-      <ul>
-        <li><a href="https://MerrickMath.github.io/grade1.html"> Grade 1 Mathematics</a> </li>
-        <li><a href="https://MerrickMath.github.io/grade23.html"> Grade 2/3 Mathematics</a> </li>
-        <li><a href="https://MerrickMath.github.io/div2.html"> Division 2 Mathematics </a> </li>
-        <li><a href="https://MerrickMath.github.io/Calculus.html"> AP Calculus</a> </li>
-      </ul> 
-    </p>
-  </div>
-  
-  <div class="column">
-    <h2> Statistics </h2>
-    <p>
-      <ul>
-        <li><a href="https://MerrickMath.github.io/APstatistics.html"> AP Statistics </a> </li>
-        <li><a href="https://MerrickMath.github.io/div2statistics.html"> Division 2 Statistics </a> </li>
-      </ul> 
-    </p>
-  </div>
-  
-  <div class="column">
-    <h2> Bright Minds </h2>
-    <p>
-      <ul>
-        <li><a href="https://MerrickMath.github.io/Brightminds.html"> Bright Minds </a> </li>
-      </ul> 
-    </p>
-  </div>
-</div>
-
-
----
 
 <div class="row">
   <div class="column">
