@@ -16,6 +16,7 @@
     <h2> Challenges </h2>
     <p>
       <ul>
+        <li> <a href="https://tinyurl.com/2020renertpumpkin"> Pumpkin BOMB Challenge </a>  </li>
         <li> <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge</a>  </li>
         <li> <a href="https://renertmath.github.io/RenertMath-CelebrateMath/"> COL Math Challenge </a>  </li>
       </ul> 
