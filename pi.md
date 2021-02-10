@@ -1,11 +1,26 @@
 ### Renert pi Day challenge 2021
 (Coming soon!)
 
+<!--
+K - Gr 1
+Gr 2-3
+Gr 4-6
+Gr 7-12
+-->
+
 2020 records:
-(Coming soon!)
+
+ * K - Gr 1: 95
+ * Gr 2-3: 259
+ * Gr 4-6: 525
+ * Gr 7-12: 379
 
 All-time records:
-(Coming soon!)
+
+ * K - Gr 1: 95 (2020)
+ * Gr 2-3: 259 (2020)
+ * Gr 4-6: 525 (2020)
+ * Gr 7-12: 1309 (2017)
 
 
 ### &pi; digit sheets
