@@ -10,17 +10,17 @@ Gr 7-12
 
 2020 records:
 
- * K - Gr 1: 95
- * Gr 2-3: 259
- * Gr 4-6: 525
- * Gr 7-12: 379
+ * K - Gr 1: Basil - 95
+ * Gr 2-3: Jeffery - 259
+ * Gr 4-6: Jeena - 525
+ * Gr 7-12: Emiri - 379
 
 All-time records:
 
- * K - Gr 1: 95 (2020)
- * Gr 2-3: 259 (2020)
- * Gr 4-6: 525 (2020)
- * Gr 7-12: 1309 (2017)
+ * K - Gr 1: Basil - 95 (2020)
+ * Gr 2-3: Jeffery - 259 (2020)
+ * Gr 4-6: Jeena - 525 (2020)
+ * Gr 7-12: Brian - 1309 (2017)
 
 
 ### &pi; digit sheets
