@@ -4,7 +4,7 @@
 2020 records:
 (Coming soon!)
 
-Renert all-time records:
+All-time records:
 (Coming soon!)
 
 
