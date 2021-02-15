@@ -7,7 +7,7 @@
         Prior each session you will have to solve the contest form (link below) that we are using for the specific session according to your grade level. You also will have to put your answer in the bubble sheet (see link below). You won't be evaluated based on your answers but they will help the instructors during the class to figure out which questions the focus will be.
       </ul> 
     </p>
-  </div>
+ 
 
 
 
