@@ -50,5 +50,4 @@
          <li> Grade 5-6  </li>
       </ul> 
     </p>
-      </div>
   
