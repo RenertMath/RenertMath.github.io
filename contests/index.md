@@ -41,7 +41,7 @@
          <li> Grade 5-6:  </li>
       </ul> 
     </p>
-    
+      </div>
     <div class="column">
     <h4> Session 2 - March 20 </h4>
    <p>
@@ -51,6 +51,6 @@
          <li> Grade 5-6  </li>
       </ul> 
     </p>
-    
+      </div>
     
   </div>
