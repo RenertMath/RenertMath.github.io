@@ -8,9 +8,6 @@
       </ul> 
     </p>
  
-
-
-
 <div class="row">
     <h4> Session 1 - February 27 </h4>
    <p>
