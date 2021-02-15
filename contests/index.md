@@ -5,8 +5,7 @@
       <ul>
          Renert School students and Brigth Minds from grade 1 to grade 6 will be offered training sessions to Renert's FIRST Math Contest! Sessions will run ons Saturdays at xxxx  from February 27 to March...
        
-      </ul> 
-    </p>
+      
   </div>
   <br> 
 
@@ -20,8 +19,7 @@
         <li> Grade 3-4 </li>
         <li> Grade5-6 </li>
        
-      </ul> 
-    </p>
+   
   </div>
   
 
