@@ -31,6 +31,7 @@
          <li> Grade 5-6:  <a href="https://github.com/RenertMath/RenertMath.github.io/blob/master/contests/CESMC-2012-Level-2-Mar6.pdf" target="_blank">CESMC Level 2 2012 </a>  //  <a href="https://forms.gle/5YnJiQZamimXmRTh6" target="_blank">Bubble Sheet</a> </li>
       </ul> 
     </p>
+      </div>
     
     <div class="column">
     <h4> Session 2 - March 13 </h4>
