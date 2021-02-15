@@ -40,6 +40,16 @@
 
 ---
 
+<div class="row">
+  <div class="column">
+    <h2> Contests </h2>
+    <p>
+      <ul>
+        <li> <a href="https://MerrickMath.github.io"> Mr. Merrick </a>  </li>
+        <li> <a href="https://vchan2.github.io"> Dr. Vince </a>  </li>
+      </ul> 
+    </p>
+  </div>
 
 
 
