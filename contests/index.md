@@ -20,6 +20,6 @@
         <li> Grade5-6 </li>
           </ul> 
     </p>
-  </div>
+  </div>  </div>
   
- 
+   </div>
