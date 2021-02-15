@@ -44,4 +44,4 @@
         <li><a href="https://www.mathplayground.com"> Math Playground </a> </li>
       </ul> 
     </p>
-  </div>  </div>
+  </div>
