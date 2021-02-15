@@ -31,8 +31,7 @@
       </ul> 
     </p>
     
-    
-    <div class="row">
+  <div class="row">
     <h4> Session 3 - March 13 </h4>
    <p>
       <ul>
@@ -41,7 +40,7 @@
          <li> Grade 5-6:  </li>
       </ul> 
     </p>
-      </div>
+     
     <div class="row">
     <h4> Session 4 - March 20 </h4>
    <p>
