@@ -14,12 +14,9 @@
     <p>
       <ul>
        
-        <li> Grade 1-2:  <a href="https://github.com/RenertMath/RenertMath.github.io/blob/master/contests/CESMC-2012-Level-1-Mar6.pdf" target="_blank">Kangararoo 2016 </a>  //  <a href="https://forms.gle/5YnJiQZamimXmRTh6" target="_blank">Bubble Sheet</a>  </li> 
-        
-        <li> Grade 3-4 </li>
+        <li> Grade 1-2:  <a href="https://github.com/RenertMath/RenertMath.github.io/blob/master/contests/CESMC-2012-Level-1-Mar6.pdf" target="_blank">Kangararoo 2016 </a>  //  <a href="https://forms.gle/5YnJiQZamimXmRTh6" target="_blank">Bubble Sheet</a></li> 
+         <li> Grade 3-4 </li>
         <li> Grade5-6 </li>
           </ul> 
     </p>
-  </div>  </div>
   
-   </div>
