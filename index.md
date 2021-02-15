@@ -1,6 +1,5 @@
 *"The enchanting charms of this sublime science reveal only to those who have the courage to go deeply into it."* - Carl Friedrich Gauss 
 
-
 <div class="row">
   <div class="column">
     <h2> Teacher Pages </h2>
@@ -29,9 +28,8 @@
         <li><a href="https://renertmath.github.io/contests" target="_blank"> Training Sessions </a> </li>
         <li>Renert School Contest 2021 </li>
         <li>Other Contests info </li>
-            </ul> 
+      </ul> 
     </p>
-  </div>
 </div>
  <div class="column">
     <h2> Cool Stuff </h2>
