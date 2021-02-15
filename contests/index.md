@@ -41,7 +41,7 @@
       </ul> 
     </p>
      
-    <div class="row">
+   <div class="row">
     <h4> Session 4 - March 20 </h4>
    <p>
       <ul>
@@ -51,3 +51,4 @@
       </ul> 
     </p>
   
+</div>
