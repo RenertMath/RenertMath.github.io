@@ -3,7 +3,7 @@
     <h2> Renert  Contest - Training Sessions </h2>
     <p>
       <ul>
-        Renert School students and Brigth Minds from grade 1 to grade 6 will be offered training sessions to Renert's FIRST Math Contest! Sessions will run ons Saturdays at xxxx  from February 27 to March...
+        Renert School and Brigth Minds student from grade 1 to grade 6 will be offered training sessions to Renert's FIRST Math Contest! Sessions will run ons Saturdays at xxxx  from February 27 to March...
         Prior each session you will have to solve the contest form (link below) that we are using for the specific session according to your grade level. You also will have to put your answer in the bubble sheet (see link below). You won't be evaluated based on your answers but they will help the instructors during the class to figure out which questions the focus will be.
       </ul> 
     </p>
