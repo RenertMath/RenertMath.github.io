@@ -40,22 +40,15 @@
 
 ---
 
-<div class="row">
-  <div class="column">
-    <h2> Contests </h2>
-    <p>
-      <ul>
-        <li> <a href="https://MerrickMath.github.io"> Mr. Merrick </a>  </li>
-        <li> <a href="https://vchan2.github.io"> Dr. Vince </a>  </li>
-      </ul> 
-    </p>
-  </div>
  <div class="column">
     <h2> Cool Stuff </h2>
     <p>
       <ul>
-       
-        <li>xxx </li>
+        <li><a href="https://renertmath.github.io/pi">pi</a></li>
+        <li><a href="https://www.3blue1brown.com"> 3 Blue 1 Brown </a> </li>
+        <li><a href="https://krazydad.com/tablet/puzzles.php"> Krazy Dad Interactive Puzzles </a> </li>
+        <li><a href="https://mathpickle.com"> Math Pickle </a> </li>
+        <li><a href="https://www.mathplayground.com"> Math Playground </a> </li>
       </ul> 
     </p>
   </div>
