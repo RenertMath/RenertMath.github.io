@@ -11,7 +11,6 @@
       </ul> 
     </p>
   </div>
-  
   <div class="column">
     <h2> Challenges </h2>
     <p>
@@ -23,7 +22,6 @@
       </ul> 
     </p>
   </div>
-  
   <div class="column">
     <h2> Contests </h2>
     <p>
@@ -35,7 +33,6 @@
     </p>
   </div>
 </div>
-
  <div class="column">
     <h2> Cool Stuff </h2>
     <p>
@@ -47,7 +44,4 @@
         <li><a href="https://www.mathplayground.com"> Math Playground </a> </li>
       </ul> 
     </p>
-  </div>
-  
----
-
+  </div>  </div>
