@@ -1,5 +1,22 @@
-
+<div class="row">
   <div class="column">
+    <h2> Teacher Pages </h2>
+    <p>
+      <ul>
+        <li> <a href="https://MerrickMath.github.io"> Mr. Merrick </a>  </li>
+        <li> <a href="https://vchan2.github.io"> Dr. Vince </a>  </li>
+      </ul> 
+    </p>
+  </div>
+  
+
+</div>
+
+ 
+---
+
+
+<div class="column">
     <h2> Renert  Contest - Training Sessions </h2>
     <p>
       <ul>
