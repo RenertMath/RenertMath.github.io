@@ -1,4 +1,4 @@
-<div class="row">
+
   <div class="column">
     <h2> Renert  Contest - Training Sessions </h2>
     <p>
