@@ -1,60 +1,32 @@
-
 <div class="row">
   <div class="column">
-    <h2> Renert Training Sessions </h2>
+    <h2> Renert  Contest - Training Sessions </h2>
     <p>
       <ul>
-         Renert School students and Brigth Minds will be offered to Training Sessions to Renert's first Math Contest! Sessions will run ons Saturdays xxxx
-        <li> <a href="https://vchan2.github.io"> Dr. Vince </a>  </li>
+         Renert School students and Brigth Minds from grade 1 to grade 6 will be offered training sessions to Renert's FIRST Math Contest! Sessions will run ons Saturdays at xxxx  from February 27 to March...
+        
+        The contest will happen xxxx
+        
+        
+      
       </ul> 
     </p>
   </div>
-  
-  <div class="column">
-    <h2> Challenges </h2>
-    <p>
-      <ul>
-        <li> <a href="https://tinyurl.com/2020renertpumpkin"> Pumpkin BOMB Challenge </a>  </li>
-        <li> <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonChallenge/"> Pokemon Challenge</a>  </li>
-        <li> <a href="https://renertmath.github.io/RenertMath-CelebrateMath/"> COL Math Challenge 2019/2020 </a>  </li>
-        <li> <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> 2020-21 Winter Break math challenges </a> (<a href="https://vchan2.github.io/Challenges/2020-21Winter_Break_winners.pdf">Results</a>)</li>
-      </ul> 
-    </p>
-  </div>
-  
-  <div class="column">
-    <h2> Cool Stuff </h2>
-    <p>
-      <ul>
-        <li><a href="https://renertmath.github.io/pi">pi</a></li>
-        <li><a href="https://www.3blue1brown.com"> 3 Blue 1 Brown </a> </li>
-        <li><a href="https://krazydad.com/tablet/puzzles.php"> Krazy Dad Interactive Puzzles </a> </li>
-        <li><a href="https://mathpickle.com"> Math Pickle </a> </li>
-        <li><a href="https://www.mathplayground.com"> Math Playground </a> </li>
-      </ul> 
-    </p>
-  </div>
-</div>
+  <br> 
 
----
-
-<div class="row">
   <div class="column">
-    <h2> Contests </h2>
+    <h4>Session 1 - February 27 </h4>
     <p>
       <ul>
-        <li> <a href="https://MerrickMath.github.io"> Mr. Merrick </a>  </li>
-        <li> <a href="https://vchan2.github.io"> Dr. Vince </a>  </li>
-      </ul> 
-    </p>
-  </div>
- <div class="column">
-    <h2> Cool Stuff </h2>
-    <p>
-      <ul>
+        Prior the session you will have to solve the contest (link below) that we are using for the specific session according to your grade level. You also will have to put your answer in the bubble sheet (see link below). You won't be evaluated based on your answers but they will help the instructors during the class to figure out which questions the focus will be.
+        <br><br>
+        <li> Grade 1-2:   </li>
+        <li> Grade 3-4 </li>
+        <li> Grade5-6 </li>
        
-        <li>xxx </li>
       </ul> 
     </p>
   </div>
-</div>
+  
+
+
