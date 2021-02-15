@@ -29,7 +29,7 @@
     <p>
       <ul>
         <li>Training Sessions</li>
-        <li><a href="https://www.3blue1brown.com"> Contests xxx </a> </li>
+        <li>Contests</a> </li>
             </ul> 
     </p>
   </div>
