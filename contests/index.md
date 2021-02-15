@@ -9,6 +9,10 @@
       </ul> 
     </p>
  </div>
+   </div>
+  </div>
+  </div>
+
 <div class="row">
     <h4> Session 1 - February 27 </h4>
    <p>
@@ -49,6 +53,4 @@
       </ul> 
     </p>
       </div>
-    </div>
-  </div>
-  </div>
+  
