@@ -32,7 +32,7 @@
       </ul> 
     </p>
     <div class="column">
-    <h4> Session 2 - March 13 </h4>
+    <h4> Session 3 - March 13 </h4>
    <p>
       <ul>
         <li> Grade 1-2: </li>
@@ -42,7 +42,7 @@
     </p>
       </div>
     <div class="column">
-    <h4> Session 2 - March 20 </h4>
+    <h4> Session 4 - March 20 </h4>
    <p>
       <ul>
         <li> Grade 1-2  </li>
