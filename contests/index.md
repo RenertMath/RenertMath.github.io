@@ -1,5 +1,5 @@
 <div class="row">
-  <div class="column">
+
     <h2> Renert  Contest - Training Sessions </h2>
     <p>
       <ul>
@@ -11,7 +11,7 @@
 </div>
 
 
-<div class="column">
+<div class="row">
     <h4> Session 1 - February 27 </h4>
    <p>
       <ul>
@@ -22,7 +22,7 @@
     </p>
   
         
-<div class="column">
+<div class="row">
     <h4> Session 2 - March 6 </h4>
    <p>
       <ul>
@@ -31,7 +31,7 @@
          <li> Grade 5-6:  <a href="https://github.com/RenertMath/RenertMath.github.io/blob/master/contests/CESMC-2012-Level-2-Mar6.pdf" target="_blank">CESMC Level 2 2012 </a>  //  <a href="https://forms.gle/5YnJiQZamimXmRTh6" target="_blank">Bubble Sheet</a> </li>
       </ul> 
     </p>
-    <div class="column">
+    <div class="row">
     <h4> Session 3 - March 13 </h4>
    <p>
       <ul>
@@ -41,7 +41,7 @@
       </ul> 
     </p>
       </div>
-    <div class="column">
+    <div class="row">
     <h4> Session 4 - March 20 </h4>
    <p>
       <ul>
