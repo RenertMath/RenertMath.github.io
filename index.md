@@ -28,13 +28,13 @@
     <h2> Contests </h2>
     <p>
       <ul>
-        <li>Training Sessions</li>
-        <li>Contests</a> </li>
+        <li><a href="https://github.com/RenertMath/RenertMath.github.io/blob/master/contests/index.md" target="_blank"> Training Sessions </a> </li>
+        <li>Renert School Contest 2021 </li>
+        <li>Other Contests info </li>
             </ul> 
     </p>
   </div>
 </div>
-
 
  <div class="column">
     <h2> Cool Stuff </h2>
