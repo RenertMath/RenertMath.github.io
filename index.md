@@ -26,8 +26,8 @@
     <p>
       <ul>
         <li><a href="https://renertmath.github.io/contests" target="_blank"> Training Sessions </a> </li>
-        <li>Renert School Contest 2021 </li>
-        <li>Other Contests info </li>
+        <li>Renert School Elementary Math Contest 2021 - info to come </li>
+        <li>Other Contests </li>
       </ul> 
     </p>
 </div></div>
