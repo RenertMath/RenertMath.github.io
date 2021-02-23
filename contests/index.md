@@ -2,12 +2,12 @@
       <h2> Renert  Contest - Training Sessions </h2>
    <p>
       <ul>
-         Renert School and Bright Minds elementary school students (Grades 1-6) are invited to participate in Renert's FIRST EVER Elementary School Math Contest. Training sessions will run over 4 Saturdays at 3:00 from February 27 to March 20, with the contest itself written on Friday, March 26 (Renert School studnets), and March 27 (Bright Minds students). Training sessions are 45 minutes long for grade 1-2 students, and an hour long for grade 3-6 students.
+         Renert School and Bright Minds elementary school students (Grades 1-6) are invited to participate in Renert's FIRST EVER Elementary School Math Contest. Training sessions will run over 4 Saturdays at 3:00 from February 27 to March 20, with the contest itself written on Friday, March 26 (Renert School students), and March 27 (Bright Minds students). Training sessions are 45 minutes long for grade 1-2 students, and an hour long for grade 3-6 students.
         In order to attend a training session, you MUST:
             <li> Solve the contest form (link below) that we will take up at the session according to your grade level. Please do your best. It is OK not to answer a question at all if you do not know how to do it.</li> 
             <li> Fill the bubble sheet (see link below) with your answers.</li>
             <li > Submit the answers by Saturday (training day) at 10:00.</li>
-            Your answers will help the instructors decide what to go over in class, and which questions the focus on.
+            Your answers will help the instructors decide what to go over in class, and which questions to focus on.
       </ul> 
     </p>
 
@@ -21,34 +21,3 @@
       </ul> 
     </p>
   
-<div class="row">
-    <h4> Session 2 - March 6 </h4>
-   <p>
-      <ul>
-        <li> Grade 1-2:  <a href="https://renertmath.github.io/contests/Kangaroo%202017%20G12%20Mar6.pdf" target="_blank">Kangararoo 2017</a>  //  <a href="https://forms.gle/5YnJiQZamimXmRTh6" target="_blank">Bubble Sheet</a> MAKE NEW</li>
-        <li> Grade 3-4: <a href="https://renertmath.github.io/contests/CESMC-2012-Level-1-Mar6.pdf" target="_blank">CESMC Level 1 2012</a>  //  <a href="https://forms.gle/5YnJiQZamimXmRTh6" target="_blank">Bubble Sheet</a> </li>
-         <li> Grade 5-6: <a href="https://renertmath.github.io/contests/CESMC-2012-Level-2-Mar6.pdf" target="_blank">CESMC Level 2 2012 </a>  //  <a href="https://forms.gle/5YnJiQZamimXmRTh6" target="_blank">Bubble Sheet</a> </li>
-      </ul> 
-    </p>
-    
-  <div class="row">
-    <h4> Session 3 - March 13 </h4>
-   <p>
-      <ul>
-        <li> Grade 1-2: </li>
-        <li> Grade 3-4:   </li>
-         <li> Grade 5-6:  </li>
-      </ul> 
-    </p>
-     
-   <div class="row">
-    <h4> Session 4 - March 20 </h4>
-   <p>
-      <ul>
-        <li> Grade 1-2  </li>
-        <li> Grade 3-4  </li>
-         <li> Grade 5-6  </li>
-      </ul> 
-    </p>
-  
-</div>
