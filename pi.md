@@ -1,5 +1,16 @@
 ### Renert pi Day challenge 2021
-(Coming soon!)
+
+The finals will take place on Monday, March 15, where finalists will be gathered together to compete. The competition will be streamed live via zoom to all math classes during that period. To qualify for the finals, we will consider the 20 students with the highest number of digits recited during qualifiers, or all those who have a higher number than the cut-offs below (whichever is fewer):
+ * K-Gr 1: 30 digits
+ * Gr 2-3: 100 digits
+ * Gr 4-6: 150 digits
+ * Gr 7-12: 150 digits
+So, if there are 25 students in grades 4-6 who recited more than 150 digits during qualifiers, the top 20 students will participate in the finals. 
+
+Prizes: 
+ * 1 mini-bag of skittles for every 50 digits recited
+ * A Kinder egg for the first 100 digits (K-div 1) or 200 digits (div 2+)
+ * 1 Kinder egg may be traded for 4 mini-bags of skittles
 
 <!--
 K - Gr 1
