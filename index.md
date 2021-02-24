@@ -31,6 +31,7 @@
       </ul> 
     </p>
 </div></div>
+
  <div class="column">
     <h2> Cool Stuff </h2>
     <p>
