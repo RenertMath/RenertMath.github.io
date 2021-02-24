@@ -5,7 +5,8 @@ The finals will take place on Monday, March 15, where finalists will be gathered
  * Gr 2-3: 100 digits
  * Gr 4-6: 150 digits
  * Gr 7-12: 150 digits
-So, if there are 25 students in grades 4-6 who recited more than 150 digits during qualifiers, the top 20 students will participate in the finals. 
+
+For example, if there are 25 students in grades 4-6 who recited more than 150 digits during qualifiers, the top 20 students will participate in the finals. 
 
 Prizes: 
  * 1 mini-bag of skittles for every 50 digits recited
