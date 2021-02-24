@@ -1,5 +1,5 @@
 <div class="row">
-      <h2> Renert School Elementary Math Contest <b>RSEMC</b> <br> Training Sessions </h2>
+      <h2> Renert School Elementary Math Contest -<b>RSEMC</b> <br> Training Sessions </h2>
    <p>
       <ul>
          Renert School and Bright Minds elementary school students (Grades 1-6) are invited to participate in Renert's FIRST EVER Elementary School Math Contest (RSEMC). Training sessions will run over 4 Saturdays at 3:00 from February 27 to March 20, with the contest itself written on Friday, March 26 (Renert School students), and March 27 (Bright Minds students). Training sessions are 45 minutes long for grade 1-2 students, and an hour long for grade 3-6 students.
