@@ -19,6 +19,6 @@
         <li> Grade 3-4:  <a href="https://renertmath.github.io/contests/Kangaroo%202016%20G34%20Feb27.pdf" target="_blank">Kangararoo 2016 </a>  //  <a href="https://forms.gle/5YnJiQZamimXmRTh6" target="_blank">Bubble Sheet</a> </li>
          <li> Grade 5-6:  <a href="https://renertmath.github.io/contests/Kangaroo%202016%20G56%20Feb27.pdf" target="_blank">Kangararoo 2016 </a>  //  <a href="https://forms.gle/5YnJiQZamimXmRTh6" target="_blank">Bubble Sheet</a> </li>
       </ul> 
-      After you submit the form you will receive an email with a zoom invitation to which room to go. <br> Be patient because the email will be sent up to 3 hours previous to the training session!
+      <b>After</b> you submit the form you will receive an <b>email</b> with a <b>zoom invitation</b> to which room to go. <br><b> Be patient</b> because the email will be sent up to 3 hours previous to the training session!
     </p>
   
