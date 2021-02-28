@@ -7,10 +7,10 @@
             <li> Solve the contest form (link below) that we will take up at the session according to your grade level. Please do your best. It is OK not to answer a question at all if you do not know how to do it.</li> 
             <li> Fill the bubble sheet (see link below) with your answers.</li>
             <li > Submit the answers by Friday at (to be decided)</li>
-            <font size="3">Your answers will help the instructors decide what to go over in class, and which questions to focus on.</font>  </p>
+            <font size="3">Your answers will help the instructors decide what to go over in class, and which questions to focus on.</font> 
            <br> If you have any questions please contact <b>admin@calgarybrightminds.com</b>
       </ul>     
-  
+   </p>
    
     <div class="row">
     <h4> Session 2 - March 6 </h4>
