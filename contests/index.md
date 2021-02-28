@@ -33,5 +33,3 @@
          <li> Grade 5-6:  <a href="https://renertmath.github.io/contests/Kangaroo%202016%20G56%20Feb27.pdf" target="_blank">Kangararoo 2016 </a>  //  <a href="https://renertmath.github.io/contests/2016gr0506eKEY%20only.pdf" target="_blank">Answer Key</a> </li>
       </ul> 
        </p>
-  
-    </ul> 
