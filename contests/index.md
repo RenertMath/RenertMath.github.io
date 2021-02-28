@@ -8,7 +8,7 @@
             <li> Fill the bubble sheet (see link below) with your answers.</li>
             <li > Submit the answers by Friday at (to be decided)</li>
             <font size="3">Your answers will help the instructors decide what to go over in class, and which questions to focus on.</font> 
-            </p>
+          
           <p>  If you have any questions please contact <b>admin@calgarybrightminds.com</b>
       </ul>     
    </p>
