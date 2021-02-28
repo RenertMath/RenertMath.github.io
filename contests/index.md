@@ -8,11 +8,10 @@
             <li> Fill the bubble sheet (see link below) with your answers.</li>
             <li > Submit the answers by Saturday (training day) at 10:00.</li>
             Your answers will help the instructors decide what to go over in class, and which questions to focus on.
-      </ul> 
-      <br><br>
-      <li>If you have any questions please contact admin@calgarybrightminds.com</li>
+            <li>If you have any questions please contact admin@calgarybrightminds.com</li>
+      </ul>     
     </p>
-    
+   
     <div class="row">
     <h4> Session 2 - March 6 </h4>
    <p>
