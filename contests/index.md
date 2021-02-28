@@ -17,11 +17,12 @@
     <h4> Session 2 - March 6 </h4>
    <p>
       <ul>
-        <li> Grade 1-2:  <a href="https://renertmath.github.io/contests/Kangaroo%202016%20G12%20Feb%2027.pdf" target="_blank">Kangararoo 2016 </a>  //  <a href="https://renertmath.github.io/contests/2016gr0102eKEY%20only.pdf" target="_blank">Answer Key</a></li>
-        <li> Grade 3-4:  <a href="https://renertmath.github.io/contests/Kangaroo%202016%20G34%20Feb27.pdf" target="_blank">Kangararoo 2016 </a>  //  <a href="https://renertmath.github.io/contests/2016gr0304eKEY%20only.pdf" target="_blank">Answer Key</a> </li>
-         <li> Grade 5-6:  <a href="https://renertmath.github.io/contests/Kangaroo%202016%20G56%20Feb27.pdf" target="_blank">Kangararoo 2016 </a>  //  <a href="https://renertmath.github.io/contests/2016gr0506eKEY%20only.pdf" target="_blank">Answer Key</a> </li>
+        <li> Grade 1-2:  <a href="https://renertmath.github.io/contests/Kangaroo%202016%20G12%20Feb%2027.pdf" target="_blank">Kangararoo 2017 </a>  //  <a href="https://renertmath.github.io/contests/Kangaroo%202017%20G12%20Mar6.pdf" target="_blank">XX</a></li>
+        <li> Grade 3-4:  <a href="https://renertmath.github.io/contests/CESMC-2012-Level-1-Contest-Paper.pdf" target="_blank">CESMC-2012-Level-1 </a>  //  <a href="https://renertmath.github.io/contests/2016gr0304eKEY%20only.pdf" target="_blank">xx</a> </li>
+         <li> Grade 5-6:  <a href="https://renertmath.github.io/contests/CESMC-2012-Level-2-Mar6.pdf" target="_blank">CESMC-2012-Level-2 </a>  //  <a href="https://renertmath.github.io/contests/CESMC-2012-Level-2-Contest-Paper.pdf" target="_blank">xx</a> </li>
+      
+      You will receive an <b>email</b> with a <b>zoom invitation</b> to which room to go only <b>after</b> sending your answer through the bubble sheet (google form). <br><b> Be patient</b> because the email will be sent up to 3 hours previous to the training session! 
       </ul> 
-      <b>After</b> you submit the form you will receive an <b>email</b> with a <b>zoom invitation</b> to which room to go. <br><b> Be patient</b> because the email will be sent up to 3 hours previous to the training session!
        </p>
 
 <div class="row">
@@ -32,6 +33,5 @@
         <li> Grade 3-4:  <a href="https://renertmath.github.io/contests/Kangaroo%202016%20G34%20Feb27.pdf" target="_blank">Kangararoo 2016 </a>  //  <a href="https://renertmath.github.io/contests/2016gr0304eKEY%20only.pdf" target="_blank">Answer Key</a> </li>
          <li> Grade 5-6:  <a href="https://renertmath.github.io/contests/Kangaroo%202016%20G56%20Feb27.pdf" target="_blank">Kangararoo 2016 </a>  //  <a href="https://renertmath.github.io/contests/2016gr0506eKEY%20only.pdf" target="_blank">Answer Key</a> </li>
       </ul> 
-      <b>After</b> you submit the form you will receive an <b>email</b> with a <b>zoom invitation</b> to which room to go. <br><b> Be patient</b> because the email will be sent up to 3 hours previous to the training session!
        </p>
   
