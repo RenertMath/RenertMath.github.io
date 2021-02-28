@@ -9,7 +9,20 @@
             <li > Submit the answers by Saturday (training day) at 10:00.</li>
             Your answers will help the instructors decide what to go over in class, and which questions to focus on.
       </ul> 
+      <br><br>
+      <li>If you have any questions please contact admin@calgarybrightminds.com</li>
     </p>
+    
+    <div class="row">
+    <h4> Session 2 - March 6 </h4>
+   <p>
+      <ul>
+        <li> Grade 1-2:  <a href="https://renertmath.github.io/contests/Kangaroo%202016%20G12%20Feb%2027.pdf" target="_blank">Kangararoo 2016 </a>  //  <a href="https://renertmath.github.io/contests/2016gr0102eKEY%20only.pdf" target="_blank">Answer Key</a></li>
+        <li> Grade 3-4:  <a href="https://renertmath.github.io/contests/Kangaroo%202016%20G34%20Feb27.pdf" target="_blank">Kangararoo 2016 </a>  //  <a href="https://renertmath.github.io/contests/2016gr0304eKEY%20only.pdf" target="_blank">Answer Key</a> </li>
+         <li> Grade 5-6:  <a href="https://renertmath.github.io/contests/Kangaroo%202016%20G56%20Feb27.pdf" target="_blank">Kangararoo 2016 </a>  //  <a href="https://renertmath.github.io/contests/2016gr0506eKEY%20only.pdf" target="_blank">Answer Key</a> </li>
+      </ul> 
+      <b>After</b> you submit the form you will receive an <b>email</b> with a <b>zoom invitation</b> to which room to go. <br><b> Be patient</b> because the email will be sent up to 3 hours previous to the training session!
+       </p>
 
 <div class="row">
     <h4> Session 1 - February 27 </h4>
@@ -17,12 +30,8 @@
       <ul>
         <li> Grade 1-2:  <a href="https://renertmath.github.io/contests/Kangaroo%202016%20G12%20Feb%2027.pdf" target="_blank">Kangararoo 2016 </a>  //  <a href="https://renertmath.github.io/contests/2016gr0102eKEY%20only.pdf" target="_blank">Answer Key</a></li>
         <li> Grade 3-4:  <a href="https://renertmath.github.io/contests/Kangaroo%202016%20G34%20Feb27.pdf" target="_blank">Kangararoo 2016 </a>  //  <a href="https://renertmath.github.io/contests/2016gr0304eKEY%20only.pdf" target="_blank">Answer Key</a> </li>
-         
          <li> Grade 5-6:  <a href="https://renertmath.github.io/contests/Kangaroo%202016%20G56%20Feb27.pdf" target="_blank">Kangararoo 2016 </a>  //  <a href="https://renertmath.github.io/contests/2016gr0506eKEY%20only.pdf" target="_blank">Answer Key</a> </li>
-        
       </ul> 
       <b>After</b> you submit the form you will receive an <b>email</b> with a <b>zoom invitation</b> to which room to go. <br><b> Be patient</b> because the email will be sent up to 3 hours previous to the training session!
-    <br><br>
-      <li>If you have any questions please contact admin@calgarybrightminds.com</li>
-    </p>
+       </p>
   
