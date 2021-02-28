@@ -17,12 +17,12 @@
    <p>
       <ul>
         <li> Grade 1-2:  <a href="https://renertmath.github.io/contests/Kangaroo%202017%20G12%20Mar6.pdf" target="_blank">Kangararoo 2017 </a>  // <a href="https://renertmath.github.io/contests/Coming%20Soon.pdf" target="_blank">Bubble Sheet</a> to submit your answers - <font size="3" color="red">coming soon!</font></li> 
-        <li> Grade 3-4:  <a href="https://renertmath.github.io/contests/CESMC-2012-Level-1-Contest-Paper.pdf" target="_blank">CESMC-2012-Level-1 </a>  // <a href="https://renertmath.github.io/contests/Coming%20Soon.pdf" target="_blank">Bubble Sheet</a> to submit your answers - coming soon!</li> 
-         <li> Grade 5-6:  <a href="https://renertmath.github.io/contests/CESMC-2012-Level-2-Contest-Paper.pdf" target="_blank">CESMC-2012-Level-2 </a>  //  <a href="https://renertmath.github.io/contests/Coming%20Soon.pdf" target="_blank">Bubble Sheet</a> to submit your answers - coming soon!</li> 
-   <br>  
+        <li> Grade 3-4:  <a href="https://renertmath.github.io/contests/CESMC-2012-Level-1-Contest-Paper.pdf" target="_blank">CESMC-2012-Level-1 </a>  // <a href="https://renertmath.github.io/contests/Coming%20Soon.pdf" target="_blank">Bubble Sheet</a> to submit your answers - <font size="3" color="red">coming soon!</font></li>
+         <li> Grade 5-6:  <a href="https://renertmath.github.io/contests/CESMC-2012-Level-2-Contest-Paper.pdf" target="_blank">CESMC-2012-Level-2 </a>  // <a href="https://renertmath.github.io/contests/Coming%20Soon.pdf" target="_blank">Bubble Sheet</a> to submit your answers - <font size="3" color="red">coming soon!</font></li>
+    </ul> 
+       </p><br>  
       You will receive an <b>email</b> with a <b>zoom invitation</b> to which room to go only <b>after</b> sending your answer through the bubble sheet. <br><b> Be patient</b> because the email will be sent up to 3 hours previous to the training session! 
-      </ul> 
-       </p>
+     
 
 <div class="row">
     <h4> Session 1 - February 27 </h4>
