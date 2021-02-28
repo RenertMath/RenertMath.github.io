@@ -11,10 +11,10 @@
                </ul>     
    </p>
      If you have any questions please contact <b>admin@calgarybrightminds.com</b>
- 
+ <br><br>
    
     <div class="row">
-    <h4> Session 2 - March 6 </h4>
+    <h4> <b>Session 2 - March 6 </h4><b>
    <p>
       <ul>
         <li> Grade 1-2:  <a href="https://renertmath.github.io/contests/Kangaroo%202017%20G12%20Mar6.pdf" target="_blank">Kangararoo 2017 </a>  // <a href="https://renertmath.github.io/contests/Coming%20Soon.pdf" target="_blank">Bubble Sheet</a> to submit your answers - <font size="3" color="red">coming soon!</font></li> 
