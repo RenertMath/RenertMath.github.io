@@ -1,6 +1,6 @@
 ### Renert pi Day challenge 2021
 
-The finals will take place on Monday, March 15, where finalists will be gathered together to compete. The competition will be streamed live via zoom to all math classes during that period. To be a finalist, you must be in the top 10 of your grade during qualifiers the week before.
+The finals will take place on Monday, March 15, where finalists will be gathered together to compete. The competition will be streamed live via zoom to all math classes during that period. To be a finalist, you must be in the top 10 of your grade (K through grade 6) or division (division 3 and division 4) during qualifiers the week before.
 
 Prizes: 
  * 1 mini-bag of skittles for every 50 digits recited
