@@ -6,7 +6,7 @@
       <br>  In order to attend a training session, you MUST:
             <li> Solve the contest form (link below) that we will take up at the session according to your grade level. Please do your best. It is OK not to answer a question at all if you do not know how to do it.</li> 
             <li> Fill the bubble sheet (see link below) with your answers.</li>
-            <li > Submit the answers by Friday at (to be decided)</li>
+            <li > Submit the answers by <b>Friday at midnight</b></li>
             <font size="3">Your answers will help the instructors decide what to go over in class, and which questions to focus on.</font> 
                </ul>     
    </p>
@@ -17,12 +17,12 @@
     <h4> <b>Session 2 - March 6 </b></h4>
    <p>
       <ul>
-        <li> Grade 1-2:  <a href="https://renertmath.github.io/contests/Kangaroo%202017%20G12%20Mar6.pdf" target="_blank">Kangararoo 2017 </a>  // <a href="https://renertmath.github.io/contests/Coming%20Soon.pdf" target="_blank">Bubble Sheet</a> to submit your answers - <font size="3" color="red">coming soon!</font></li> 
-        <li> Grade 3-4:  <a href="https://renertmath.github.io/contests/CESMC-2012-Level-1-Contest-Paper.pdf" target="_blank">CESMC-2012-Level-1 </a>  // <a href="https://renertmath.github.io/contests/Coming%20Soon.pdf" target="_blank">Bubble Sheet</a> to submit your answers - <font size="3" color="red">coming soon!</font></li>
-         <li> Grade 5-6:  <a href="https://renertmath.github.io/contests/CESMC-2012-Level-2-Contest-Paper.pdf" target="_blank">CESMC-2012-Level-2 </a>  // <a href="https://renertmath.github.io/contests/Coming%20Soon.pdf" target="_blank">Bubble Sheet</a> to submit your answers - <font size="3" color="red">coming soon!</font></li>
+        <li> Grade 1-2:  <a href="https://renertmath.github.io/contests/Kangaroo%202017%20G12%20Mar6.pdf" target="_blank">Kangararoo 2017 </a>  // <a href="https://forms.gle/NGj3eryFdgqXzEuU9" target="_blank">Bubble Sheet</a> to submit your answers - <font size="3" color="red">coming soon!</font></li> 
+        <li> Grade 3-4:  <a href="https://renertmath.github.io/contests/CESMC-2012-Level-1-Contest-Paper.pdf" target="_blank">CESMC-2012-Level-1 </a>  // <a href="https://forms.gle/NGj3eryFdgqXzEuU9" target="_blank">Bubble Sheet</a> to submit your answers - <font size="3" color="red">coming soon!</font></li>
+         <li> Grade 5-6:  <a href="https://renertmath.github.io/contests/CESMC-2012-Level-2-Contest-Paper.pdf" target="_blank">CESMC-2012-Level-2 </a>  // <a href="https://forms.gle/NGj3eryFdgqXzEuU9" target="_blank">Bubble Sheet</a> to submit your answers - <font size="3" color="red">coming soon!</font></li>
     </ul> 
        </p>  
-     <font size="3"> You will receive an <b>email</b> with a <b>zoom invitation</b> to which room to go only <b>after</b> sending your answer through the bubble sheet. <b> Be patient</b> because the email will be sent up to 3 hours previous to the training session! </font>
+     <font size="3"> You will receive an <b>email</b> with a <b>zoom invitation</b> to which room to go only <b>after</b> sending your answer through the bubble sheet. <b> Be patient</b> because the email will be sent up to 1 hour previous to the training session! </font>
 <br>     
 <br>
 <div class="row">
