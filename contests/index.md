@@ -21,7 +21,7 @@
         <li> Grade 3-4:  <a href="https://renertmath.github.io/contests/CESMC-2012-Level-1-Contest-Paper.pdf" target="_blank">CESMC-2012-Level-1 </a>  // <a href="https://forms.gle/NGj3eryFdgqXzEuU9" target="_blank">Bubble Sheet</a> to submit your answers - <font size="3" color="red">coming soon!</font></li>
          <li> Grade 5-6:  <a href="https://renertmath.github.io/contests/CESMC-2012-Level-2-Contest-Paper.pdf" target="_blank">CESMC-2012-Level-2 </a>  // <a href="https://forms.gle/NGj3eryFdgqXzEuU9" target="_blank">Bubble Sheet</a> to submit your answers - <font size="3" color="red">coming soon!</font></li>
     </ul> 
-       </p>  
+    </p>  
      <font size="3"> You will receive an <b>email</b> with a <b>zoom invitation</b> to which room to go only <b>after</b> sending your answer through the bubble sheet. <b> Be patient</b> because the email will be sent up to 1 hour previous to the training session! </font>
 <br>     
 <br>
