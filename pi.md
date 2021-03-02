@@ -14,6 +14,8 @@ Gr 4-6
 Gr 7-12
 -->
 
+Note: all records are counting decimal digits, rather than digits - that is, digits after the decimal place. In this way, 3.141 counts as 3 "digits".
+
 2020 records:
 
  * K - Gr 1: Basil - 95
