@@ -11,10 +11,10 @@
 			 <br><br>
 	Now we need a name for ours. Please tell us your best idea for a name, and a short explanation of why you think it is a good name.
 	<br>
-
+			 </P>
 	      You just need to fill the form that you will find <a href="https://docs.google.com/forms/d/e/1FAIpQLSebOqwJOamz-M8IcdIpuO4ItGLHto4TSuBMfLBbnJwEDxiSRw/viewform?vc=0&c=0&w=1&flr=0&gxids=7628" target="_blank">here</a>.
 	<br>
-	    </P>  </ul>    <p>
+	    </ul>    <p>
 	*The winner, whose idea will be selected, will receive a $50 Gift Certificate to Chapters.
 	        
 	      </p>
