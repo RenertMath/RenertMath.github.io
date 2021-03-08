@@ -26,7 +26,7 @@
     <p>
       <ul>
         <li><a href="https://renertmath.github.io/contests" target="_blank"> Training Sessions </a> </li>
-        <li><b>RESMC</b> Renert Elementary School Math Contest 2021 - <a href="https://renertmath.github.io/contests/nameourcontest" target="_blank" font color="red">NAME OUR CONTES!</a></font> </li>
+        <li><b>RESMC</b> Renert Elementary School Math Contest 2021 - <a href="https://renertmath.github.io/contests/nameourcontest" target="_blank">NAME OUR CONTES!</a></li>
         <li>Other Contests </li>
       </ul> 
     </p>
