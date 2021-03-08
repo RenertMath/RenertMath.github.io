@@ -6,7 +6,7 @@
 	  <br><br>
 	Renert Elementary School Math Contest is searching for a name that is more catchy than “RESMC”. 
 	         With a view of having the RESMC held annually for many years to come, we are looking for a good, catchy name, that will embody the love of math, the love of problem solving and of self improvement. 
-	     <br><br>
+	     <br><br><br>
 	Other math contests are called Kangaroo, Beaver, Caribou, Gauss, Pascal….
 			 <br><br>
 	Now we need a name for ours. Please tell us your best idea for a name, and a short explanation of why you think it is a good name.
