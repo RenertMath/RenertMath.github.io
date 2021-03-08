@@ -34,8 +34,7 @@
          <li> Grade 5-6:  <a href="https://renertmath.github.io/contests/CESMC-2012-Level-2-Contest-Paper.pdf" target="_blank">CESMC-2012-Level-2 </a>  // <a href="https://renertmath.github.io/contests/CESMC-2012-Level-2-Answers.pdf" target="_blank">Answer Key</a> </li>
     </ul> 
     </p>  
-    <br>     
-<br>
+
 <div class="row">
     <h4> Session 1 - February 27 </h4>
    <p>
