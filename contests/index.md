@@ -17,9 +17,9 @@
     <h4> <b>Session 3 - March 13 </b></h4>
    <p>
       <ul>
-        <li> Grade 1-2:  <a href="https://renertmath.github.io/contests/Kangaroo 2018-G12 Mar13.pdf" target="_blank">Kangararoo 2018 </a>  // <a href="https://forms.gle/DwBbPmjQSYYFaNze8" target="_blank">Bubble Sheet</a> coming soon </li> 
-        <li> Grade 3-4:  <a href="https://renertmath.github.io/contests/Math League G4 2018.pdf" target="_blank">Math League G4 2018 </a>  // <a href="https://forms.gle/DwBbPmjQSYYFaNze8" target="_blank">Bubble Sheet</a> coming soon </li>
-         <li> Grade 5-6:  <a href="https://renertmath.github.io/contests/Math League G6 2018.pdf" target="_blank">Math League G6 2018</a>  // <a href="https://forms.gle/DwBbPmjQSYYFaNze8" target="_blank">Bubble Sheet</a> coming soon </li>
+        <li> Grade 1-2:  <a href="https://renertmath.github.io/contests/Kangaroo 2018-G12 Mar13.pdf" target="_blank">Kangararoo 2018 </a>  // <a href="https://forms.gle/DwBbPmjQSYYFaNze8" target="_blank">Bubble Sheet</a> for your answers </li> 
+        <li> Grade 3-4:  <a href="https://renertmath.github.io/contests/Math League G4 2018.pdf" target="_blank">Math League G4 2018 </a>  // <a href="https://forms.gle/DwBbPmjQSYYFaNze8" target="_blank">Bubble Sheet</a> for your answers </li>
+         <li> Grade 5-6:  <a href="https://renertmath.github.io/contests/Math League G6 2018.pdf" target="_blank">Math League G6 2018</a>  // <a href="https://forms.gle/DwBbPmjQSYYFaNze8" target="_blank">Bubble Sheet</a> for your answers </li>
     </ul> 
     </p>  
      <font size="3"> You will receive an <b>email</b> with a <b>zoom invitation</b> to which room to go only <b>after</b> sending your answer through the bubble sheet. <b> Be patient</b> because the email will be sent up to 1 hour previous to the training session! </font>
