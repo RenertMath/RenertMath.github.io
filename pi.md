@@ -7,10 +7,13 @@ Rules:
 - In the interest of time and getting things moving, students will have up to 30 seconds to continue recitation after a pause. After 30 seconds, a gentle encouragement to give their best guess will be given, otherwise it will count as a strike.
 - We are going to be counting *decimal* digits, so that 3.14 will count as 2 (decimal) digits.
 
-Prizes: 
+Prizes: To be determined
+
+<!--
  * 1 mini-bag of skittles for every 50 digits recited
  * A Kinder egg for the first 100 digits (K-div 1) or 200 digits (div 2+)
  * 1 Kinder egg may be traded for 4 mini-bags of skittles
+-->
 
 <!--
 K - Gr 1
