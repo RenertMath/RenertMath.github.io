@@ -15,7 +15,7 @@
        <br><br>  Deadline for registering is midnight on Friday, March 26. Fill out a separate form for each child who wishes to participate.
          Only those that fill out the form will receive instructions regarding how to receive and print the competition form, proctor, and submit the answers (which will come on Saturday). 
   It is best to have a working printer and to print out the questions so students work off of a paper copy.
-         Parents will get access to the contest form 15 minuets prior to 3:00 pm on Saturday. 
+         Parents will get access to the contest form 15 minuets prior to 3:00 pm on Saturday. </li>
          <br><br>
 The length of the contest is 45 minutes long for grades 1-3 and 60 minutes long for grades 4-6.
 <br> <br>
