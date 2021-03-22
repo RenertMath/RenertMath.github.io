@@ -17,15 +17,16 @@
    <p>
       <ul>
         <li> Grade 1-2:  <a href="https://renertmath.github.io/contests/Kangaroo 2015 -G12 Mar20.pdf
-" target="_blank">Kangaroo 2015 </a>  // <a href="https://forms.gle/7fz22WjHqN2kp8Ze6" target="_blank">Bubble Sheet</a> for your answers </li> 
+" target="_blank">Kangaroo 2015 </a>  // <a href="https://renertmath.github.io/contests/Kangaroo 2015 -G12 Mar20 KEY only.pdf
+" target="_blank">Answer Key</a>  </li> 
         <li> Grade 3-4:  <a href="https://renertmath.github.io/contests/Byron-GermainG4 2018.pdf
-" target="_blank">Byron-Germain G4 2018 </a>  // <a href="https://forms.gle/7fz22WjHqN2kp8Ze6" target="_blank">Bubble Sheet</a> for your answers </li>
+" target="_blank">Byron-Germain G4 2018 </a>  // <a href="https://renertmath.github.io/contests/Byron-GermainG4 2018 KEY.pdf
+" target="_blank">Answer Key</a> </li>
          <li> Grade 5-6:  <a href="https://renertmath.github.io/contests/PythagorasG6 2018.pdf
-" target="_blank">Pythagoras G6 2018</a>  // <a href="https://forms.gle/7fz22WjHqN2kp8Ze6" target="_blank">Bubble Sheet</a> for your answers </li>
+" target="_blank">Pythagoras G6 2018</a>  // <a href="https://renertmath.github.io/contests/PythagorasG6 2018 KEY.pdf
+" target="_blank">Answer Key</a></li>
     </ul> 
-    </p>  
-     <font size="3"> You will receive an <b>email</b> with a <b>zoom invitation</b> to which room to go only <b>after</b> sending your answer through the bubble sheet. <b> Be patient</b> because the email will be sent up to 1 hour previous to the training session! </font>
-<br>     
+    </p>      
 <br>
      <div class="row">
     <h4> Session 3 - March 13 </h4>
