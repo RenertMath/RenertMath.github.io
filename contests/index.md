@@ -13,7 +13,7 @@
      If you have any questions please contact <b>admin@calgarybrightminds.com</b>
  <br><br>
    <div class="row">
-    <h4> <b>Session 4 - March 20 </b></h4>
+    <h4> Session 4 - March 20 </h4>
    <p>
       <ul>
         <li> Grade 1-2:  <a href="https://renertmath.github.io/contests/Kangaroo 2015 -G12 Mar20.pdf
@@ -27,7 +27,6 @@
 " target="_blank">Answer Key</a></li>
     </ul> 
     </p>      
-<br>
      <div class="row">
     <h4> Session 3 - March 13 </h4>
    <p>
