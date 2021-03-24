@@ -24,6 +24,16 @@ Gr 7-12
 
 Note: all records are counting decimal digits, rather than digits - that is, digits after the decimal place. In this way, 3.141 counts as 3 "digits".
 
+2021 records:
+ * K: Saanvi - 200
+ * Gr 1: Everett - 190
+ * Gr 2: Kian - 190
+ * Gr 3: Jonathan - 429
+ * Gr 4: Jeffrey - 505
+ * Gr 5: Indy - 460
+ * Gr 6: Matthew - 1176
+ * Gr 7-12: Aydin - 1001
+
 2020 records:
 
  * K - Gr 1: Basil - 95
@@ -33,11 +43,22 @@ Note: all records are counting decimal digits, rather than digits - that is, dig
 
 All-time records:
 
+2021 records:
+ * K: Saanvi - 200 (2021)
+ * Gr 1: Everett - 190 (2021)
+ * Gr 2: Kian - 190 (2021)
+ * Gr 3: Jonathan - 429 (2021)
+ * Gr 4: Jeffrey - 505 (2021)
+ * Gr 5: Jeena - 525 (2020)
+ * Gr 6: Matthew - 1176 (2021)
+ * Gr 7-12: Brian - 1309 (2017)
+
+<!--
  * K - Gr 1: Basil - 95 (2020)
  * Gr 2-3: Jeffery - 259 (2020)
  * Gr 4-6: Jeena - 525 (2020)
  * Gr 7-12: Brian - 1309 (2017)
-
+-->
 
 ### &pi; digit sheets
   * <a href="https://vchan2.github.io/pi/pi_100_10.pdf"> 100 digits, in groups of 5 and lines of 10 </a>
