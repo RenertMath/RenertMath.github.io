@@ -24,7 +24,7 @@
   <div class="column">
     <h2> Contests </h2><p>
       <ul>
-        <li> [General contest information](contest.md)</li>
+        <li> <li> <a href="https://renertmath.github.io/"> General Contest Information </a>  </li></li>
         <!--
         <li><a href="https://renertmath.github.io/contests" target="_blank"> Training Sessions </a> </li>
         <li><b>RESMC</b> Renert Elementary School Math Contest 2021 - <a href="https://renertmath.github.io/contests/nameourcontest" target="_blank">NAME OUR CONTEST</a></li>
