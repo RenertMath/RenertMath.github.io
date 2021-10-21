@@ -9,6 +9,7 @@
         <li> <a href="https://vchan2.github.io"> Dr. Vince </a>  </li>
       </ul> 
     </p>
+  
   </div>
   <div class="column">
     <h2> Challenges </h2>
@@ -20,6 +21,7 @@
         <li> <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> 2020-21 Winter Break math challenges </a> (<a href="https://vchan2.github.io/Challenges/2020-21Winter_Break_winners.pdf">Results</a>)</li>
       </ul> 
     </p>
+    
   </div>
   <div class="column">
     <h2> Contests </h2><p>
