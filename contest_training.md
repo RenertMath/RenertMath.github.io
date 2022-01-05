@@ -4,7 +4,7 @@ Levels 1-2:
   * <a href="https://forms.gle/FvADCXtwoTYSpEec6">Google form for answers</a>
 
 Levels 3-4: 
-  * Sunday, January 9 @ 10:00am  - Session for students working on BM Levels 3-4 
+  * Sunday, January 9 @ 10:00am
   * <a href="https://renertmath.github.io/contests/2015%20-%20CESMC%20Level%202%20-%20test.pdf">2015 CESMC L2 TEST</a>
   * <a href="https://forms.gle/xjBgqwuCa4AvhCvy7">Google form for answers</a>
 
