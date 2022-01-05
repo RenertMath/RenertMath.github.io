@@ -14,6 +14,6 @@ Levels 5-6:
   * <a href="https://forms.gle/Sxc9ngMxj3KakebZ9">Google form for answers</a>
 
 Levels 7+: 
-  * Wednesday, January 12 @ 7:30pm - Session for students working on BM Levels 7 and up (including all D-Level, M10+) 
+  * Wednesday, January 12 @ 7:30pm
   * <a href="https://renertmath.github.io/contests/2015PascalContest.pdf">2015 Pascal TEST</a>
   * <a href="https://forms.gle/9fVFrHfsRBwhpAcb9">Google form for answers</a>
