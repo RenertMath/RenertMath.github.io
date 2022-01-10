@@ -1,5 +1,19 @@
 <b>The forms need to be submitted by 8pm the night before the session</b>
 
+Upcoming sessions (tentative):
+
+Jan 21,22,23,26 
+
+Feb 5,6,7,9
+
+Feb 25,26,27,Mar2
+
+Mar 11,12,13,16
+
+
+
+
+<!--
 Levels 1-2:
   * Friday, January 7 @ 4:45pm
   * <a href="https://renertmath.github.io/contests/Gr%201-2%202013%20with%20No%20solutions.pdf">2013 Gr1-2 Kangaroo TEST</a>
@@ -19,3 +33,5 @@ Levels 7+:
   * Wednesday, January 12 @ 7:30pm
   * <a href="https://renertmath.github.io/contests/2015PascalContest.pdf">2015 Pascal TEST</a>
   * <a href="https://forms.gle/9fVFrHfsRBwhpAcb9">Google form for answers</a> - Submit by 8PM on Tuesday, January 11
+-->
+
