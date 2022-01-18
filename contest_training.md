@@ -11,27 +11,25 @@ Feb 25,26,27,Mar2
 Mar 11,12,13,16
 
 
-
-
 <!--
 Levels 1-2:
   * Friday, January 7 @ 4:45pm
-  * <a href="https://renertmath.github.io/contests/Gr%201-2%202013%20with%20No%20solutions.pdf">2013 Gr1-2 Kangaroo TEST</a>
-  * <a href="https://forms.gle/FvADCXtwoTYSpEec6">Google form for answers</a> - Submit by 8PM on Thursday, January 6
+  * <a href="https://github.com/RenertMath/RenertMath.github.io/blob/master/contests/2014%20-%20Kangaroo%20-%2001-02%20-%20test%20only.pdf">2014 Gr1-2 Kangaroo TEST</a>
+  * <a href="https://https://forms.gle/mfZLdDfB6wazCWyr8">Google form for answers</a> - Submit by 8PM on Thursday, January 20
 
 Levels 3-4: 
-  * Sunday, January 9 @ 10:00am
-  * <a href="https://renertmath.github.io/contests/2015%20-%20CESMC%20Level%202%20-%20test.pdf">2015 CESMC L2 TEST</a>
-  * <a href="https://forms.gle/xjBgqwuCa4AvhCvy7">Google form for answers</a> - Submit by 8PM on Saturday, January 8
+  * Sunday, January 23 @ 10:00am
+  * <a href="https://renertmath.github.io/contests/2015%20-%20CESMC%20Level%202%20-%20test.pdf">2016 Kangaroo G3-4 TEST</a>
+  * <a href="https://forms.gle/xUdqQ46R5rqCveC86">Google form for answers</a> - Submit by 8PM on Saturday, January 22
 
 Levels 5-6: 
-  * Saturday, January 8 @ 1:30pm 
-  * <a href="https://renertmath.github.io/contests/Gr%205-6%202015%20No%20solutions.pdf">2015 Gr5-6 Kangaroo TEST</a>
-  * <a href="https://forms.gle/Sxc9ngMxj3KakebZ9">Google form for answers</a> - Submit by 8PM on Friday, January 7
+  * Saturday, January 22 @ 1:30pm 
+  * <a href="https://github.com/RenertMath/RenertMath.github.io/blob/master/contests/2017Gauss7Contest.pdf">2017 Gauss TEST</a>
+  * <a href="https://forms.gle/UkPQ5WmvP6ph8WCJ6">Google form for answers</a> - Submit by 8PM on Friday, January 21
 
 Levels 7+: 
-  * Wednesday, January 12 @ 7:30pm
-  * <a href="https://renertmath.github.io/contests/2015PascalContest.pdf">2015 Pascal TEST</a>
-  * <a href="https://forms.gle/9fVFrHfsRBwhpAcb9">Google form for answers</a> - Submit by 8PM on Tuesday, January 11
+  * Wednesday, January 26 @ 7:30pm
+  * <a href="https://github.com/RenertMath/RenertMath.github.io/blob/master/contests/2016%20-%20Kangaroo%20-%2009-10%20-%20test%20only.pdf">2016 Kangaroo G9-10 TEST</a>
+  * <a href="https://forms.gle/iTpsjZv7Cb7PBiAX9">Google form for answers</a> - Submit by 8PM on Tuesday, January 25
 -->
 
