@@ -11,7 +11,7 @@ Feb 25,26,27,Mar2
 Mar 11,12,13,16
 
 
-<!--
+
 Levels 1-2:
   * Friday, January 7 @ 4:45pm
   * <a href="https://github.com/RenertMath/RenertMath.github.io/blob/master/contests/2014%20-%20Kangaroo%20-%2001-02%20-%20test%20only.pdf">2014 Gr1-2 Kangaroo TEST</a>
@@ -31,5 +31,4 @@ Levels 7+:
   * Wednesday, January 26 @ 7:30pm
   * <a href="https://github.com/RenertMath/RenertMath.github.io/blob/master/contests/2016%20-%20Kangaroo%20-%2009-10%20-%20test%20only.pdf">2016 Kangaroo G9-10 TEST</a>
   * <a href="https://forms.gle/iTpsjZv7Cb7PBiAX9">Google form for answers</a> - Submit by 8PM on Tuesday, January 25
--->
 
