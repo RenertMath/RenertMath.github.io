@@ -4,7 +4,7 @@ You will receive an email with zoom room and password up to 12 hours prior the s
 Upcoming sessions (tentative): Feb 5,6,7,9  //  Feb 25,26,27,Mar2   // Mar 11,12,13,16
 
 <b>Levels 1-2:</b>
-  * Friday, January 7 @ 4:45pm
+  * Friday, January 21 @ 4:45pm
   * <a href="https://renertmath.github.io/contests/2014%20-%20Kangaroo%20-%2001-02%20-%20test%20only.pdf">2014 Gr1-2 Kangaroo TEST</a>
   * <a href="https://forms.gle/zFFydEF9Lz4ZqfZ98">Google form for answers</a> - Submit by 8PM on Thursday, January 20
 
