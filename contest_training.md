@@ -10,7 +10,7 @@ Upcoming sessions (tentative): Feb 5,6,7,9  //  Feb 25,26,27,Mar2   // Mar 11,12
 
 <b>Levels 3-4:</b> 
   * Sunday, January 23 @ 10:00am
-  * <a href="https://renertmath.github.io/contests/2015%20-%20CESMC%20Level%202%20-%20test.pdf">2016 Kangaroo G3-4 TEST</a>
+  * <a href="https://renertmath.github.io/contests/2016%20-%20Kangaroo%20-%2003-04%20-%20test%20only.pdf">2016 Kangaroo G3-4 TEST</a>
   * <a href="https://forms.gle/QTTuLyY3iJ5XvKN3A">Google form for answers</a> - Submit by 8PM on Saturday, January 22
 
 <b>Levels 5-6: </b>
