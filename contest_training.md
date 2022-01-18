@@ -1,4 +1,4 @@
-<b>The forms need to be submitted by 8pm the night before the session</b>
+<b>The forms need to be submitted by 8pm the night before the session.</b><br>
 You will receive an email with zoom room and password up to 12 hours prior the session. Please wait patiently, check your spam foder and in case you don't get an email contact admin@calgarybrightminds.com
 
 Upcoming sessions (tentative): Feb 5,6,7,9  //  Feb 25,26,27,Mar2   // Mar 11,12,13,16
