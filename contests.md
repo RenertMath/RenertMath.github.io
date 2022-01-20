@@ -6,7 +6,7 @@ A: Here is information about the open math contests available to students at Ren
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7lcUBuR1HVZ6XxfTRk_gzLK78LU6UYHDbAnGDiktswtRV2DjDvLdT7pHU9xoG7D2qVe2Km6x0UiHT/pubhtml?gid=1723870808&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height = "550"></iframe>
 
-Certain contests are invitation-only by the organizer (based on performance on other contests), and are not listed here.
+Certain contests are invitation-only by the organizer (based on performance on other contests), and are not listed here (e.g. AHSMC II and CMO).
 
 <b>Q: How do I register for a contest?</b>
 
