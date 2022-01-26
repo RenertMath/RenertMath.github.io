@@ -5,7 +5,7 @@ Upcoming sessions: Feb 25,26,27,Mar2   // Mar 11,12,13,16
 
 <b>Levels 1-2:</b>
   * Friday, February 4 @ 5:15pm
-  * <a href=" ">Gr1-2</a> <B><font color="red">SOON!</font></B>
+  * <a href=" ">Gr1-2</a> <B><font color="#FF0000">SOON!</font></B>
   * <a href="https://forms.gle/zFFydEF9Lz4ZqfZ98">Google form for answers</a> - Submit by 8PM on Thursday, February 3
 
 <b>Levels 3-4:</b> 
