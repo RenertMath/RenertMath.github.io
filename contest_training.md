@@ -10,17 +10,17 @@ Upcoming sessions: Feb 25,26,27,Mar2   // Mar 11,12,13,16
 
 <b>Levels 3-4:</b> 
   * Saturday, February 5 @ 3:00pm
-  * <a href="">TEST</a> <B><font color="red">SOON!</font></B>
+  * <a href="">TEST</a> <B><font color="#FF0000">SOON!</font></B>
   * <a href="https://forms.gle/QTTuLyY3iJ5XvKN3A">Google form for answers</a> - Submit by 8PM on Friday, February 4
 
 <b>Levels 5-6: </b>
   * Saturday, February 5 @ 1:30pm 
-  * <a href="">TEST</a> <B><font color="red">SOON!</font></B>
+  * <a href="">TEST</a> <B><font color="#FF0000">SOON!</font></B>
   * <a href="https://forms.gle/qXazAG9NwNK4eqS19">Google form for answers</a> - Submit by 8PM on Friday, February 4
 
 <b>Levels 7+:</b> 
   * Wednesday, February 9 @ 7:30pm
-  * <a href="">TEST</a><B><font color="red">SOON!</font></B>
+  * <a href="">TEST</a><B><font color="#FF0000">SOON!</font></B>
   * <a href="https://forms.gle/MiJsVRV9beEeoFeNA">Google form for answers</a> - Submit by 8PM on Tuesday, February 8
 <br>
 <b>Levels 1-2:</b>
