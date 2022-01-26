@@ -23,6 +23,9 @@ Upcoming sessions: Feb 25,26,27,Mar2   // Mar 11,12,13,16
   * <a href="">TEST</a><B><font color="#FF0000">SOON!</font></B>
   * <a href="https://forms.gle/MiJsVRV9beEeoFeNA">Google form for answers</a> - Submit by 8PM on Tuesday, February 8
 <br>
+<br>
+Past Sessions: 
+
 <b>Levels 1-2:</b>
   * Friday, January 21 @ 4:45pm
   * <a href="https://renertmath.github.io/contests/2014 - Kangaroo - 01-02 - test only.pdf">2014 Gr1-2 Kangaroo TEST</a>
