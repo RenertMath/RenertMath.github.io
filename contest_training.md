@@ -1,6 +1,8 @@
 <b>The forms need to be submitted by 8pm the night before the session.</b><br>
 Only AFTER submit your answers through the google form you will receive an email with zoom room and password up to 12 hours prior the session. Please wait patiently, check your spam foder and in case you don't get an email contact admin@calgarybrightminds.com
 
+<b>Students are welcomed to participate in more than one session</b> if they feel comfortable with the level of the contest, and as long as they fill the form with their answers showing that they had attempetd to solve the contest form.
+
 Upcoming sessions: Feb 25,26,27,Mar2   // Mar 11,12,13,16
 
 <b>Levels 1-2:</b>
