@@ -8,25 +8,25 @@ Upcoming sessions: Feb 25,26,27,Mar2   // Mar 11,12,13,16
 <b>Levels 1-2:</b>
   * Friday, February 4 @ 5:12015  Gr 1-2
   * <a href="https://renertmath.github.io/contests/2015 - Kangaroo - 01-02 - test only.pdf">2015 Gr 1-2 Kangaroo</a> 
-  * <a href="https://forms.gle/zFFydEF9Lz4ZqfZ98">Google form for answers</a> - Submit by 8PM on Thursday, February 3
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSeF6Zb6oWBokfcwUK-QBgOaMj8IU7mWGgNDCq2hDcK63yoxIw/viewform">Google form for answers</a> - Submit by 8PM on Thursday, February 3
 
 <b>Levels 3-4:</b> 
   * Saturday, February 5 @ 3:00pm
   * <a href="https://renertmath.github.io/contests/2010 - Pythagoras - prep test.pdf">2010 Pythagoras</a> 
-  * <a href="https://forms.gle/QTTuLyY3iJ5XvKN3A">Google form for answers</a> - Submit by 8PM on Friday, February 4
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSf-KnYXDBj3pWniLNt9r4ewFJzK6-pz6o3bDz87AEladuMnjA/viewform">Google form for answers</a> - Submit by 8PM on Friday, February 4
 
 <b>Levels 5-6: </b>
   * Saturday, February 5 @ 1:30pm 
   * <a href="https://renertmath.github.io/contests/2016Gauss7Contest.pdf">Gauss 2016</a> 
-  * <a href="https://forms.gle/qXazAG9NwNK4eqS19">Google form for answers</a> - Submit by 8PM on Friday, February 4
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSfN3-uWRu1ANYUR0_Jl83EorhIbS-WDhs49_OWyt3ZZ63fxUg/viewform">Google form for answers</a> - Submit by 8PM on Friday, February 4
 
 <b>Levels 7+:</b> 
   * Wednesday, February 9 @ 7:30pm
   * <a href="https://renertmath.github.io/contests/2012CayleyContest.pdf">2012 Caley</a>
-  * <a href="https://forms.gle/MiJsVRV9beEeoFeNA">Google form for answers</a> - Submit by 8PM on Tuesday, February 8
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdd_8qgV6GB_G8SNOZmrYDCiujFauS6rx7Hr-lv1mGZUo8EgQ/viewform">Google form for answers</a> - Submit by 8PM on Tuesday, February 8
 <br>
 
-Past Sessions: 
+<b>Past Sessions:</b> 
 <br>
 <b>Levels 1-2:</b>
   * Friday, January 21 @ 4:45pm
