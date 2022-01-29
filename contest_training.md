@@ -22,7 +22,7 @@ Only AFTER submitting the answers through the google form they will receive an e
   * Wednesday, February 9 @ 7:30pm
   * <a href="https://renertmath.github.io/contests/2012CayleyContest.pdf">2012 Caley</a>
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdd_8qgV6GB_G8SNOZmrYDCiujFauS6rx7Hr-lv1mGZUo8EgQ/viewform">Google form for answers</a> - Submit by 8PM on Tuesday, February 8
-<br>
+<br><br>
 Upcoming sessions: Feb 25,26,27,Mar2   // Mar 11,12,13,16
 
 
