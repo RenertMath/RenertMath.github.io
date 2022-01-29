@@ -3,8 +3,6 @@ Only AFTER submit your answers through the google form you will receive an email
 
 <b>Students are welcomed to participate in more than one session</b> if they feel comfortable with the level of the contest, and as long as they fill the form with their answers showing that they had attempetd to solve the contest form.
 
-Upcoming sessions: Feb 25,26,27,Mar2   // Mar 11,12,13,16
-
 <b>Levels 1-2:</b>
   * Friday, February 4 @ 5:12015  Gr 1-2
   * <a href="https://renertmath.github.io/contests/2015 - Kangaroo - 01-02 - test only.pdf">2015 Gr 1-2 Kangaroo</a> 
@@ -25,6 +23,8 @@ Upcoming sessions: Feb 25,26,27,Mar2   // Mar 11,12,13,16
   * <a href="https://renertmath.github.io/contests/2012CayleyContest.pdf">2012 Caley</a>
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdd_8qgV6GB_G8SNOZmrYDCiujFauS6rx7Hr-lv1mGZUo8EgQ/viewform">Google form for answers</a> - Submit by 8PM on Tuesday, February 8
 <br>
+Upcoming sessions: Feb 25,26,27,Mar2   // Mar 11,12,13,16
+
 
 <b>Past Sessions:</b> 
 <br>
