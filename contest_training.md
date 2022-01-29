@@ -6,23 +6,23 @@ Only AFTER submit your answers through the google form you will receive an email
 Upcoming sessions: Feb 25,26,27,Mar2   // Mar 11,12,13,16
 
 <b>Levels 1-2:</b>
-  * Friday, February 4 @ 5:15pm
-  * <a href=" ">Gr1-2</a> <B><font color="#FF0000">SOON!</font></B>
+  * Friday, February 4 @ 5:12015  Gr 1-2 Kangaroo5pm
+  * <a href=" ">2015 Gr 1-2 Kangaroo</a> <B><font color="#FF0000">SOON!</font></B>
   * <a href="https://forms.gle/zFFydEF9Lz4ZqfZ98">Google form for answers</a> - Submit by 8PM on Thursday, February 3
 
 <b>Levels 3-4:</b> 
   * Saturday, February 5 @ 3:00pm
-  * <a href="">TEST</a> <B><font color="#FF0000">SOON!</font></B>
+  * <a href="">2010 Pythagoras</a> <B><font color="#FF0000">SOON!</font></B>
   * <a href="https://forms.gle/QTTuLyY3iJ5XvKN3A">Google form for answers</a> - Submit by 8PM on Friday, February 4
 
 <b>Levels 5-6: </b>
   * Saturday, February 5 @ 1:30pm 
-  * <a href="">TEST</a> <B><font color="#FF0000">SOON!</font></B>
+  * <a href="">Gauss 2016 TEST</a> <B><font color="#FF0000">SOON!<font></B>
   * <a href="https://forms.gle/qXazAG9NwNK4eqS19">Google form for answers</a> - Submit by 8PM on Friday, February 4
 
 <b>Levels 7+:</b> 
   * Wednesday, February 9 @ 7:30pm
-  * <a href="">TEST</a><B><font color="#FF0000">SOON!</font></B>
+  * <a href="">2012 Caley</a><B><font color="#FF0000">SOON!</font></B>
   * <a href="https://forms.gle/MiJsVRV9beEeoFeNA">Google form for answers</a> - Submit by 8PM on Tuesday, February 8
 <br>
 
