@@ -4,7 +4,7 @@ Only AFTER submitting the answers through the google form they will receive an e
 <b>Students are welcomed to participate in more than one session</b> if they feel comfortable with the level of the contest, and as long as they fill the form with their answers showing that they had attempetd to solve the contest form.
 
 <b>Levels 1-2:</b>
-  * Friday, February 4 @ 5:12015  Gr 1-2
+  * Friday, February 4 @ 5:15  Gr 1-2
   * <a href="https://renertmath.github.io/contests/2015 - Kangaroo - 01-02 - test only.pdf">2015 Gr 1-2 Kangaroo</a> 
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSeF6Zb6oWBokfcwUK-QBgOaMj8IU7mWGgNDCq2hDcK63yoxIw/viewform">Google form for answers</a> - Submit by 8PM on Thursday, February 3
 
