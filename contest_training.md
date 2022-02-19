@@ -23,7 +23,7 @@ Only AFTER submitting the answers through the google form they will receive an e
   * <a href="https://renertmath.github.io/contests/Feb-Mar 2015CayleyContest.pdf">2015 Caley</a>
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLScd6add24GOb8V7hq0B85dNUhZsdaEz5YRFwbvD4N8Q_yS3dw/viewform">Google form for answers</a> - Submit by 8PM on Tuesday, March 1st
 <br><br>
-*** Upcoming sessions: Mar 11,12,16 ***
+<font color="red">*** Upcoming sessions: Mar 11,12,16 ***</font>
 
 
 <b>Past Sessions:</b> 
