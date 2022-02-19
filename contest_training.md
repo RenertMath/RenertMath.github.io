@@ -5,7 +5,7 @@ Only AFTER submitting the answers through the google form they will receive an e
 
 <b>Levels 1-2:</b>
   * Friday, February 25 @ 5:15 pm
-  * <a href="https://renertmath.github.io/contests/Feb-Mar 2016 - Kangaroo - 01-02 - testy.pdf">2016 Gr 1-2 Kangaroo</a> 
+  * <a href="https://renertmath.github.io/contests/Feb-Mar 2016 - Kangaroo - 01-02 - test only.pdf">2016 Gr 1-2 Kangaroo</a> 
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSc_o5kByqLG8MankhlSDv7e4vuKQxCV_GY_-oN8XKYDDNliQw/viewform">Google form for answers</a> - Submit by 8PM on Thursday, February 24
 
 <b>Levels 3-4:</b> 
