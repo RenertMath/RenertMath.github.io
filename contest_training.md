@@ -5,22 +5,22 @@ Only AFTER submitting the answers through the google form they will receive an e
 
 <b>Levels 1-2:</b>
   * Friday, February 25 @ 5:15 pm
-  * <a href="https://renertmath.github.io/contests/Feb-Mar 2016 - Kangaroo - 01-02 - test only.pdf">2016 Gr 1-2 Kangaroo</a> 
+  * <a href="https://renertmath.github.io/contests/Feb-Mar 2016 - Kangaroo - 01-02 - test only.pdf">Kangaroo G12 2016</a> 
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSc_o5kByqLG8MankhlSDv7e4vuKQxCV_GY_-oN8XKYDDNliQw/viewform">Google form for answers</a> - Submit by 8PM on Thursday, February 24
 
 <b>Levels 3-4:</b> 
   * Saturday, February 26 @ 3:00 pm
-  * <a href="https://renertmath.github.io/contests/Feb-Mar 2012 - Math League - 05 - test.pdf">2012 Math League</a> 
+  * <a href="https://renertmath.github.io/contests/Feb-Mar 2012 - Math League - 05 - test.pdf">Math League G5 2012</a> 
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSe489_jVhqLFApd-q-euwPVCPaKLIt3U8a_ZwCtoOJJlmeqnw/viewform">Google form for answers</a> - Submit by 8PM on Friday, February 25 
 
 <b>Levels 5-6: </b>
   * Saturday, February 26 @ 1:30 pm 
-  * <a href="https://renertmath.github.io/contests/Feb-Mar 2016 - Kangaroo - 05-06 - test only.pdf">Kangaroo 5-6 2016</a> 
+  * <a href="https://renertmath.github.io/contests/Feb-Mar 2016 - Kangaroo - 05-06 - test only.pdf">Kangaroo G56 2016</a> 
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdvXYZgAEV-KHCibPD0KAL4CU1Mv1YijaIYWCCC99XUiN285g/viewform">Google form for answers</a> - Submit by 8PM on Friday, February 25
 
 <b>Levels 7+:</b> 
   * Wednesday, March 2 @ 7:30 pm
-  * <a href="https://renertmath.github.io/contests/Feb-Mar 2015CayleyContest.pdf">2015 Caley</a>
+  * <a href="https://renertmath.github.io/contests/Feb-Mar 2015CayleyContest.pdf">Caley 2015</a>
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLScd6add24GOb8V7hq0B85dNUhZsdaEz5YRFwbvD4N8Q_yS3dw/viewform">Google form for answers</a> - Submit by 8PM on Tuesday, March 1st
 <br><br>
 <font color="red">*** Upcoming sessions: Mar 11,12,16 ***</font>
