@@ -1,6 +1,6 @@
-### Renert pi Day challenge 2021
+### Renert pi Day challenge 2022
 
-The finals will take place on Monday, March 15 during your normal math class. Finalists will compete in their classrooms, with their teacher checking digits. To be a finalist, you must be in the top 10 of your grade (K through grade 6) or division (division 3 and division 4) during qualifiers the week before.
+The finals will take place on Monday, March 14 during your normal math class. Finalists will compete in their classrooms, with their teacher checking digits. To be a finalist, you must be in the top 10 of your grade (K through grade 6) or division (division 3 and division 4) during qualifiers the week before.
 
 Rules:
 - Students get 3 "strikes": a strike only counts if the supervising teacher needs to stop the student and correct them. If the student catches themselves ("3.14159, 897 - I mean 26535"), then no problem. In light of this, teachers will not immediately react to correct and incorrect digits recited, and instead give a few seconds just in case.
