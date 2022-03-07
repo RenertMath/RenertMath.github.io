@@ -4,6 +4,30 @@ Only AFTER submitting the answers through the google form they will receive an e
 <b>Students are welcomed to participate in more than one session</b> if they feel comfortable with the level of the contest, and as long as they fill the form with their answers showing that they had attempetd to solve the contest form.
 
 <b>Levels 1-2:</b>
+  * Friday, March 11 @ 5:15 pm
+  * <a href="https://renertmath.github.io/contests/2017KangarooG12.pdf">Kangaroo G12 2017</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSc_o5kByqLG8MankhlSDv7e4vuKQxCV_GY_-oN8XKYDDNliQw/viewform">Google form for answers</a> - Submit by 8PM on Thursday, March 10
+
+<b>Levels 3-4:</b> 
+  * Saturday, March 12 @ 3:00 pm
+  * <a href="https://renertmath.github.io/contests/2017KangarooG34.pdf">Kangaroo G34 2017</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLTuLDsnq54KkMurMlr2igC6mKlxiaoNb3i2-OEJ4LgD53Nw/viewform">Google form for answers</a> - Submit by 8PM on Friday, March 11 
+
+<b>Levels 5-6: </b>
+  * Saturday, March 12 @ 1:30 pm 
+  * <a href="https://renertmath.github.io/contests/2018Gauss7.pdf">Gauss7 2018</a> 
+  * <a href="https://docs.google.com/forms/d/1LkFr1fWzKaNOg4xd909Gvktrn_srvoKu4l2vxcWW1GY/edit">Google form for answers</a> - Submit by 8PM on Friday, March 11
+
+<b>Levels 7+:</b> 
+  * Wednesday, March 16 @ 7:30 pm
+  * <a href="https://renertmath.github.io/contests/2017KangarooG910.pdf">Kangaroo G9-10 2017</a>
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSengDQqCqD2i3Kf-8Ppi4VxEXmrCcc_2JeMBxYKneH2AGIYng/viewform">Google form for answers</a> - Submit by 8PM on Tuesday, March 15
+<br><br>
+<font color="red">*** Upcoming sessions: Mar 11,12,16 ***</font>
+
+
+<b>Past Sessions:</b> 
+<b>Levels 1-2:</b>
   * Friday, February 25 @ 5:15 pm
   * <a href="https://renertmath.github.io/contests/Feb-Mar 2016 - Kangaroo - 01-02 - test only.pdf">Kangaroo G12 2016</a> 
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSc_o5kByqLG8MankhlSDv7e4vuKQxCV_GY_-oN8XKYDDNliQw/viewform">Google form for answers</a> - Submit by 8PM on Thursday, February 24
@@ -23,10 +47,6 @@ Only AFTER submitting the answers through the google form they will receive an e
   * <a href="https://renertmath.github.io/contests/Feb-Mar 2015CayleyContest.pdf">Caley 2015</a>
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLScd6add24GOb8V7hq0B85dNUhZsdaEz5YRFwbvD4N8Q_yS3dw/viewform">Google form for answers</a> - Submit by 8PM on Tuesday, March 1st
 <br><br>
-<font color="red">*** Upcoming sessions: Mar 11,12,16 ***</font>
-
-
-<b>Past Sessions:</b> 
 <br>
 <b>Levels 1-2:</b>
   * Friday, February 4 @ 5:15 pm
