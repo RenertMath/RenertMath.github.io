@@ -6,7 +6,7 @@ Only AFTER submitting the answers through the google form they will receive an e
 <b>Levels 1-2:</b>
   * Friday, March 11 @ 5:15 pm
   * <a href="https://renertmath.github.io/contests/2017KangarooG12.pdf">Kangaroo G12 2017</a> 
-  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSc_o5kByqLG8MankhlSDv7e4vuKQxCV_GY_-oN8XKYDDNliQw/viewform">Google form for answers</a> - Submit by 8PM on Thursday, March 10
+  * <a href="https://docs.google.com/forms/d/150ffn_g-yEuCMF8iAA6xDRPqr6ul0z5GXGKfimi92z8/edit">Google form for answers</a> - Submit by 8PM on Thursday, March 10
 
 <b>Levels 3-4:</b> 
   * Saturday, March 12 @ 3:00 pm
