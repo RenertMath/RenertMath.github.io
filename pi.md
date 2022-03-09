@@ -1,4 +1,4 @@
-### Renert pi Day challenge 2022
+### Renert &pi; Day challenge 2022
 
 The finals will take place on Monday, March 14 during your normal math class. Finalists will compete in their classrooms, with their teacher checking digits. To be a finalist, you must be in the top 10 of your grade (K through grade 6) or division (division 3 and division 4) during qualifiers the week before.
 
