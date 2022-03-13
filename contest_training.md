@@ -3,6 +3,7 @@ Only AFTER submitting the answers through the google form they will receive an e
 
 <b>Students are welcomed to participate in more than one session</b> if they feel comfortable with the level of the contest, and as long as they fill the form with their answers showing that they had attempetd to solve the contest form.
 
+Session 7<br>
 <b>Levels 1-2:</b>
   * Friday, March 11 @ 5:15 pm
   * <a href="https://renertmath.github.io/contests/2017KangarooG12.pdf">Kangaroo G12 2017</a> 
@@ -23,10 +24,16 @@ Only AFTER submitting the answers through the google form they will receive an e
   * <a href="https://renertmath.github.io/contests/2017KangarooG910.pdf">Kangaroo G9-10 2017</a>
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSengDQqCqD2i3Kf-8Ppi4VxEXmrCcc_2JeMBxYKneH2AGIYng/viewform">Google form for answers</a> - Submit by 8PM on Tuesday, March 15
 <br><br>
-<font color="red">*** Upcoming sessions: Mar 11,12,16 ***</font>
+<font color="red">*** Upcoming sessions: 
+Session 8 April 8,9 & 13 
+Session 9 April 29, 30 & May 4
+Session 10 May 13, 14 & 18 - LAST SESSION
+ ***</font>
 
 
 <b>Past Sessions:</b> 
+<br>
+Session 6<br>
 <b>Levels 1-2:</b>
   * Friday, February 25 @ 5:15 pm
   * <a href="https://renertmath.github.io/contests/Feb-Mar 2016 - Kangaroo - 01-02 - test only.pdf">Kangaroo G12 2016</a> 
