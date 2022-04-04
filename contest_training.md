@@ -3,6 +3,61 @@ Only AFTER submitting the answers through the google form they will receive an e
 
 <b>Students are welcomed to participate in more than one session</b> if they feel comfortable with the level of the contest, and as long as they fill the form with their answers showing that they had attempetd to solve the contest form.
 
+Session 8<br>
+<b>GRADE 1:</b>
+  * Friday, April 8 @ 5:15 pm
+  * <a href="https://renertmath.github.io/contests/2017KangarooG12.pdf">Renert Rabbit Grade 1 2022</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLScfWcUMLAoL3i9b9MPsot5SDS8fhJKkPfgv5jk-PF0FXbvc7g/viewform">Google form for answers</a> - Submit by 8PM on Thursday, April 7
+
+<b>GRADES 4-5:</b> 
+  * Saturday, April 9 @ 3:00 pm
+  * <a href="https://renertmath.github.io/contests/2017KangarooG34.pdf">Renert Rabbit Grade 4-5 2022</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8bWg30K5A_1GNd0GuxI1vT83AsWslru7stwa4peEqY5isGw/viewform">Google form for answers</a> - Submit by 8PM on Friday, April 8 
+
+<b>GRADES 2-3: </b>
+  * Saturday, April 9 @ 1:30 pm 
+  * <a href="https://renertmath.github.io/contests/2018Gauss7.pdf">Renert Rabbit Grade 2-3 2022</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8yWcpqSYMfqMFxZtY9Uw6_ir6dX_-_whypthyh-mcQZK9Gg/viewform">Google form for answers</a> - Submit by 8PM on Friday, April 8
+
+<b>GRADE 6: </b>
+  * Saturday, April 9 @ 1:30 pm 
+  * <a href="https://renertmath.github.io/contests/2018Gauss7.pdf">Renert Rabbit Grade 6  2022</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSc4pUd1ZodTuUE5gDglBZRDHJJTkt9yrSujxeMgvFLoX2619Q/viewform">Google form for answers</a> - Submit by 8PM on Friday, April 8
+  
+<b>Levels 7+:</b> 
+  * Wednesday, April 13 @ 7:30 pm
+  * <a href="https://renertmath.github.io/contests/2017KangarooG910.pdf">Pascal 2018</a>
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZLYIGTy_T9OUmeeTUr4bI3YXu1_iO4J-AGcrkxa_3CcAxoQ/viewform">Google form for answers</a> - Submit by 8PM on Tuesday, April 12
+  * 
+<br><br>
+<font color="red">*** Upcoming sessions: 
+Session 9 April 29, 30 & May 4
+Session 10 May 13, 14 & 18 - LAST SESSION
+ ***</font>
+
+
+<b>Past Sessions:</b> 
+<br>Session 7<br>
+<b>Levels 1-2:</b>
+  * Friday, March 11 @ 5:15 pm
+  * <a href="https://renertmath.github.io/contests/2017KangarooG12.pdf">Kangaroo G12 2017</a> 
+  * <a href="https://docs.google.com/forms/d/150ffn_g-yEuCMF8iAA6xDRPqr6ul0z5GXGKfimi92z8/edit">Google form for answers</a> - Submit by 8PM on Thursday, March 10
+
+<b>Levels 3-4:</b> 
+  * Saturday, March 12 @ 3:00 pm
+  * <a href="https://renertmath.github.io/contests/2017KangarooG34.pdf">Kangaroo G34 2017</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLTuLDsnq54KkMurMlr2igC6mKlxiaoNb3i2-OEJ4LgD53Nw/viewform">Google form for answers</a> - Submit by 8PM on Friday, March 11 
+
+<b>Levels 5-6: </b>
+  * Saturday, March 12 @ 1:30 pm 
+  * <a href="https://renertmath.github.io/contests/2018Gauss7.pdf">Gauss7 2018</a> 
+  * <a href="https://docs.google.com/forms/d/1LkFr1fWzKaNOg4xd909Gvktrn_srvoKu4l2vxcWW1GY/edit">Google form for answers</a> - Submit by 8PM on Friday, March 11
+
+<b>Levels 7+:</b> 
+  * Wednesday, March 16 @ 7:30 pm
+  * <a href="https://renertmath.github.io/contests/2017KangarooG910.pdf">Kangaroo G9-10 2017</a>
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSengDQqCqD2i3Kf-8Ppi4VxEXmrCcc_2JeMBxYKneH2AGIYng/viewform">Google form for answers</a> - Submit by 8PM on Tuesday, March 15
+<br><br>
 Session 7<br>
 <b>Levels 1-2:</b>
   * Friday, March 11 @ 5:15 pm
@@ -24,15 +79,6 @@ Session 7<br>
   * <a href="https://renertmath.github.io/contests/2017KangarooG910.pdf">Kangaroo G9-10 2017</a>
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSengDQqCqD2i3Kf-8Ppi4VxEXmrCcc_2JeMBxYKneH2AGIYng/viewform">Google form for answers</a> - Submit by 8PM on Tuesday, March 15
 <br><br>
-<font color="red">*** Upcoming sessions: 
-Session 8 April 8,9 & 13 
-Session 9 April 29, 30 & May 4
-Session 10 May 13, 14 & 18 - LAST SESSION
- ***</font>
-
-
-<b>Past Sessions:</b> 
-<br>
 Session 6<br>
 <b>Levels 1-2:</b>
   * Friday, February 25 @ 5:15 pm
