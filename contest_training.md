@@ -30,9 +30,9 @@ Session 8<br>
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZLYIGTy_T9OUmeeTUr4bI3YXu1_iO4J-AGcrkxa_3CcAxoQ/viewform">Google form for answers</a> - Submit by 8PM on Tuesday, April 12
   
 <br><br>
-<font color="red">*** Upcoming sessions: 
-Session 9 April 29, 30 & May 4
-Session 10 May 13, 14 & 18 - LAST SESSION
+<font color="red">*** Upcoming sessions: <br>
+* Session 9 April 29, 30 & May 4
+* Session 10 May 13, 14 & 18 - LAST SESSION
  ***</font>
 
 <b>Past Sessions:</b> 
