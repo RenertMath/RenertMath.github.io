@@ -26,7 +26,7 @@ Session 8<br>
   
 <b>Levels 7+:</b> 
   * Wednesday, April 13 @ 7:30 pm
-  * <a href="https://renertmath.github.io/contests/2017KangarooG910.pdf">Pascal 2018</a>
+  * <a href="https://renertmath.github.io/contests/2018PascalContest.pdf">Pascal 2018</a>
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZLYIGTy_T9OUmeeTUr4bI3YXu1_iO4J-AGcrkxa_3CcAxoQ/viewform">Google form for answers</a> - Submit by 8PM on Tuesday, April 12
   * 
 <br><br>
