@@ -20,9 +20,9 @@ Session 8<br>
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8yWcpqSYMfqMFxZtY9Uw6_ir6dX_-_whypthyh-mcQZK9Gg/viewform">Google form for answers</a> - Submit by 8PM on Friday, April 8
 
 <b>GRADE 6: </b>
-  * Saturday, April 9 @ 1:30 pm 
+  * Sunday, April 10 @ 1:00 pm 
   * <a href="https://renertmath.github.io/contests/2018Gauss7.pdf">Renert Rabbit Grade 6  2022</a> 
-  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSc4pUd1ZodTuUE5gDglBZRDHJJTkt9yrSujxeMgvFLoX2619Q/viewform">Google form for answers</a> - Submit by 8PM on Friday, April 8
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSc4pUd1ZodTuUE5gDglBZRDHJJTkt9yrSujxeMgvFLoX2619Q/viewform">Google form for answers</a> - Submit by 8PM on Saturday, April 9
   
 <b>Levels 7+:</b> 
   * Wednesday, April 13 @ 7:30 pm
