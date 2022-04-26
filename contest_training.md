@@ -7,17 +7,17 @@ Only AFTER submitting the answers through the google form they will receive an e
 <br>
 <b>GRADES 1-2:</b>
   * Friday, April 29 @ 5:15 pm
-  * <a href="https://renertmath.github.io/renertrabbit/Kangaroo 2018-G12 Mar13.pdf">Kangaroo G1-2 2018</a> 
+  * <a href="https://renertmath.github.io/contests/Kangaroo 2018-G12 Mar13.pdf">Kangaroo G1-2 2018</a> 
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSfs5T6JJWDLvtse5g-2bEmwfqcVg8OMozw32RBPu-PT3pnkVA/viewform">Google form for answers</a> - Submit by 8PM on Thursday, April 28
 
 <b>GRADES 3-4:</b> 
   * Saturday, April 30 @ 3:00 pm
-  * <a href="https://renertmath.github.io/renertrabbit/CESMC level 2014.pdf">CESMC level 2 2014</a> 
+  * <a href="https://renertmath.github.io/contests/CESMC level 2014.pdf">CESMC level 2 2014</a> 
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1E1joymCca2Yg_qsFlEz4TZjtE3EinXIhddlosAo9A31chg/viewform">Google form for answers</a> - Submit by 8PM on Friday, April 29 
 
 <b>GRADES 5-6: </b>
   * Saturday, April 30 @ 1:30 pm 
-  * <a href="https://renertmath.github.io/renertrabbit/Gauss7 2019.pdf">Gauss 2019</a> 
+  * <a href="https://renertmath.github.io/contests/Gauss7 2019.pdf">Gauss 2019</a> 
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSd2LSxlj2wOVE0yLitP2bPJ9pXshHWNpWkO-bptr0H3pDWLiA/viewform">Google form for answers</a> - Submit by 8PM on Friday, April 29
  
 <b>Levels 7+:</b> 
