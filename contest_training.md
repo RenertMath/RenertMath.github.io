@@ -3,7 +3,35 @@ Only AFTER submitting the answers through the google form they will receive an e
 
 <b>Students are welcomed to participate in more than one session</b> if they feel comfortable with the level of the contest, and as long as they fill the form with their answers showing that they had attempetd to solve the contest form.
 
-Session 8<br>
+Session 9<br>
+<b>GRADES 1-2:</b>
+  * Friday, April 29 @ 5:15 pm
+  * <a href="https://renertmath.github.io/renertrabbit/Kangaroo 2018-G12 Mar13.pdf">Kangaroo G1-2 2018</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSfs5T6JJWDLvtse5g-2bEmwfqcVg8OMozw32RBPu-PT3pnkVA/viewform">Google form for answers</a> - Submit by 8PM on Thursday, April 28
+
+<b>GRADES 3-4:</b> 
+  * Saturday, April 30 @ 3:00 pm
+  * <a href="https://renertmath.github.io/renertrabbit/CESMC level 2014.pdf">CESMC level 2 2014</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1E1joymCca2Yg_qsFlEz4TZjtE3EinXIhddlosAo9A31chg/viewform">Google form for answers</a> - Submit by 8PM on Friday, April 29 
+
+<b>GRADES 5-6: </b>
+  * Saturday, April 30 @ 1:30 pm 
+  * <a href="https://renertmath.github.io/renertrabbit/Gauss7 2019.pdf">Gauss 2019</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSd2LSxlj2wOVE0yLitP2bPJ9pXshHWNpWkO-bptr0H3pDWLiA/viewform">Google form for answers</a> - Submit by 8PM on Friday, April 29
+ 
+<b>Levels 7+:</b> 
+  * Wednesday, May 4 @ 7:30 pm
+  * <a href="https://renertmath.github.io/contests/Cayley 2018.pdf">Cayley 2018</a>
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLScbIsShZObgIhCuUfMvzYBydcIu9K9Z_61wiLl8DUYDE-8gEA/viewform">Google form for answers</a> - Submit by 8PM on Tuesday, May 3
+  
+<br><br>
+<font color="red">*** Upcoming sessions: <br>
+* Session 9 April 29, 30 & May 4<br>
+* Session 10 May 13, 14 & 18 - LAST SESSION
+ ***</font>
+
+<b>Past Sessions:</b> 
+<br>Session 8<br>
 <b>GRADE 1:</b>
   * Friday, April 8 @ 5:15 pm
   * <a href="https://renertmath.github.io/renertrabbit/2022RenertRabbit_Gr1.pdf">Renert Rabbit Grade 1 2022</a> 
@@ -28,14 +56,6 @@ Session 8<br>
   * Wednesday, April 13 @ 7:30 pm
   * <a href="https://renertmath.github.io/contests/2018PascalContest.pdf">Pascal 2018</a>
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZLYIGTy_T9OUmeeTUr4bI3YXu1_iO4J-AGcrkxa_3CcAxoQ/viewform">Google form for answers</a> - Submit by 8PM on Tuesday, April 12
-  
-<br><br>
-<font color="red">*** Upcoming sessions: <br>
-* Session 9 April 29, 30 & May 4<br>
-* Session 10 May 13, 14 & 18 - LAST SESSION
- ***</font>
-
-<b>Past Sessions:</b> 
 <br>Session 7<br>
 <b>Levels 1-2:</b>
   * Friday, March 11 @ 5:15 pm
