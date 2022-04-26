@@ -28,7 +28,6 @@ Only AFTER submitting the answers through the google form they will receive an e
   
 <br><br>
 <font color="red">*** Upcoming sessions: <br>
-* Session 9 April 29, 30 & May 4<br>
 * Session 10 May 13, 14 & 18 - LAST SESSION
  ***</font>
 
