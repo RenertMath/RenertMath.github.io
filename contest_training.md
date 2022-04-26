@@ -3,7 +3,9 @@ Only AFTER submitting the answers through the google form they will receive an e
 
 <b>Students are welcomed to participate in more than one session</b> if they feel comfortable with the level of the contest, and as long as they fill the form with their answers showing that they had attempetd to solve the contest form.
 
-Session 9<br>
+<p
+   <font style="color:red"><b>Session 9</b></font>
+<br><br>
 <b>GRADES 1-2:</b>
   * Friday, April 29 @ 5:15 pm
   * <a href="https://renertmath.github.io/renertrabbit/Kangaroo 2018-G12 Mar13.pdf">Kangaroo G1-2 2018</a> 
