@@ -3,7 +3,35 @@ Only AFTER submitting the answers through the google form they will receive an e
 
 <b>Students are welcomed to participate in more than one session</b> if they feel comfortable with the level of the contest, and as long as they fill the form with their answers showing that they had attempetd to solve the contest form.
 
-   <font style="color:red"><b>Session 9</b></font>
+   <font style="color:red"><b>Session 10 - LAST Session!</b></font>
+<br>
+<b>GRADES 1-2:</b>
+  * Friday, May 13 @ 5:15 pm
+  * <a href="https://renertmath.github.io/renertrabbit/2021RenertRabbit_Gr1.pdf">Renert Rabbit Grade 1 2021</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSd-NywNle1rtlVRUljGAzHj_ztSO10u2LspPQII1Y2AVUYDmw/viewform">Google form for answers</a> - Submit by 8PM on Thursday, May 12
+
+<b>GRADES 3-4:</b> 
+  * Saturday, May 14 @ 3:00 pm
+  * <a href="https://renertmath.github.io/contests/2018KangarooG34.pdf">Kangaroo 3-4 2018</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSeFHiiFbTmBDnHTcDPFzFgIFeB-bRYWwacTxwb4QDUy4mWycw/viewform">Google form for answers</a> - Submit by 8PM on Friday, May 13 
+
+<b>GRADES 5-6: </b>
+  * Saturday, May 14 @ 1:30 pm 
+  * <a href="https://renertmath.github.io/contests/2017KangarooG56.pdf">Kangaroo G5-6 2017</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBnP81J4y65ZtRUVIZ6YuzAveaksQyxiW0vFsieOBxtwAm2Q/viewform">Google form for answers</a> - Submit by 8PM on Friday, May 13
+ 
+<b>Levels 7+:</b> 
+  * Wednesday, May 18 @ 7:30 pm
+  * <a href="https://renertmath.github.io/contests/2018KangarooG910.pdf">Kangaroo G9-10 2018</a>
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSeeEYMXo0y80Bpdc7SJibeSFFMNrOzmn2bSqhFKA4Cl1flFHg/viewform">Google form for answers</a> - Submit by 8PM on Tuesday, May 17
+  
+<br><br>
+<font color="red">*** Upcoming sessions: <br>
+Wait for the next school year!
+ ***</font>
+
+<b>Past Sessions:</b> 
+<font style="color:red"><b>Session 9</b></font>
 <br>
 <b>GRADES 1-2:</b>
   * Friday, April 29 @ 5:15 pm
@@ -30,7 +58,6 @@ Only AFTER submitting the answers through the google form they will receive an e
 * Session 10 May 13, 14 & 18 - LAST SESSION
  ***</font>
 
-<b>Past Sessions:</b> 
 <br>Session 8<br>
 <b>GRADE 1:</b>
   * Friday, April 8 @ 5:15 pm
