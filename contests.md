@@ -10,9 +10,9 @@ Certain contests are invitation-only by the organizer (based on performance on o
 
 <b>Q: How do I register for a contest?</b>
 
-A: Your student's math teacher will ask their students if they wish to participate in a particular contest if they believe it is within their ability level. Certain contests are written by all students of particular grades. 
+A: Your student's math teacher will ask their students if they wish to participate in a particular contest if they believe it is within their ability level. Certain contests are written by all students of particular grades (see below). 
 
-<b>Q: Which contests are required?</b>
+<b>Q: Which contests will all students write?</b>
 
-A: The Beaver Computing Challenge (grades 4-6), CESMC (grades 4-6), Gauss (grades 7-8), Pascal (grade 9) are required for those grades.
+A: The Beaver Computing Challenge (grades 4-6), CESMC (grades 4-6), Gauss (grades 7-8), Pascal (grade 9) will be written by all students in those grades.
 
