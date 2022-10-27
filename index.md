@@ -19,6 +19,7 @@
         <li> <a href="https://renertmath.github.io/RenertMath-CelebrateMath/"> COL Math Challenge 2019/2020 </a>  </li>
         <li> <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> 2020-21 Winter Break math challenges </a> (<a href="https://vchan2.github.io/Challenges/2020-21Winter_Break_winners.pdf">Results</a>)</li>
         <li> <a href="https://renertmath.github.io/RenertMath-PumpkinBomb2021/"> PumpkinBomb Challenge 2021</a>  </li>
+        <li> <a href="https://renertmath.github.io/RenertMath-PumpkinBomb2021/2022.html"> PumpkinBomb Challenge 2022</a>  </li>
       </ul> 
     </p>
     
