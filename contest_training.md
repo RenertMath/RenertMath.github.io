@@ -6,7 +6,7 @@
  *	When there is more than one child per household attending, each student should submit the form with their solutions.
  *	Please submit a SINGLE form per student. Multiple entries are unnecessary.
 
-Email <b>tutoring@renert.com</b> with any questions you may have.
+Email <b>tutoring@renert.com</b> with any questions.
 <br>
 <b>GRADES 1-2:</b>
 Friday Nov 3 at 6:30pm
