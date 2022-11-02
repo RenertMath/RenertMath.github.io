@@ -6,8 +6,7 @@
  *	When there is more than one child per household attending, each student should submit the form with their solutions.
  *	Please submit a SINGLE form per student. Multiple entries are unnecessary.
 
-Email tutoring@renert.com with any questions you may have - but kindly review ALL points above before doing so.
-
+Email <b>tutoring@renert.com</b> with any questions you may have.
 <b>GRADES 1-2:</b>
 Friday Nov 3 at 6:30pm
  * <a href="https://drive.google.com/file/d/1cgpLYAGWmzorevnEf8a13Bc6PQArAe2K/view">Kangaroo 2012</a> 
