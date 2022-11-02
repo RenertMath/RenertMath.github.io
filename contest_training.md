@@ -7,7 +7,7 @@
  *	Please submit a SINGLE form per student. Multiple entries are unnecessary.
 
 Email <b>tutoring@renert.com</b> with any questions.
-<br>
+<br><br>
 <b>GRADES 1-2:</b>
 Thursday Nov 3 at 6:30pm
  * <a href="https://drive.google.com/file/d/1cgpLYAGWmzorevnEf8a13Bc6PQArAe2K/view">Kangaroo G12 2012</a> 
@@ -28,6 +28,6 @@ Thursday Nov 3 at 6:30pm
   * <a href="https://drive.google.com/file/d/1Q5I8XY1zhQAZ1540LyF9DbG0mPWfX8PK/view">Pascal 2011</a>
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUYxdiUKdoEn8d9kJrjmDcDiiodzOFcOrgQjWM_RfP_iC-Lw/viewform">Google form for answers</a> - Submit by 8PM on Saturday, Nov 4
   
-<br><br>
-<font color="red">*** Upcoming sessions: <br></font> soon...
+<br>
+<font color="red">*** Upcoming sessions: <br></font>soon...
 
