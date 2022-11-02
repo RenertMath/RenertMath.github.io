@@ -1,4 +1,4 @@
-<b>Bright Minds Math Competition Club (MCC) <font color="red">is back! </b></font>for the 2022-23 school year 
+<b>Bright Minds Math Competition Club (MCC) <font color="red">is back!</font></b> for the 2022-23 school year 
 
 <b>How Does it work?</b> <br>
  *	In order to attend, the student MUST work on the contest form that will be discussed on the coming weekend, and solve it to the best of their ability. It is OK to not answer a question if the student has no idea how to do it. The whole point of the kids solving ahead of time is for them to get familiar with the questions, and for the instructors to know which questions we should go over.
