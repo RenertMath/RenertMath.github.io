@@ -29,6 +29,5 @@ Friday Nov 3 at 6:30pm
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUYxdiUKdoEn8d9kJrjmDcDiiodzOFcOrgQjWM_RfP_iC-Lw/viewform">Google form for answers</a> - Submit by 8PM on Saturday, Nov 4
   
 <br><br>
-<font color="red">*** Upcoming sessions: <br>
- ***</font>
+<font color="red">*** Upcoming sessions: <br></font>
 
