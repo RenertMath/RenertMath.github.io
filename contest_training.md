@@ -8,6 +8,29 @@
 
 Email <b>tutoring@renert.com</b> with any questions.
 <br><br>
+
+<b>GRADES 1-2:</b>
+Saturday Nov 19 at 3:00pm
+ * <a href="https://drive.google.com/file/d/1cgpLYAGWmzorevnEf8a13Bc6PQArAe2K/view">Kangaroo G12 2013</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBeuLFlJrDpnMzMJEzrUgEG2WBpINNx4S4sP5hJYxElS5dxQ/viewform?usp=share_link">Google form for answers</a> - Submit by 8PM on Friday, Nov 18
+
+ <b>GRADES 3-4:</b> 
+  Friday Nov 18 at 5:00pm
+  * <a href="https://drive.google.com/file/d/1R4mgLPpIn099Znxz7Hyzq5GuGB3TBBVP/view">Kangaroo G34 2014</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4u-KJiYpbtE_EuiwtU5UYzRRkLCVGrYu9tUqkGWH7XJSnDA/viewform">Google form for answers</a> - Submit by 8PM on Thursday, Nov 3 
+
+<b>GRADES 5-6: </b>
+  Sunday Nov 20 at 11:00am
+  * <a href="https://drive.google.com/file/d/1ZL8kSiMBsfdN75HaNXLH3TtcjNLKo8sP/view">Gauss 7 2011</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSfprMs2PhqgZ9D1XO3H4HgQCgYM9thFkbMIi2QK_2Rwx5jQxg/viewform">Google form for answers</a> - Submit by 8PM on Saturday, Nov 4
+ 
+<b>Levels 7+:</b> 
+  Sunday Nov 20 at 12:30pm 
+  * <a href="https://drive.google.com/file/d/1eYxhu2euF3vV8SkWpSGzC-jEwpriNHyn/view">Pascal 2013</a>
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0Gp95aD9j3bCl0I2ZWBKmORUrw7ZMOu9I1H5SbezCjlX5zg/viewform">Google form for answers</a> - Submit by 8PM on Saturday, Nov 4
+
+
+<!--
 <b>GRADES 1-2:</b>
 Thursday Nov 3 at 6:30pm
  * <a href="https://drive.google.com/file/d/1cgpLYAGWmzorevnEf8a13Bc6PQArAe2K/view">Kangaroo G12 2012</a> 
@@ -27,7 +50,8 @@ Thursday Nov 3 at 6:30pm
   Sunday Nov 5 at 12:30pm 
   * <a href="https://drive.google.com/file/d/1Q5I8XY1zhQAZ1540LyF9DbG0mPWfX8PK/view">Pascal 2011</a>
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUYxdiUKdoEn8d9kJrjmDcDiiodzOFcOrgQjWM_RfP_iC-Lw/viewform">Google form for answers</a> - Submit by 8PM on Saturday, Nov 4
-  
+-->
+
 <br>
 <font color="red">*** Upcoming sessions: <br></font>soon...
 
