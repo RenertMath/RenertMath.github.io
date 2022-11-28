@@ -11,18 +11,18 @@ Email <b>tutoring@renert.com</b> with any questions.
 
 <b>GRADES 1-2:</b>
 Saturday Dec 3 at 3:00pm
- * <a href="[https://drive.google.com/file/d/12ow1tWpWc6hLN-AbFe0H0KRfPDwai08r/view](https://docs.google.com/forms/d/e/1FAIpQLSdr10IiHui39hRzeoyXH0UgRqmK8yfWa1GflW1UhZnXecpEGA/viewform)">Kangaroo G12 2014</a> 
+ * <a href="https://drive.google.com/file/d/12ow1tWpWc6hLN-AbFe0H0KRfPDwai08r/view">Kangaroo G12 2014</a> 
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6-k5PQTi9d3aq0p7CtonplkQ0kAPHTjNufdWgO7i57O7CmQ/viewform">Google form for answers</a> - Submit by 8PM on Friday, Dec 2
 
  <b>GRADES 3-4:</b> 
   Friday Dec 2 at 5:00pm
-  * <a href="[https://drive.google.com/file/d/1P3gM7AF4iciP2pcdL9wTOoXjAnQCRgrH/view](https://drive.google.com/file/d/11DQGej28bgz14bpXZeNxVaYZd6VkF_E0/view)">CESMC Level 2 2017</a> 
-  * <a href="[https://docs.google.com/forms/d/e/1FAIpQLSe4u-KJiYpbtE_EuiwtU5UYzRRkLCVGrYu9tUqkGWH7XJSnDA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSe08QZaaSmCXcXzzOSAJgxssODGOnMZDzzFyZFlWadCyc4ABA/viewform)">Google form for answers</a> - Submit by 8PM on Thursday, Dec 1 
+  * <a href="https://drive.google.com/file/d/11DQGej28bgz14bpXZeNxVaYZd6VkF_E0/view">CESMC Level 2 2017</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSe08QZaaSmCXcXzzOSAJgxssODGOnMZDzzFyZFlWadCyc4ABA/viewform">Google form for answers</a> - Submit by 8PM on Thursday, Dec 1 
 
 <b>GRADES 5-6: </b>
   Sunday Dec 4 at 11:00am
-  * <a href="[https://drive.google.com/file/d/1ZL8kSiMBsfdN75HaNXLH3TtcjNLKo8sP/view](https://drive.google.com/file/d/19MYqbfr_CjexD1RrqgniCiuLpckd7xe2/view)">Kangaroo G56 2014 </a> 
-  * <a href="[https://docs.google.com/forms/d/e/1FAIpQLSfprMs2PhqgZ9D1XO3H4HgQCgYM9thFkbMIi2QK_2Rwx5jQxg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfy0PhOyd8jzcr_AobXRiHufqNl73XtadS7M7pMUypstEoTfA/viewform)">Google form for answers</a> - Submit by 8PM on Saturday, Dec 3
+  * <a href="https://drive.google.com/file/d/19MYqbfr_CjexD1RrqgniCiuLpckd7xe2/view">Kangaroo G56 2014 </a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSfy0PhOyd8jzcr_AobXRiHufqNl73XtadS7M7pMUypstEoTfA/viewform">Google form for answers</a> - Submit by 8PM on Saturday, Dec 3
  
 <b>Levels 7+:</b> 
   Sunday Dec 4 at 12:30pm 
