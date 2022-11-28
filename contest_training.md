@@ -11,7 +11,7 @@ Email <b>tutoring@renert.com</b> with any questions.
 
 <b>GRADES 1-2:</b>
 Saturday Dec 3 at 3:00pm
- * <a href="https://drive.google.com/file/d/12ow1tWpWc6hLN-AbFe0H0KRfPDwai08r/view">Kangaroo G12 2014</a> 
+ * <a href="[https://drive.google.com/file/d/12ow1tWpWc6hLN-AbFe0H0KRfPDwai08r/view](https://docs.google.com/forms/d/e/1FAIpQLSdr10IiHui39hRzeoyXH0UgRqmK8yfWa1GflW1UhZnXecpEGA/viewform)">Kangaroo G12 2014</a> 
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6-k5PQTi9d3aq0p7CtonplkQ0kAPHTjNufdWgO7i57O7CmQ/viewform">Google form for answers</a> - Submit by 8PM on Friday, Dec 2
 
  <b>GRADES 3-4:</b> 
@@ -26,7 +26,7 @@ Saturday Dec 3 at 3:00pm
  
 <b>Levels 7+:</b> 
   Sunday Dec 4 at 12:30pm 
-  * <a href="[https://drive.google.com/file/d/1eYxhu2euF3vV8SkWpSGzC-jEwpriNHyn/view](https://drive.google.com/file/d/1POFeZsmQFf6YjUlMHOdW74bhAnO2RX6m/view)">Pascal 2014</a>
+  * <a href="https://drive.google.com/file/d/1POFeZsmQFf6YjUlMHOdW74bhAnO2RX6m/view">Pascal 2014</a>
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdr10IiHui39hRzeoyXH0UgRqmK8yfWa1GflW1UhZnXecpEGA/viewform">Google form for answers</a> - Submit by 8PM on Saturday, Dec 3
 
 
