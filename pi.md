@@ -1,6 +1,6 @@
-### Renert &pi; Day challenge 2022
+### Renert &pi; Day challenge 2023
 
-The finals will take place on Monday, March 14 during your normal math class. Finalists will compete in their classrooms, with their teacher checking digits. To be a finalist, you must be in the top 10 of your grade (K through grade 6) or division (division 3 and division 4) during qualifiers the week before.
+The finals will take place on Tuesday, March 14 during your normal math class. Finalists will compete in their classrooms, with their teacher checking digits. To be a finalist, you must be in the top 5 of your grade (K through grade 6) or division (division 3 and division 4) during qualifiers the week before.
 
 Rules:
 - Students get 3 "strikes": a strike only counts if the supervising teacher needs to stop the student and correct them. If the student catches themselves ("3.14159, 897 - I mean 26535"), then no problem. In light of this, teachers will not immediately react to correct and incorrect digits recited, and instead give a few seconds just in case.
@@ -24,6 +24,16 @@ Gr 7-12
 
 Note: all records are counting decimal digits, rather than digits - that is, digits after the decimal place. In this way, 3.141 counts as 3 "digits".
 
+2022 records:
+ * K: Soloman and Tuoli - 80
+ * Gr 1: Saanvi - 400
+ * Gr 2: Aarya - 300
+ * Gr 3: Kian - 335
+ * Gr 4: Jonathan - 800
+ * Gr 5: Jeffery - 585
+ * Gr 6: Elliot - 735
+ * Gr 7-12: Matthew - 2370
+
 2021 records:
  * K: Saanvi - 200
  * Gr 1: Everett - 190
@@ -45,13 +55,13 @@ All-time records:
 
 2021 records:
  * K: Saanvi - 200 (2021)
- * Gr 1: Everett - 190 (2021)
- * Gr 2: Kian - 190 (2021)
+ * Gr 1: Saanvi - 400 (2022)
+ * Gr 2: Aarya - 300 (2022)
  * Gr 3: Jonathan - 429 (2021)
- * Gr 4: Jeffrey - 505 (2021)
+ * Gr 4: Jonathan - 800 (2022)
  * Gr 5: Jeena - 525 (2020)
  * Gr 6: Matthew - 1176 (2021)
- * Gr 7-12: Brian - 1309 (2017)
+ * Gr 7-12: Matthew - 2370 (2022)
 
 <!--
  * K - Gr 1: Basil - 95 (2020)
