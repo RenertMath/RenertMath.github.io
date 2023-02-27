@@ -52,8 +52,6 @@ Note: all records are counting decimal digits, rather than digits - that is, dig
  * Gr 7-12: Emiri - 379
 
 All-time records:
-
-2021 records:
  * K: Saanvi - 200 (2021)
  * Gr 1: Saanvi - 400 (2022)
  * Gr 2: Aarya - 300 (2022)
