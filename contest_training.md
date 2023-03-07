@@ -10,8 +10,7 @@ Email <b>tutoring@renert.com</b> with any questions.
 <br><br>
 
 This will be our only session in March as we have Math Kangaroo coming up on March 19th and Renert Rabbit on the following week. This round will be going over the 2021 Renert Rabbit forms for all levels except 7+ which will be doing a higher level form.
-
-<br><br>
+<br>
 
 <b>GRADE 1:</b>
 Saturday March 11 at 3:00pm
