@@ -77,7 +77,8 @@ All-time records:
 
 ### Online links
    * <a href="https://in-thread.sonic-pi.net/t/sonic-pi-musical-spirograph/1813">Listen to &pi; here</a>
-   * <a href="https://www.fhgr.ch/fachgebiete/angewandte-zukunftstechnologien/davis-zentrum/pi-challenge/#c15513">World record &pi; computation</a> - 62.8 trillion digits
+   * <a href="https://cloud.google.com/blog/products/compute/calculating-100-trillion-digits-of-pi-on-google-cloud"> World record &pi; computation (2022)</a> - 100 trillion digits
+   * <a href="https://www.fhgr.ch/fachgebiete/angewandte-zukunftstechnologien/davis-zentrum/pi-challenge/#c15513">(old) World record &pi; computation (2021)</a> - 62.8 trillion digits
    * <a href="https://pi.delivery/">pi.delivery</a> - Created by Google, this website has lots of information and demos. You can also find the first 50 trillion (50 000 000 000 000) digits of &pi; here!
-   * <a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record">pi world record</a> - A blog detailing the (old) world record computation of the digits of &pi; (50 000 000 000 000).
+   * <a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record">pi world record</a> - A blog detailing the (old) world record computation (2019) of the digits of &pi; (50 000 000 000 000).
    * <a href="https://www.piday.org/million/">1 million digits of &pi;</a> - As the title suggests, this is a website showing the first 1 million digits of &pi; on a single page.
