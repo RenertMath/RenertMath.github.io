@@ -62,7 +62,7 @@
     <h2> Useful Links </h2>
     <p>
       <ul>
-        <li><a href="https://docs.google.com/document/d/1Ag_JfeakR__Lp3QTsUHtt_DT6hfYD8P-aB9Xw4bkMW0/edit?usp=sharing">RTC information</a></li>
+        <li><a href="https://docs.google.com/document/d/1NkvDu8ZAuVWBqDF-OmXuU11pMCPjrcG8pBlrv2RB0WE/edit?usp=sharing">RTC information</a></li>
       </ul> 
     </p>
 </div></div>
