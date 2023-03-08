@@ -23,7 +23,7 @@ Saturday March 11 at 3:00pm
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSfDZUSbJobQtAWpPqfhAIoNWkO8vp_62RiLHgiG0no0cfL4KQ/viewform">Google form for answers</a> - Submit by 8PM on Thursday, Mar 9 
 
 <b>GRADE 4: </b>
-  Sunday March 12 at 11:00am
+  Sunday March 12 at 1:00pm
   * <a href="https://drive.google.com/file/d/1gFNW6yYKqqQ6DEbk7dPYJVaNuShz85V0/view?usp=share_link">Renert Rabbit G4 2021 </a> 
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSf6o8xdPuC6y6sF2IWgGLOs-9R0-j8Nmp-DeLriMm2z1jXFjQ/viewform?usp=sf_link">Google form for answers</a> - Submit by 8PM on Saturday, Mar 11
  
