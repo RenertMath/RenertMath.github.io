@@ -1,6 +1,6 @@
 ### Renert &pi; Day challenge 2023
 
-The finals will take place on Monday, March 13 (Grade 4 and 7-12), and Tuesday, March 14 (K, Grades 1-3, and Grade 6) during your normal math class. Finalists will compete in their classrooms, with their teacher checking digits. To be a finalist, you must be in the top 5 of your grade (K through grade 6) or division (division 3 and division 4) during qualifiers the week before.
+The finals will take place on Monday, March 13 (Grade 4 and 7-12), and Tuesday, March 14 (K, Grades 1-3, and Grade 6) during your normal math class. Finalists will compete in a common area, with a teacher checking digits. To be a finalist, you must be in the top 5 of your grade (K through grade 6) or of division 3/4 during qualifiers the week before.
 
 Rules:
 - Be courteous and respectful. This is a fun event, and unkindness of any sort will not be tolerated.
@@ -24,6 +24,9 @@ Gr 7-12
 -->
 
 Note: all records are counting decimal digits, rather than digits - that is, digits after the decimal place. In this way, 3.141 counts as 3 "digits".
+
+2023 records:
+
 
 2022 records:
  * K: Soloman and Tuoli - 80
