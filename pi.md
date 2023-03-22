@@ -26,7 +26,14 @@ Gr 7-12
 Note: all records are counting decimal digits, rather than digits - that is, digits after the decimal place. In this way, 3.141 counts as 3 "digits".
 
 2023 records:
-
+ * K: Nathan - 61
+ * Gr 1: Tuoli - 215
+ * Gr 2: Saanvi - 811
+ * Gr 3: Everett - 207
+ * Gr 4: Kian - 605
+ * Gr 5: Jonathan - 1205
+ * Gr 6: Jaiven - 787
+ * Gr 7-12: Matthew - 2860
 
 2022 records:
  * K: Soloman and Tuoli - 80
@@ -58,12 +65,12 @@ Note: all records are counting decimal digits, rather than digits - that is, dig
 All-time records:
  * K: Saanvi - 200 (2021)
  * Gr 1: Saanvi - 400 (2022)
- * Gr 2: Aarya - 300 (2022)
+ * Gr 2: Saanvi - 811 (2023)
  * Gr 3: Jonathan - 429 (2021)
  * Gr 4: Jonathan - 800 (2022)
- * Gr 5: Jeena - 525 (2020)
+ * Gr 5: Jonathan - 1205 (2023)
  * Gr 6: Matthew - 1176 (2021)
- * Gr 7-12: Matthew - 2370 (2022)
+ * Gr 7-12: Matthew - 2860 (2023)
 
 <!--
  * K - Gr 1: Basil - 95 (2020)
