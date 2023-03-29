@@ -40,18 +40,7 @@
     </p>
       </div>
 
+<hr>
 
 
 
-<div class="row">
-  <div class="column">
-       
-      <ul>
-               
-             </ul> 
-    </p>
-  <p><br>
-  <p><h2>Announcements</h2></p>
-  <p><h2>Training Sessions</h2></p></p>
-  </div>
-  
