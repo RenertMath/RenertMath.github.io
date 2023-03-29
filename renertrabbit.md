@@ -1,7 +1,9 @@
+
+  <h2> Past Contests </h2>
 <div class="row">
   <div class="column">
    
-    <h2> Past Contests </h2>
+    <h2> 2023</h2>
     <p>
       <ul>
         <li> <a href="https://MerrickMath.github.io"> 2023 </a>  </li>
