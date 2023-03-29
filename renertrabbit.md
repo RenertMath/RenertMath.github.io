@@ -26,9 +26,7 @@
   <div class="column">
     <h2> Training sessions </h2>
     <p>
-      
-    
-  </div>
+     
   <div class="column">
     <h2> Contests </h2><p>
      
