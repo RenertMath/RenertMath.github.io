@@ -12,7 +12,7 @@
              </ul> 
     </p>
   <p>Announcements</p>
-  <p>Trainning Sessions</p>
+  <p>Training Sessions</p>
   </div>
   <div class="column">
     <h2> 2022 </h2>
