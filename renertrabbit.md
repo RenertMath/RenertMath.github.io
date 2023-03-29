@@ -11,7 +11,7 @@
          <li> <a href="renertrabbit/2023 Renert Rabbit Gr6.pdf"> Renert Rabbit Grade 6 </a>  <br> <a href="renertrabbit/2023 Renert Rabbit Gr6 SOLUTIONS.pdf"> RR Grade 6 Key </a>  </li>
              </ul> 
     </p>
-  <p>
+  <p><br>
   <p><h2>Announcements</h2></p>
   <p><h2>Training Sessions</h2></p></p>
   </div>
