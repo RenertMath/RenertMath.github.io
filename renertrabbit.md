@@ -11,8 +11,8 @@
          <li> <a href="https://MerrickMath.github.io"> Grade 6 </a>  </li>
              </ul> 
     </p>
-  <p>Announcements</p>
-  <p>Training Sessions</p>
+  <p><h2>Announcements</h2></p>
+  <p><h2>Training Sessions</h2></p>
   </div>
   <div class="column">
     <h2> 2022 </h2>
