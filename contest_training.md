@@ -33,7 +33,6 @@ Saturday Arpil 14 at 3:00pm
   Sunday April 16 at 12:30pm 
   * <a href="https://drive.google.com/file/d/1zprpQUeNeEX_lAgpJcOQEMuDOYwspfzY/view?usp=share_link">Cayley 2016</a>
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSctj0l1K9mS9R_d_3qBOZIc4bDXxiNu1z4MpqMtwA-rLS66Pg/viewform?usp=sf_link">Google form for answers</a> - Submit by 8PM on Saturday, April 15
-  * 
 
 <!--
 <b>GRADES 1-2:</b>
