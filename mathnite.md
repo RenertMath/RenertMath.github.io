@@ -2,5 +2,6 @@ Renert Math Nite is inspired by the Math Nite put on by the University of Calgar
 
 This session will take place at Renert School on Wednesday, May 3, 6:00PM-8:00PM, in room 2514/2515. Please register <a href="https://forms.gle/whvTsigCQ9SuaodSA">here</a> for logistical purposes.
 
+Faculty contact: vincent (dot) chan (at) renertschool (dot) ca
 
 Come for a night of fun math challenges!
