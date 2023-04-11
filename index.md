@@ -30,11 +30,12 @@
     
   </div>
   <div class="column">
-    <h2> Contests </h2><p>
+    <h2> Enrichment </h2><p>
       <ul>
-        <li> <a href="https://renertmath.github.io/contests.html"> General Contest Information </a> </li>
-        <li><a href="https://renertmath.github.io/contest_training.html"> Training Sessions </a> </li>
+        <li> <a href="https://renertmath.github.io/contests.html"> General contest information </a> </li>
+        <li><a href="https://renertmath.github.io/contest_training.html"> Contest training Sessions </a> </li>
         <li><a href="https://renertmath.github.io/renertrabbit.html"> Renert Rabbit Competition </a> </li>
+        <li><a href="https://renertmath.github.io/mathnite.html"> Math Nite </a> </li>
         <!--
         <li><b>RESMC</b> Renert Elementary School Math Contest 2021 - <a href="https://renertmath.github.io/contests/nameourcontest" target="_blank">NAME OUR CONTEST</a></li>
         <li><a href="https://renertmath.github.io/contests/renertrabbit.md" target="_blank">Renert Contest: registration and information</a> </li>
