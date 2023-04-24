@@ -9,51 +9,46 @@
 Email <b>tutoring@renert.com</b> with any questions.
 <br><br>
 
-<b>GRADE 1:</b>
-Saturday Arpil 14 at 3:00pm
- * <a href="https://drive.google.com/file/d/1MHavmrvxOI5OL70sEI5Y-30oAsYrVlNI/view?usp=share_link">Renert Rabbit G1 2023</a> 
-  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSduZhVTLkWciuqBmEt16PDdjdPEBnmCMxMtULVfcAAh91fubg/viewform?usp=sf_link">Google form for answers</a> - Submit by 8PM on Friday, April 13
+<b>GRADE 1 -2:</b>
+Saturday Arpil 29 at 3:00pm
+ * <a href="https://drive.google.com/file/d/1nl2I0PHIVX0KrANvw51n3v7js91Ya3m1/view?usp=share_link">G12 Kangaroo 2019</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTFCtMCogTEcF5VKFLaXSPtosAfDdsiXDUoxR-pEiz8GF88Q/viewform?usp=sf_link">Google form for answers</a> - Submit by 8PM on Friday, April 28
 
- <b>GRADES 2-3:</b> 
-  Friday April 14 at 5:00pm
-  * <a href="https://drive.google.com/file/d/1BGa1gS8nNIjMrapdw9Vd-EiWPPfSd5d3/view?usp=share_link">Renert Rabbit G23 2023</a> 
-  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYMIea1eDpkVMuHBpd9-AxcolGDez3Umh8zkjO3NH4_MaZkQ/viewform?usp=sf_link">Google form for answers</a> - Submit by 8PM on Thursday, April 13 
+ <b>GRADES 3-4:</b> 
+  Friday April 27 at 5:00pm
+  * <a href="https://drive.google.com/file/d/1SXq1yW_gn1P4i9KD6hjQkBw-NK1saesx/view?usp=share_link">CESMC L2 2019</a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdL82IVoVX7st-BBasDNe2dSgaWc7GytFn6GO0-ceI5_PS4Kw/viewform?usp=sf_link">Google form for answers</a> - Submit by 8PM on Thursday, April 26 
 
-<b>GRADES 4-5: </b>
-  Sunday April 16 at 1:00pm
-  * <a href="https://drive.google.com/file/d/1fiULLOdkawTJm5APE6Iuh4o8lQeaBQ1Z/view?usp=share_link">Renert Rabbit G4-5 2023 </a> 
-  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSefP5Qt1ZprADQGG9h6mtpIKShZjyiwZPuarM6RMT3g8IblCA/viewform?usp=sf_link">Google form for answers</a> - Submit by 8PM on Saturday, April 15
- 
- <b>GRADE 6: </b>
-  Sunday April 16 at 11:00am
-  * <a href="https://drive.google.com/file/d/1qHPEzlaxo7KOpK6wcnF51Kl4cK65Gq8a/view?usp=share_link">Renert Rabbit G6 2023 </a> 
-  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSevAx-9DmSVZE3SMFq_6uOy0KSwNSizErFqCxMsr8xfv0SDRA/viewform?usp=sf_link">Google form for answers</a> - Submit by 8PM on Saturday, April 15
+<b>GRADES 5-6: </b>
+  Sunday April 30 at 1:00pm
+  * <a href="https://drive.google.com/file/d/1S6kN_hyu8vvoknQtgsku640H-lx8QZUU/view?usp=share_link"> Gauss G7 2015 </a> 
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMMmp9sBMLhS6R3gM515C3PCBnPcfFr1orHLX1dZPOqTSpjw/viewform?usp=sf_link">Google form for answers</a> - Submit by 8PM on Saturday, April 29
  
 <b>Levels 7+:</b> 
-  Sunday April 16 at 12:30pm 
-  * <a href="https://drive.google.com/file/d/1zprpQUeNeEX_lAgpJcOQEMuDOYwspfzY/view?usp=share_link">Cayley 2016</a>
-  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSctj0l1K9mS9R_d_3qBOZIc4bDXxiNu1z4MpqMtwA-rLS66Pg/viewform?usp=sf_link">Google form for answers</a> - Submit by 8PM on Saturday, April 15
+  Sunday April 30 at 12:30pm 
+  * <a href="https://drive.google.com/file/d/1umpTIfbf5AIqJtak56XLJEmnG25ggn9O/view?usp=share_link">Kangaroo G9-10 2015</a>
+  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSfbqAuJrchKAGXnkolCUJTaJddeNVIQtGniehBYSwxtn3JZXQ/viewform?usp=sf_link">Google form for answers</a> - Submit by 8PM on Saturday, April 29
 
 <!--
 <b>GRADES 1-2:</b>
 Thursday Nov 3 at 6:30pm
- * <a href="https://drive.google.com/file/d/1cgpLYAGWmzorevnEf8a13Bc6PQArAe2K/view">Kangaroo G12 2012</a> 
-  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBeuLFlJrDpnMzMJEzrUgEG2WBpINNx4S4sP5hJYxElS5dxQ/viewform?usp=share_link">Google form for answers</a> - Submit by 8PM on Wednesday, Nov 2
+ * <a href="">Kangaroo G12 2012</a> 
+  * <a href="">Google form for answers</a> - Submit by 8PM on Wednesday, Nov 2
 
  <b>GRADES 3-4:</b> 
   Friday Nov 4 at 5:00pm
-  * <a href="https://drive.google.com/file/d/1R4mgLPpIn099Znxz7Hyzq5GuGB3TBBVP/view">Kangaroo G34 2013</a> 
-  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdNXus22Ug6GwxgaU_VUF6UGSHkoXvucAZ_nTbDJX3ekNSJ6Q/viewform">Google form for answers</a> - Submit by 8PM on Thursday, Nov 3 
+  * <a href="">Kangaroo G34 2013</a> 
+  * <a href="">Google form for answers</a> - Submit by 8PM on Thursday, Nov 3 
 
 <b>GRADES 5-6: </b>
   Sunday Nov 5 at 11:00am
-  * <a href="https://drive.google.com/file/d/17rzLcPX91g6oQFlZkvYPWZeD9BI_7otf/view">Kangaroo G56 2013</a> 
-  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0SOmkIsU3Q3dYKs-2N-1WqWd99rVfBxa5Hk4CMSeLm9FnXw/viewform">Google form for answers</a> - Submit by 8PM on Saturday, Nov 4
+  * <a href="">Kangaroo G56 2013</a> 
+  * <a href="">Google form for answers</a> - Submit by 8PM on Saturday, Nov 4
  
 <b>Levels 7+:</b> 
   Sunday Nov 5 at 12:30pm 
-  * <a href="https://drive.google.com/file/d/1Q5I8XY1zhQAZ1540LyF9DbG0mPWfX8PK/view">Pascal 2011</a>
-  * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUYxdiUKdoEn8d9kJrjmDcDiiodzOFcOrgQjWM_RfP_iC-Lw/viewform">Google form for answers</a> - Submit by 8PM on Saturday, Nov 4
+  * <a href="">Pascal 2011</a>
+  * <a href="">Google form for answers</a> - Submit by 8PM on Saturday, Nov 4
 -->
 
 <br>
