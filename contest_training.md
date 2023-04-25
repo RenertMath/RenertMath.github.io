@@ -15,7 +15,7 @@ Saturday Arpil 29 at 3:00pm
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTFCtMCogTEcF5VKFLaXSPtosAfDdsiXDUoxR-pEiz8GF88Q/viewform?usp=sf_link">Google form for answers</a> - Submit by 8PM on Friday, April 28
 
  <b>GRADES 3-4:</b> 
-  Friday April 27 at 5:00pm
+  Friday April 28 at 5:00pm
   * <a href="https://drive.google.com/file/d/1SXq1yW_gn1P4i9KD6hjQkBw-NK1saesx/view?usp=share_link">CESMC L2 2019</a> 
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdL82IVoVX7st-BBasDNe2dSgaWc7GytFn6GO0-ceI5_PS4Kw/viewform?usp=sf_link">Google form for answers</a> - Submit by 8PM on Thursday, April 26 
 
