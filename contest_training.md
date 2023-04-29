@@ -20,7 +20,7 @@ Saturday Arpil 29 at 3:00pm
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdL82IVoVX7st-BBasDNe2dSgaWc7GytFn6GO0-ceI5_PS4Kw/viewform?usp=sf_link">Google form for answers</a> - Submit by 8PM on Thursday, April 26 
 
 <b>GRADES 5-6: </b>
-  Sunday April 30 at 1:00pm
+  Sunday April 30 at 11:00pm
   * <a href="https://drive.google.com/file/d/1S6kN_hyu8vvoknQtgsku640H-lx8QZUU/view?usp=share_link"> Gauss G7 2015 </a> 
   * <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMMmp9sBMLhS6R3gM515C3PCBnPcfFr1orHLX1dZPOqTSpjw/viewform?usp=sf_link">Google form for answers</a> - Submit by 8PM on Saturday, April 29
  
