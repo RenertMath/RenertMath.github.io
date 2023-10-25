@@ -1,4 +1,4 @@
-<b>Bright Minds Math Competition Club (MCC) <font color="red">is back!</font></b> for the 2022-23 school year 
+<b>Bright Minds Math Competition Club (MCC) <font color="red">is back!</font></b> for the 2023-24 school year 
 
 <b>How Does it work?</b> <br>
  *	In order to attend, the student MUST work on the contest form that will be discussed on the coming weekend, and solve it to the best of their ability. It is OK to not answer a question if the student has no idea how to do it. The whole point of the kids solving ahead of time is for them to get familiar with the questions, and for the instructors to know which questions we should go over.
@@ -8,6 +8,32 @@
 
 Email <b>tutoring@renert.com</b> with any questions.
 <br><br>
+
+<b>SESSION 1 </b>
+
+
+1	Nov 5	Nov 3	Nov 5	Nov 5
+	L1-2 Marina Sun@9am	L3-4 Nicha Fri@5pm	L5-6 Andy Sun@11am	L7+ Andy Sun@12:30pm
+"NOV 3-5
+1st MCC
+Session"	2021 - Kangaroo - 01-02 - test only.pdf	2021 - Kangaroo - 03-04 - test only.pdf	2020 - Kangaroo - 05-06 - test only.pdf	2019PascalContest.pdf
+	https://forms.gle/L12Hi7PLFu2YaEv66	https://forms.gle/HBcG7JSWp5J7ufTA9	https://forms.gle/Ebqxc4iN8juYvPgRA	https://forms.gle/mxz5XygJLHnUwSPn8
+	2021 - Kangaroo - 01-02 - test.pdf	2021 - Kangaroo - 03-04 - test.pdf	2020 - Kangaroo - 05-06 - test.pdf	2019PascalSolution.pdf
+	"PMI: 283 674 7551
+Passcode: GoosE"	"PMI: 724 089 2663
+Passcode: GoosE"	"PMI: 284 167 3363
+Passcode: GoosE"	"PMI: 284 167 3363
+Passcode: GoosE"
+	MCC 2023-2024 (L1-2) Responses	MCC 2023-2024 (L3-4) Responses	MCC 2023-2024 (L5-6) Responses	MCC 2023-2024 (L7+) Responses
+
+<b>SESSION 2 </b>
+<b>SESSION 3 </b>
+<b>SESSION 4 </b>
+<b>SESSION 5 </b>
+<b>SESSION 6 </b>
+<b>SESSION 7 </b>
+<b>SESSION 8 </b>
+
 
 <b>GRADE 1 -2:</b>
 Saturday Arpil 29 at 3:00pm
