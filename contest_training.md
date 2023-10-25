@@ -8,17 +8,20 @@
 
 Email <b>tutoring@renert.com</b> with any questions.
 <br><br>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tsde{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:bottom}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-4sn8{background-color:#0FF;border-color:inherit;font-weight:bold;text-align:center;vertical-align:bottom}
 .tg .tg-y02l{border-color:inherit;color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-ygsm{background-color:#0FF;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7g6k{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-yfjw{background-color:#ffffff;border-color:inherit;color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -32,25 +35,25 @@ Email <b>tutoring@renert.com</b> with any questions.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ygsm"><span style="font-weight:bold;background-color:#0FF">Nov 5</span></td>
-    <td class="tg-4sn8"><span style="font-weight:bold;background-color:#0FF">L1-2 Marina Sun@9am</span></td>
-    <td class="tg-y02l"><a href="https://drive.google.com/file/d/1VjhsQ7Vza0UhduFKPgdE7Jy7wPyvFTmh/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Kangaroo 1-2</a></td>
-    <td class="tg-y02l"><a href="https://forms.gle/L12Hi7PLFu2YaEv66" target="_blank" rel="noopener noreferrer">Google form for answers</a></td>
-    <td class="tg-0pky">"PMI: 283 674 7551</td>
+    <td class="tg-7g6k"><span style="font-weight:bold">Nov 5</span></td>
+    <td class="tg-tsde"><span style="font-weight:bold">L1-2 Marina Sun@9am</span></td>
+    <td class="tg-yfjw"><a href="https://drive.google.com/file/d/1VjhsQ7Vza0UhduFKPgdE7Jy7wPyvFTmh/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Kangaroo 1-2</a></td>
+    <td class="tg-yfjw"><a href="https://forms.gle/L12Hi7PLFu2YaEv66" target="_blank" rel="noopener noreferrer">Google form for answers</a></td>
+    <td class="tg-c6of">"PMI: 283 674 7551</td>
   </tr>
   <tr>
-    <td class="tg-ygsm"></td>
+    <td class="tg-amwm"></td>
     <td class="tg-4sn8">Level 3-4</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-ygsm"><span style="font-weight:bold;background-color:#0FF">Nov 3</span></td>
-    <td class="tg-ygsm"><span style="font-weight:bold;background-color:#0FF">L3-4 Nicha Fri@5pm</span></td>
-    <td class="tg-y02l"><a href="https://drive.google.com/file/d/1XjqXLEniwogk84h4G9RGHJIYnqCzzdyt/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Kangaroo 3-4</a></td>
-    <td class="tg-0pky"><a href="https://forms.gle/HBcG7JSWp5J7ufTA9" target="_blank" rel="noopener noreferrer">Google form for answer</a></td>
-    <td class="tg-0pky">"PMI: 724 089 2663</td>
+    <td class="tg-7g6k"><span style="font-weight:bold">Nov 3</span></td>
+    <td class="tg-7g6k"><span style="font-weight:bold">L3-4 Nicha Fri@5pm</span></td>
+    <td class="tg-yfjw"><a href="https://drive.google.com/file/d/1XjqXLEniwogk84h4G9RGHJIYnqCzzdyt/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Kangaroo 3-4</a></td>
+    <td class="tg-c6of"><a href="https://forms.gle/HBcG7JSWp5J7ufTA9" target="_blank" rel="noopener noreferrer">Google form for answer</a></td>
+    <td class="tg-c6of">"PMI: 724 089 2663</td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
@@ -60,11 +63,11 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-ygsm"><span style="font-weight:bold;background-color:#0FF">Nov 5</span></td>
-    <td class="tg-4sn8"><span style="font-weight:bold;background-color:#0FF">L5-6 Andy Sun@11am</span></td>
-    <td class="tg-0pky"><a href="https://drive.google.com/file/d/1TtQYbhoH53X1-bfT8bemMml0B50LaEwI/view?usp=share_link" target="_blank" rel="noopener noreferrer">2020 Kangaroo 5-6</a></td>
-    <td class="tg-0pky"><a href="https://forms.gle/Ebqxc4iN8juYvPgRA" target="_blank" rel="noopener noreferrer">Google form for answers</a></td>
-    <td class="tg-0pky">"PMI: 284 167 3363</td>
+    <td class="tg-7g6k"><span style="font-weight:bold">Nov 5</span></td>
+    <td class="tg-tsde"><span style="font-weight:bold">L5-6 Andy Sun@11am</span></td>
+    <td class="tg-c6of"><a href="https://drive.google.com/file/d/1TtQYbhoH53X1-bfT8bemMml0B50LaEwI/view?usp=share_link" target="_blank" rel="noopener noreferrer">2020 Kangaroo 5-6</a></td>
+    <td class="tg-c6of"><a href="https://forms.gle/Ebqxc4iN8juYvPgRA" target="_blank" rel="noopener noreferrer">Google form for answers</a></td>
+    <td class="tg-c6of">"PMI: 284 167 3363</td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
@@ -74,15 +77,14 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-ygsm"><span style="font-weight:bold;background-color:#0FF">Nov 5</span></td>
-    <td class="tg-4sn8"><span style="font-weight:bold;background-color:#0FF">L7+ Andy Sun@12:30pm</span></td>
-    <td class="tg-0pky"><a href="https://drive.google.com/file/d/1wjFVOktGGsoX1GW2NsV1hwywyn73py3B/view?usp=share_link" target="_blank" rel="noopener noreferrer">2019 Pascal</a></td>
-    <td class="tg-0pky"><a href="https://forms.gle/mxz5XygJLHnUwSPn8" target="_blank" rel="noopener noreferrer">Google form for answers</a></td>
-    <td class="tg-0pky">"PMI: 284 167 3363</td>
+    <td class="tg-7g6k"><span style="font-weight:bold">Nov 5</span></td>
+    <td class="tg-tsde"><span style="font-weight:bold">L7+ Andy Sun@12:30pm</span></td>
+    <td class="tg-c6of"><a href="https://drive.google.com/file/d/1wjFVOktGGsoX1GW2NsV1hwywyn73py3B/view?usp=share_link" target="_blank" rel="noopener noreferrer">2019 Pascal</a></td>
+    <td class="tg-c6of"><a href="https://forms.gle/mxz5XygJLHnUwSPn8" target="_blank" rel="noopener noreferrer">Google form for answers</a></td>
+    <td class="tg-c6of">"PMI: 284 167 3363</td>
   </tr>
 </tbody>
 </table>
-
 
 <b>SESSION 2 </b>
 <b>SESSION 3 </b>
