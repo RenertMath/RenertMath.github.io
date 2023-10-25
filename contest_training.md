@@ -12,19 +12,6 @@ Email <b>tutoring@renert.com</b> with any questions.
 <b>SESSION 1 </b>
 
 
-1	Nov 5	Nov 3	Nov 5	Nov 5
-	L1-2 Marina Sun@9am	L3-4 Nicha Fri@5pm	L5-6 Andy Sun@11am	L7+ Andy Sun@12:30pm
-"NOV 3-5
-1st MCC
-Session"	2021 - Kangaroo - 01-02 - test only.pdf	2021 - Kangaroo - 03-04 - test only.pdf	2020 - Kangaroo - 05-06 - test only.pdf	2019PascalContest.pdf
-	https://forms.gle/L12Hi7PLFu2YaEv66	https://forms.gle/HBcG7JSWp5J7ufTA9	https://forms.gle/Ebqxc4iN8juYvPgRA	https://forms.gle/mxz5XygJLHnUwSPn8
-	2021 - Kangaroo - 01-02 - test.pdf	2021 - Kangaroo - 03-04 - test.pdf	2020 - Kangaroo - 05-06 - test.pdf	2019PascalSolution.pdf
-	"PMI: 283 674 7551
-Passcode: GoosE"	"PMI: 724 089 2663
-Passcode: GoosE"	"PMI: 284 167 3363
-Passcode: GoosE"	"PMI: 284 167 3363
-Passcode: GoosE"
-	MCC 2023-2024 (L1-2) Responses	MCC 2023-2024 (L3-4) Responses	MCC 2023-2024 (L5-6) Responses	MCC 2023-2024 (L7+) Responses
 
 <b>SESSION 2 </b>
 <b>SESSION 3 </b>
