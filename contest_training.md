@@ -16,30 +16,31 @@ Brightminds students should attend the sessons based on their Book Level, not t
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ae1a{background-color:#ffffff;border-color:#000000;color:#00E;text-align:center;text-decoration:underline;vertical-align:top
+  }
 .tg .tg-rfms{background-color:#0FF;border-color:#000000;font-weight:bold;text-align:center;vertical-align:bottom}
 .tg .tg-fyfk{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0jzc{background-color:#FFF;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-15br{background-color:#ffffff;border-color:inherit;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-ur7z{background-color:#ffffff;border-color:#000000;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-ujn8{background-color:#ffccc9;border-color:#000000;font-weight:bold;text-align:center;vertical-align:bottom}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 .tg .tg-r2u2{background-color:#ffce93;border-color:inherit;font-weight:bold;text-align:center;vertical-align:bottom}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-y02l{border-color:inherit;color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-mums{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-4tno{background-color:#ffffff;border-color:#000000;color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-jbyd{background-color:#ffffff;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7hz3{background-color:#ffffff;border-color:#000000;text-align:center;text-decoration:underline;vertical-align:top}
 .tg .tg-84da{background-color:#9aff99;border-color:#000000;font-weight:bold;text-align:center;vertical-align:bottom}
-.tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-s3iv{background-color:#ffffff;border-color:inherit;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 693px">
+<table class="tg" style="undefined;table-layout: fixed; width: 856px">
 <colgroup>
 <col style="width: 67.333333px">
+<col style="width: 218.333333px">
+<col style="width: 173.333333px">
 <col style="width: 185.333333px">
-<col style="width: 143.333333px">
-<col style="width: 164.333333px">
-<col style="width: 132.333333px">
+<col style="width: 211.333333px">
 </colgroup>
 <thead>
   <tr>
@@ -53,10 +54,10 @@ Brightminds students should attend the sessons based on their Book Level, not t
 <tbody>
   <tr>
     <td class="tg-mums"><span style="font-weight:bold">Nov 5</span></td>
-    <td class="tg-0jzc"><span style="font-weight:bold">L1-2 Marina Sun@9am</span></td>
-    <td class="tg-4tno">2021 Kangaroo 1-2</td>
-    <td class="tg-4tno">Google form for answers</td>
-    <td class="tg-iks7">PMI: 283 674 7551<br>passcode GoosE</td>
+    <td class="tg-0jzc"><span style="font-weight:bold">Sunday @ 9am</span></td>
+    <td class="tg-ae1a">2021 Kangaroo 1-2</td>
+    <td class="tg-ae1a">Google form for answers</td>
+    <td class="tg-jbyd">PMI: 283 674 7551<br>passcode GoosE</td>
   </tr>
   <tr>
     <td class="tg-mqa1"></td>
@@ -67,10 +68,10 @@ Brightminds students should attend the sessons based on their Book Level, not t
   </tr>
   <tr>
     <td class="tg-mums"><span style="font-weight:bold">Nov 3</span></td>
-    <td class="tg-mums"><span style="font-weight:bold">L3-4 Nicha Fri@5pm</span></td>
-    <td class="tg-4tno">2021 Kangaroo 3-4</td>
-    <td class="tg-ur7z">Google form for answer</td>
-    <td class="tg-iks7">PMI: 724 089 2663<br>passcode GoosE</td>
+    <td class="tg-mums"><span style="font-weight:bold">Friday @ 5pm</span></td>
+    <td class="tg-ae1a">2021 Kangaroo 3-4</td>
+    <td class="tg-7hz3">Google form for answer</td>
+    <td class="tg-jbyd">PMI: 724 089 2663<br>passcode GoosE</td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
@@ -81,10 +82,10 @@ Brightminds students should attend the sessons based on their Book Level, not t
   </tr>
   <tr>
     <td class="tg-mums"><span style="font-weight:bold">Nov 5</span></td>
-    <td class="tg-0jzc"><span style="font-weight:bold">L5-6 Andy Sun@11am</span></td>
-    <td class="tg-ur7z">2020 Kangaroo 5-6</td>
-    <td class="tg-ur7z">Google form for answers</td>
-    <td class="tg-iks7">PMI: 284 167 3363<br>passcode GoosE</td>
+    <td class="tg-0jzc"><span style="font-weight:bold">Sunday @ 11am</span></td>
+    <td class="tg-7hz3">2020 Kangaroo 5-6</td>
+    <td class="tg-7hz3">Google form for answers</td>
+    <td class="tg-jbyd">PMI: 284 167 3363<br>passcode GoosE</td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
@@ -95,10 +96,10 @@ Brightminds students should attend the sessons based on their Book Level, not t
   </tr>
   <tr>
     <td class="tg-mums"><span style="font-weight:bold">Nov 5</span></td>
-    <td class="tg-fyfk"><span style="font-weight:bold">L7+ Andy Sun@12:30pm</span></td>
-    <td class="tg-15br">2019 Pascal</td>
-    <td class="tg-15br">Google form for answers</td>
-    <td class="tg-c6of">PMI: 284 167 3363<br>passcode GoosE</td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Sunday @ 12:30pm</span></td>
+    <td class="tg-s3iv">2019 Pascal</td>
+    <td class="tg-s3iv">Google form for answers</td>
+    <td class="tg-3xi5">PMI: 284 167 3363<br>passcode GoosE</td>
   </tr>
 </tbody>
 </table>
