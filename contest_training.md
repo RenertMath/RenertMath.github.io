@@ -2,15 +2,13 @@
 
 <b>How Does it work?</b> <br>
  *	In order to attend, the student MUST work on the contest form that will be discussed on the coming weekend, and solve it to the best of their ability. It is OK to not answer a question if the student has no idea how to do it. The whole point of the kids solving ahead of time is for them to get familiar with the questions, and for the instructors to know which questions we should go over.
- *	The student MUST send us the GoogleForm Bubble Sheet (links below) the evening prior to their scheduled session with their solutions in order to participate in the weekend session.
+ *	The student MUST send us their answers through the link 'Your answer here' by the evening prior to their scheduled session in order to participate in the session.
  *	When there is more than one child per household attending, each student should submit the form with their solutions.
  *	Please submit a SINGLE form per student. Multiple entries are unnecessary.
-
+* Students can attend one level up or down based on their comfort level.<br>
 Email <b>tutoring@renert.com</b> with any questions.
-<br><br>
-** Students can attend one level up or down based on their comfort level ** <br><br>
-
-<style type="text/css">
+<br>
+  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
