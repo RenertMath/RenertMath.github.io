@@ -5,10 +5,9 @@
  *	The student MUST send us their answers through the link 'Your answers here' by the evening prior to their scheduled session in order to participate in the session.
  *	When there is more than one child per household attending, each student should submit the form with their solutions.
  *	Please submit a SINGLE form per student. Multiple entries are unnecessary.
-* Students can attend one level up or down based on their comfort level.<br><br>
+<b><font color="red">* Students can attend one level up or down based on their comfort level.</font></b><br><br>
 Email <b>tutoring@renert.com</b> with any questions.
 <br>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -47,15 +46,15 @@ Email <b>tutoring@renert.com</b> with any questions.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-alsg">Level 1-2</td>
-    <td class="tg-crqu">Level 3-4</td>
-    <td class="tg-tpog">Level 5-6</td>
-    <td class="tg-ygsm">Level 7 +</td>
+    <td class="tg-alsg">Grade 1-2</td>
+    <td class="tg-crqu">Grade 3-4</td>
+    <td class="tg-tpog">Grade 5-6</td>
+    <td class="tg-ygsm">Grade 7 +</td>
   </tr>
   <tr>
     <td class="tg-0jzc"><span style="font-weight:bold">Nov 5 - Sunday @ 9am</span></td>
     <td class="tg-bohg">Nov 3 - Friday @ 5pm</td>
-    <td class="tg-bohg">Nov 5 - Sunday @ 12:30pm</td>
+    <td class="tg-bohg">Nov 5 - Sunday @ 11:00am</td>
     <td class="tg-0jzc"><span style="font-weight:bold">Nov 5 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
@@ -80,15 +79,15 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 2:      </span>Nov 17 - 19</td>
   </tr>
   <tr>
-    <td class="tg-alsg">Level 1-2</td>
-    <td class="tg-crqu">Level 3-4</td>
-    <td class="tg-jch0">Level 5-6</td>
-    <td class="tg-ygsm">Level 7 +</td>
+    <td class="tg-alsg">Grade 1-2</td>
+    <td class="tg-crqu">Grade 3-4</td>
+    <td class="tg-jch0">Grade 5-6</td>
+    <td class="tg-ygsm">Grade 7 +</td>
   </tr>
   <tr>
     <td class="tg-fyfk"><span style="font-weight:bold">Nov 19 - Sunday @ 9am</span></td>
     <td class="tg-fyfk"><span style="font-weight:bold">Nov 17 - Friday @ 5pm</span></td>
-    <td class="tg-fyfk"><span style="font-weight:bold">Nov 19 - Sunday @ 12:30pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Nov 19 - Sunday @ 11:00am</span></td>
     <td class="tg-fyfk"><span style="font-weight:bold">Nov 19 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
@@ -113,90 +112,90 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-75eo" colspan="4"><span style="font-weight:bold">SESSION 3:      </span>Dec 1 - 3</td>
   </tr>
   <tr>
-    <td class="tg-alsg">Level 1-2</td>
-    <td class="tg-crqu">Level 3-4</td>
-    <td class="tg-jch0">Level 5-6</td>
-    <td class="tg-ygsm">Level 7 +</td>
+    <td class="tg-alsg">Grade 1-2</td>
+    <td class="tg-crqu">Grade 3-4</td>
+    <td class="tg-jch0">Grade 5-6</td>
+    <td class="tg-ygsm">Grade 7 +</td>
   </tr>
   <tr>
     <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 9am</span></td>
     <td class="tg-fyfk"><span style="font-weight:bold">Dec 1 - Friday @ 5pm</span></td>
-    <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 12:30pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 11:00pm</span></td>
     <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
     <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 4:      </span>Dec 15 - 17</td>
   </tr>
   <tr>
-    <td class="tg-alsg">Level 1-2</td>
-    <td class="tg-crqu">Level 3-4</td>
-    <td class="tg-jch0">Level 5-6</td>
-    <td class="tg-ygsm">Level 7 +</td>
+    <td class="tg-alsg">Grade 1-2</td>
+    <td class="tg-crqu">Grade 3-4</td>
+    <td class="tg-jch0">Grade 5-6</td>
+    <td class="tg-ygsm">Grade 7 +</td>
   </tr>
   <tr>
     <td class="tg-fyfk"><span style="font-weight:bold">Dec 17 - Sunday @ 9am</span></td>
     <td class="tg-fyfk"><span style="font-weight:bold">Dec 15 - Friday @ 5pm</span></td>
-    <td class="tg-fyfk"><span style="font-weight:bold">Dec 17 - Sunday @ 12:30pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 17 - Sunday @ 11:00am</span></td>
     <td class="tg-fyfk"><span style="font-weight:bold">Dec 17 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
     <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 5:     </span>Jan 19 - 21</td>
   </tr>
   <tr>
-    <td class="tg-alsg">Level 1-2</td>
-    <td class="tg-crqu">Level 3-4</td>
-    <td class="tg-jch0">Level 5-6</td>
-    <td class="tg-ygsm">Level 7 +</td>
+    <td class="tg-alsg">Grade 1-2</td>
+    <td class="tg-crqu">Grade 3-4</td>
+    <td class="tg-jch0">Grade 5-6</td>
+    <td class="tg-ygsm">Grade 7 +</td>
   </tr>
   <tr>
     <td class="tg-fyfk"><span style="font-weight:bold">Jan 21 - Sunday @ 9am</span></td>
     <td class="tg-fyfk"><span style="font-weight:bold">Jan 19 - Friday @ 5pm</span></td>
-    <td class="tg-fyfk"><span style="font-weight:bold">Jan 21 - Sunday @ 12:30pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Jan 21 - Sunday @ 11:00pm</span></td>
     <td class="tg-fyfk"><span style="font-weight:bold">Jan 21 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
     <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 6:     Feb 2 - 4</span></td>
   </tr>
   <tr>
-    <td class="tg-alsg">Level 1-2</td>
-    <td class="tg-crqu">Level 3-4</td>
-    <td class="tg-jch0">Level 5-6</td>
-    <td class="tg-ygsm">Level 7 +</td>
+    <td class="tg-alsg">Grade 1-2</td>
+    <td class="tg-crqu">Grade 3-4</td>
+    <td class="tg-jch0">Grade 5-6</td>
+    <td class="tg-ygsm">Grade 7 +</td>
   </tr>
   <tr>
     <td class="tg-fyfk"><span style="font-weight:bold">Feb 4 - Sunday @ 9am</span></td>
     <td class="tg-fyfk"><span style="font-weight:bold">Feb 2 - Friday @ 5pm</span></td>
-    <td class="tg-fyfk"><span style="font-weight:bold">Feb 4 - Sunday @ 12:30pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Feb 4 - Sunday @ 11:00am</span></td>
     <td class="tg-fyfk"><span style="font-weight:bold">Feb 4 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
     <td class="tg-6xkr" colspan="4"><span style="font-weight:bold">SESSION 7:    Mar 1 - 3</span></td>
   </tr>
   <tr>
-    <td class="tg-4ufb">Level 1-2</td>
-    <td class="tg-k4xr">Level 3-4</td>
-    <td class="tg-w0k3">Level 5-6</td>
-    <td class="tg-q50x">Level 7 +</td>
+    <td class="tg-4ufb">Grade 1-2</td>
+    <td class="tg-k4xr">Grade 3-4</td>
+    <td class="tg-w0k3">Grade 5-6</td>
+    <td class="tg-q50x">Grade 7 +</td>
   </tr>
   <tr>
     <td class="tg-9hzb"><span style="font-weight:bold">Mar 3 - Sunday @ 9am</span></td>
     <td class="tg-9hzb"><span style="font-weight:bold">Mar 1 - Friday @ 5pm</span></td>
-    <td class="tg-9hzb"><span style="font-weight:bold">Mar 3 - Sunday @ 12:30pm</span></td>
+    <td class="tg-9hzb"><span style="font-weight:bold">Mar 3 - Sunday @ 11:00pm</span></td>
     <td class="tg-9hzb"><span style="font-weight:bold">Mar 3 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
     <td class="tg-6xkr" colspan="4"><span style="font-weight:bold">SESSION 8:    Mar 15 - 17  ----   </span><span style="font-weight:bold;color:#FE0000;background-color:#FFFE65">LAST one (!)</span></td>
   </tr>
   <tr>
-    <td class="tg-4ufb">Level 1-2</td>
-    <td class="tg-k4xr">Level 3-4</td>
-    <td class="tg-w0k3">Level 5-6</td>
-    <td class="tg-q50x">Level 7 +</td>
+    <td class="tg-4ufb">Grade 1-2</td>
+    <td class="tg-k4xr">Grade 3-4</td>
+    <td class="tg-w0k3">Grade 5-6</td>
+    <td class="tg-q50x">Grade 7 +</td>
   </tr>
   <tr>
     <td class="tg-9hzb"><span style="font-weight:bold">Mar 17 - Sunday @ 9am</span></td>
     <td class="tg-9hzb"><span style="font-weight:bold">Mar 15 - Friday @ 5pm</span></td>
-    <td class="tg-9hzb"><span style="font-weight:bold">Mar 17 - Sunday @ 12:30pm</span></td>
+    <td class="tg-9hzb"><span style="font-weight:bold">Mar 17 - Sunday @ 11:00pm</span></td>
     <td class="tg-9hzb"><span style="font-weight:bold">Mar 15 - Sunday @ 12:30pm</span></td>
   </tr>
 </tbody>
