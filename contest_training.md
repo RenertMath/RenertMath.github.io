@@ -5,7 +5,7 @@
  *	The student MUST send us their answers through the link 'Your answers here' by the evening prior to their scheduled session in order to participate in the session.
  *	When there is more than one child per household attending, each student should submit the form with their solutions.
  *	Please submit a SINGLE form per student. Multiple entries are unnecessary.
-<b><font color="red">* Students can attend one level up or down based on their comfort level.</font></b><br><br>
+*<b><font color="red">Students can attend one level up or down based on their comfort level.</font></b><br><br>
 Email <b>tutoring@renert.com</b> with any questions.
 <br>
 <style type="text/css">
