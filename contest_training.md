@@ -24,25 +24,20 @@ Email <b>tutoring@renert.com</b> with any questions.
 .tg .tg-0jzc{background-color:#FFF;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-alsg{background-color:#FFCE93;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-nbj5{background-color:#FFF;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-6xkr{background-color:#FFFE65;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-8o4g{background-color:#FFFE65;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-crqu{background-color:#FFCCC9;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-ygsm{background-color:#0FF;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-bohg{background-color:#FFF;border-color:#000000;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-w4w7{background-color:#FFF;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-jch0{background-color:#9AFF99;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-exyz{background-color:#fffe65;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-75eo{background-color:#fffe65;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 887px">
-<colgroup>
-<col style="width: 209.333333px">
-<col style="width: 220.333333px">
-<col style="width: 231.333333px">
-<col style="width: 226.333333px">
-</colgroup>
+<table class="tg">
 <thead>
   <tr>
-    <th class="tg-6xkr" colspan="4"><span style="font-weight:bold">SESSION 1</span><br><span style="font-weight:bold">Nov 3 - 5</span></th>
+    <th class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 1</span><br><span style="font-weight:bold">Nov 3 - 5</span></th>
   </tr>
 </thead>
 <tbody>
@@ -77,7 +72,7 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-w4w7">PMI: 284 167 3363<br>passcode GoosE</td>
   </tr>
   <tr>
-    <td class="tg-6xkr" colspan="4"><span style="font-weight:bold">SESSION 2</span><br><span style="font-weight:bold">Nov 17 - 19</span></td>
+    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 2</span><br><span style="font-weight:bold">Nov 17 - 19</span></td>
   </tr>
   <tr>
     <td class="tg-alsg">Level 1-2</td>
@@ -110,7 +105,7 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-nbj5">PMI: 284 167 3363<br>passcode GoosE</td>
   </tr>
   <tr>
-    <td class="tg-exyz" colspan="4"><span style="font-weight:bold">SESSION 3 </span><br>Dec 15 - 17</td>
+    <td class="tg-75eo" colspan="4"><span style="font-weight:bold">SESSION 3 </span><br>Dec 1 - 3</td>
   </tr>
   <tr>
     <td class="tg-alsg">Level 1-2</td>
@@ -119,10 +114,58 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-ygsm">Level 7 +</td>
   </tr>
   <tr>
-    <td class="tg-fyfk"><span style="font-weight:bold">Nov 19 - Sunday @ 9am</span></td>
-    <td class="tg-fyfk"><span style="font-weight:bold">Nov 17 - Friday @ 5pm</span></td>
-    <td class="tg-fyfk"><span style="font-weight:bold">Nov 19 - Sunday @ 12:30pm</span></td>
-    <td class="tg-fyfk"><span style="font-weight:bold">Nov 19 - Sunday @ 12:30pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 9am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 1 - Friday @ 5pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 12:30pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 12:30pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 4 </span><br>Dec 15 - 17</td>
+  </tr>
+  <tr>
+    <td class="tg-alsg">Level 1-2</td>
+    <td class="tg-crqu">Level 3-4</td>
+    <td class="tg-jch0">Level 5-6</td>
+    <td class="tg-ygsm">Level 7 +</td>
+  </tr>
+  <tr>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 17 - Sunday @ 9am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 15 - Friday @ 5pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 17 - Sunday @ 12:30pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 17 - Sunday @ 12:30pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 5</span><br>Jan 19 - 21</td>
+  </tr>
+  <tr>
+    <td class="tg-alsg">Level 1-2</td>
+    <td class="tg-crqu">Level 3-4</td>
+    <td class="tg-jch0">Level 5-6</td>
+    <td class="tg-ygsm">Level 7 +</td>
+  </tr>
+  <tr>
+    <td class="tg-fyfk"><span style="font-weight:bold">Jan 21 - Sunday @ 9am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Jan 19 - Friday @ 5pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Jan 21 - Sunday @ 12:30pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Jan 21 - Sunday @ 12:30pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
