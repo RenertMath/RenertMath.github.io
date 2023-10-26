@@ -9,6 +9,7 @@
 Email <b>tutoring@renert.com</b> with any questions.
 <br><br>
 ** Students can attend one level up or down based on their comfort level ** <br><br>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -41,13 +42,13 @@ Email <b>tutoring@renert.com</b> with any questions.
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1064px">
+<table class="tg" style="undefined;table-layout: fixed; width: 941px">
 <colgroup>
-<col style="width: 110.333333px">
-<col style="width: 221.333333px">
-<col style="width: 244.333333px">
-<col style="width: 250.333333px">
-<col style="width: 237.333333px">
+<col style="width: 105.333333px">
+<col style="width: 197.333333px">
+<col style="width: 207.333333px">
+<col style="width: 217.333333px">
+<col style="width: 213.333333px">
 </colgroup>
 <thead>
   <tr>
@@ -138,4 +139,3 @@ Email <b>tutoring@renert.com</b> with any questions.
   </tr>
 </tbody>
 </table>
-
