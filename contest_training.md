@@ -8,7 +8,7 @@
 
 Email <b>tutoring@renert.com</b> with any questions.
 <br><br>
-Brightminds students should attend the sessons based on their Book Level, not their grade?
+** Bright Minds students should attend the sessons based on their Book Level, not their grade ** <br>
 <b>SESSION 1 </b>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -34,13 +34,13 @@ Brightminds students should attend the sessons based on their Book Level, not t
 .tg .tg-s3iv{background-color:#ffffff;border-color:inherit;text-align:center;text-decoration:underline;vertical-align:top}
 .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 856px">
+<table class="tg" style="undefined;table-layout: fixed; width: 798px">
 <colgroup>
 <col style="width: 67.333333px">
-<col style="width: 218.333333px">
-<col style="width: 173.333333px">
-<col style="width: 185.333333px">
-<col style="width: 211.333333px">
+<col style="width: 163.333333px">
+<col style="width: 151.333333px">
+<col style="width: 213.333333px">
+<col style="width: 202.333333px">
 </colgroup>
 <thead>
   <tr>
@@ -70,7 +70,7 @@ Brightminds students should attend the sessons based on their Book Level, not t
     <td class="tg-mums"><span style="font-weight:bold">Nov 3</span></td>
     <td class="tg-mums"><span style="font-weight:bold">Friday @ 5pm</span></td>
     <td class="tg-ae1a">2021 Kangaroo 3-4</td>
-    <td class="tg-7hz3">Google form for answer</td>
+    <td class="tg-7hz3">Google form for answers</td>
     <td class="tg-jbyd">PMI: 724 089 2663<br>passcode GoosE</td>
   </tr>
   <tr>
