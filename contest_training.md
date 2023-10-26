@@ -8,6 +8,7 @@
 * Students can attend one level up or down based on their comfort level.<br>
 Email <b>tutoring@renert.com</b> with any questions.
 <br>
+
   <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -41,7 +42,7 @@ Email <b>tutoring@renert.com</b> with any questions.
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 1     </span>Nov 3 - 5</th>
+    <th class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 1:     </span>Nov 3 - 5</th>
   </tr>
 </thead>
 <tbody>
@@ -58,16 +59,16 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-0jzc"><span style="font-weight:bold">Nov 5 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-0iys">2021 Kangaroo 1-2</td>
-    <td class="tg-l4ik">2021 Kangaroo 3-4</td>
-    <td class="tg-l4ik">2020 Kangaroo 5-6</td>
-    <td class="tg-l4ik">2019 Pascal</td>
+    <td class="tg-0iys"><a href="https://drive.google.com/file/d/1VjhsQ7Vza0UhduFKPgdE7Jy7wPyvFTmh/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Kangaroo 1-2</a></td>
+    <td class="tg-l4ik"><a href="https://drive.google.com/file/d/1XjqXLEniwogk84h4G9RGHJIYnqCzzdyt/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Kangaroo 3-4</a></td>
+    <td class="tg-l4ik"><a href="https://drive.google.com/file/d/1TtQYbhoH53X1-bfT8bemMml0B50LaEwI/view?usp=share_link" target="_blank" rel="noopener noreferrer">2020 Kangaroo 5-6</a></td>
+    <td class="tg-l4ik"><a href="https://drive.google.com/file/d/1wjFVOktGGsoX1GW2NsV1hwywyn73py3B/view?usp=share_link" target="_blank" rel="noopener noreferrer">2019 Pascal</a></td>
   </tr>
   <tr>
-    <td class="tg-l4ik">Your answers here</td>
-    <td class="tg-ae1a">Your answers here</td>
-    <td class="tg-l4ik">Your answers here</td>
-    <td class="tg-l4ik">Your answers here</td>
+    <td class="tg-l4ik"><a href="https://forms.gle/L12Hi7PLFu2YaEv66" target="_blank" rel="noopener noreferrer">Your answers here</a></td>
+    <td class="tg-ae1a"><a href="https://forms.gle/HBcG7JSWp5J7ufTA9" target="_blank" rel="noopener noreferrer">Your answers here</a></td>
+    <td class="tg-l4ik"><a href="https://forms.gle/Ebqxc4iN8juYvPgRA" target="_blank" rel="noopener noreferrer">Your answers here</a></td>
+    <td class="tg-l4ik"><a href="https://forms.gle/mxz5XygJLHnUwSPn8" target="_blank" rel="noopener noreferrer">Your answers here</a></td>
   </tr>
   <tr>
     <td class="tg-w4w7">PMI: 283 674 7551<br>passcode GoosE</td>
@@ -76,7 +77,7 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-w4w7">PMI: 284 167 3363<br>passcode GoosE</td>
   </tr>
   <tr>
-    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 2      </span>Nov 17 - 19</td>
+    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 2:      </span>Nov 17 - 19</td>
   </tr>
   <tr>
     <td class="tg-alsg">Level 1-2</td>
@@ -109,7 +110,7 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-nbj5">PMI: 284 167 3363<br>passcode GoosE</td>
   </tr>
   <tr>
-    <td class="tg-75eo" colspan="4"><span style="font-weight:bold">SESSION 3      </span>Dec 1 - 3</td>
+    <td class="tg-75eo" colspan="4"><span style="font-weight:bold">SESSION 3:      </span>Dec 1 - 3</td>
   </tr>
   <tr>
     <td class="tg-alsg">Level 1-2</td>
@@ -124,7 +125,7 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 4      </span>Dec 15 - 17</td>
+    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 4:      </span>Dec 15 - 17</td>
   </tr>
   <tr>
     <td class="tg-alsg">Level 1-2</td>
@@ -139,7 +140,7 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-fyfk"><span style="font-weight:bold">Dec 17 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 5     </span>Jan 19 - 21</td>
+    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 5:     </span>Jan 19 - 21</td>
   </tr>
   <tr>
     <td class="tg-alsg">Level 1-2</td>
@@ -154,7 +155,7 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-fyfk"><span style="font-weight:bold">Jan 21 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 6     Feb 2 - 4</span></td>
+    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 6:     Feb 2 - 4</span></td>
   </tr>
   <tr>
     <td class="tg-alsg">Level 1-2</td>
@@ -169,7 +170,7 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-fyfk"><span style="font-weight:bold">Feb 4 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-6xkr" colspan="4"><span style="font-weight:bold">SESSION 7    Mar 1 - 3</span></td>
+    <td class="tg-6xkr" colspan="4"><span style="font-weight:bold">SESSION 7:    Mar 1 - 3</span></td>
   </tr>
   <tr>
     <td class="tg-4ufb">Level 1-2</td>
@@ -184,7 +185,7 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-9hzb"><span style="font-weight:bold">Mar 3 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-6xkr" colspan="4"><span style="font-weight:bold">SESSION 8    Mar 15 - 17     LAST one (!)</span></td>
+    <td class="tg-6xkr" colspan="4"><span style="font-weight:bold">SESSION 8:    Mar 15 - 17  ----   </span><span style="font-weight:bold;color:#FE0000;background-color:#FFFE65">LAST one (!)</span></td>
   </tr>
   <tr>
     <td class="tg-4ufb">Level 1-2</td>
