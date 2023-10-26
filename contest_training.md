@@ -8,6 +8,7 @@
 
 Email <b>tutoring@renert.com</b> with any questions.
 <br><br>
+Brightminds students should attend the sessons based on their Book Level, not their grade?
 <b>SESSION 1 </b>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -20,14 +21,16 @@ Email <b>tutoring@renert.com</b> with any questions.
 .tg .tg-0jzc{background-color:#FFF;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-15br{background-color:#ffffff;border-color:inherit;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-ur7z{background-color:#ffffff;border-color:#000000;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ujn8{background-color:#ffccc9;border-color:#000000;font-weight:bold;text-align:center;vertical-align:bottom}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
-.tg .tg-4sn8{background-color:#0FF;border-color:inherit;font-weight:bold;text-align:center;vertical-align:bottom}
+.tg .tg-r2u2{background-color:#ffce93;border-color:inherit;font-weight:bold;text-align:center;vertical-align:bottom}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-y02l{border-color:inherit;color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-mums{background-color:#ffffff;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-4tno{background-color:#ffffff;border-color:#000000;color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
 .tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-84da{background-color:#9aff99;border-color:#000000;font-weight:bold;text-align:center;vertical-align:bottom}
 .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 693px">
@@ -41,7 +44,7 @@ Email <b>tutoring@renert.com</b> with any questions.
 <thead>
   <tr>
     <th class="tg-73oq"></th>
-    <th class="tg-4sn8">Level 1-2</th>
+    <th class="tg-r2u2">Level 1-2</th>
     <th class="tg-0pky"></th>
     <th class="tg-y02l"></th>
     <th class="tg-0pky"></th>
@@ -57,7 +60,7 @@ Email <b>tutoring@renert.com</b> with any questions.
   </tr>
   <tr>
     <td class="tg-mqa1"></td>
-    <td class="tg-rfms">Level 3-4</td>
+    <td class="tg-ujn8">Level 3-4</td>
     <td class="tg-73oq"></td>
     <td class="tg-73oq"></td>
     <td class="tg-73oq"></td>
@@ -71,7 +74,7 @@ Email <b>tutoring@renert.com</b> with any questions.
   </tr>
   <tr>
     <td class="tg-73oq"></td>
-    <td class="tg-rfms">Level 5-6</td>
+    <td class="tg-84da">Level 5-6</td>
     <td class="tg-73oq"></td>
     <td class="tg-73oq"></td>
     <td class="tg-73oq"></td>
