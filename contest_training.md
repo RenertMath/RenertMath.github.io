@@ -5,7 +5,7 @@
  *	The student MUST send us their answers through the link 'Your answers here' by the evening prior to their scheduled session in order to participate in the session.
  *	When there is more than one child per household attending, each student should submit the form with their solutions.
  *	Please submit a SINGLE form per student. Multiple entries are unnecessary.<br>
- * <b><font color="red">Students can attend one level up or down based on their comfort level.</font></b><br><br>
+ * <b><font color="red">Students can attend one level up or down based on their comfort level and they may join multiple sessions so long as they have submitted their answers for each session they wish to attend.</font></b><br><br>
 Email <b>tutoring@renert.com</b> with any questions.
 <br>
 <style type="text/css">
@@ -120,7 +120,7 @@ Email <b>tutoring@renert.com</b> with any questions.
   <tr>
     <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 9am</span></td>
     <td class="tg-fyfk"><span style="font-weight:bold">Dec 1 - Friday @ 5pm</span></td>
-    <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 11:00pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 11:00am</span></td>
     <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
@@ -150,7 +150,7 @@ Email <b>tutoring@renert.com</b> with any questions.
   <tr>
     <td class="tg-fyfk"><span style="font-weight:bold">Jan 21 - Sunday @ 9am</span></td>
     <td class="tg-fyfk"><span style="font-weight:bold">Jan 19 - Friday @ 5pm</span></td>
-    <td class="tg-fyfk"><span style="font-weight:bold">Jan 21 - Sunday @ 11:00pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Jan 21 - Sunday @ 11:00am</span></td>
     <td class="tg-fyfk"><span style="font-weight:bold">Jan 21 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
@@ -180,7 +180,7 @@ Email <b>tutoring@renert.com</b> with any questions.
   <tr>
     <td class="tg-9hzb"><span style="font-weight:bold">Mar 3 - Sunday @ 9am</span></td>
     <td class="tg-9hzb"><span style="font-weight:bold">Mar 1 - Friday @ 5pm</span></td>
-    <td class="tg-9hzb"><span style="font-weight:bold">Mar 3 - Sunday @ 11:00pm</span></td>
+    <td class="tg-9hzb"><span style="font-weight:bold">Mar 3 - Sunday @ 11:00am</span></td>
     <td class="tg-9hzb"><span style="font-weight:bold">Mar 3 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
@@ -195,7 +195,7 @@ Email <b>tutoring@renert.com</b> with any questions.
   <tr>
     <td class="tg-9hzb"><span style="font-weight:bold">Mar 17 - Sunday @ 9am</span></td>
     <td class="tg-9hzb"><span style="font-weight:bold">Mar 15 - Friday @ 5pm</span></td>
-    <td class="tg-9hzb"><span style="font-weight:bold">Mar 17 - Sunday @ 11:00pm</span></td>
+    <td class="tg-9hzb"><span style="font-weight:bold">Mar 17 - Sunday @ 11:00am</span></td>
     <td class="tg-9hzb"><span style="font-weight:bold">Mar 15 - Sunday @ 12:30pm</span></td>
   </tr>
 </tbody>
