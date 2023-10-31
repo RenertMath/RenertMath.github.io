@@ -14,8 +14,6 @@ Email <b>tutoring@renert.com</b> with any questions.
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ae1a{background-color:#ffffff;border-color:#000000;color:#00E;text-align:center;text-decoration:underline;vertical-align:top
-  }
 .tg .tg-k4xr{background-color:#FFCCC9;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0iys{background-color:#FFF;border-color:inherit;color:#00E;text-align:center;text-decoration:underline;vertical-align:top}
 .tg .tg-tpog{background-color:#9AFF99;border-color:inherit;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
@@ -64,16 +62,10 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-l4ik"><a href="https://drive.google.com/file/d/1wjFVOktGGsoX1GW2NsV1hwywyn73py3B/view?usp=share_link" target="_blank" rel="noopener noreferrer">2019 Pascal</a></td>
   </tr>
   <tr>
-    <td class="tg-l4ik"><a href="https://forms.gle/L12Hi7PLFu2YaEv66" target="_blank" rel="noopener noreferrer">Your answers here</a></td>
-    <td class="tg-ae1a"><a href="https://forms.gle/HBcG7JSWp5J7ufTA9" target="_blank" rel="noopener noreferrer">Your answers here</a></td>
-    <td class="tg-l4ik"><a href="https://forms.gle/Ebqxc4iN8juYvPgRA" target="_blank" rel="noopener noreferrer">Your answers here</a></td>
-    <td class="tg-l4ik"><a href="https://forms.gle/mxz5XygJLHnUwSPn8" target="_blank" rel="noopener noreferrer">Your answers here</a></td>
-  </tr>
-  <tr>
-    <td class="tg-w4w7">PMI: 283 674 7551<br>passcode GoosE</td>
-    <td class="tg-w4w7">PMI: 724 089 2663<br>passcode GoosE</td>
-    <td class="tg-w4w7">PMI: 284 167 3363<br>passcode GoosE</td>
-    <td class="tg-w4w7">PMI: 284 167 3363<br>passcode GoosE</td>
+    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1ZzxBrvTzmAJnv2grIajyg7cz-WxPXEBj/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
+    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1koavRXwSWsBfJwpt_Cvwy-41Ro0VHBR-/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
+    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1x-9shRoR0BklZrujcsRZr6cru4B40NES/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
+    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1kdAcfOgpoM4PEUYfq8y_HbLeEBH4yd2o/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
   </tr>
   <tr>
     <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 2:      </span>Nov 17 - 19</td>
@@ -200,4 +192,3 @@ Email <b>tutoring@renert.com</b> with any questions.
   </tr>
 </tbody>
 </table>
-
