@@ -9,19 +9,18 @@
 Email <b>tutoring@renert.com</b> with any questions.
 <br>
 <style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ae1a{background-color:#ffffff;border-color:#000000;color:#00E;text-align:center;text-decoration:underline;vertical-align:top
-  }
-.tg .tg-k4xr{background-color:#FFCCC9;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0iys{background-color:#FFF;border-color:inherit;color:#00E;text-align:center;text-decoration:underline;vertical-align:top}
 .tg .tg-tpog{background-color:#9AFF99;border-color:inherit;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-fyfk{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-l4ik{background-color:#FFF;border-color:#000000;color:#00E;text-align:center;text-decoration:underline;vertical-align:top}
 .tg .tg-0jzc{background-color:#FFF;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-alsg{background-color:#FFCE93;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-nbj5{background-color:#FFF;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-8o4g{background-color:#FFFE65;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
@@ -30,13 +29,7 @@ Email <b>tutoring@renert.com</b> with any questions.
 .tg .tg-bohg{background-color:#FFF;border-color:#000000;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-w4w7{background-color:#FFF;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-jch0{background-color:#9AFF99;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-75eo{background-color:#fffe65;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-6xkr{background-color:#FFFE65;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-4ufb{background-color:#FFCE93;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-w0k3{background-color:#9AFF99;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-q50x{background-color:#0FF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -64,16 +57,10 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-l4ik"><a href="https://drive.google.com/file/d/1wjFVOktGGsoX1GW2NsV1hwywyn73py3B/view?usp=share_link" target="_blank" rel="noopener noreferrer">2019 Pascal</a></td>
   </tr>
   <tr>
-    <td class="tg-l4ik"><a href="https://forms.gle/L12Hi7PLFu2YaEv66" target="_blank" rel="noopener noreferrer">Your answers here</a></td>
-    <td class="tg-ae1a"><a href="https://forms.gle/HBcG7JSWp5J7ufTA9" target="_blank" rel="noopener noreferrer">Your answers here</a></td>
-    <td class="tg-l4ik"><a href="https://forms.gle/Ebqxc4iN8juYvPgRA" target="_blank" rel="noopener noreferrer">Your answers here</a></td>
-    <td class="tg-l4ik"><a href="https://forms.gle/mxz5XygJLHnUwSPn8" target="_blank" rel="noopener noreferrer">Your answers here</a></td>
-  </tr>
-  <tr>
-    <td class="tg-w4w7">PMI: 283 674 7551<br>passcode GoosE</td>
-    <td class="tg-w4w7">PMI: 724 089 2663<br>passcode GoosE</td>
-    <td class="tg-w4w7">PMI: 284 167 3363<br>passcode GoosE</td>
-    <td class="tg-w4w7">PMI: 284 167 3363<br>passcode GoosE</td>
+    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1ZzxBrvTzmAJnv2grIajyg7cz-WxPXEBj/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
+    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1koavRXwSWsBfJwpt_Cvwy-41Ro0VHBR-/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
+    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1x-9shRoR0BklZrujcsRZr6cru4B40NES/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
+    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1kdAcfOgpoM4PEUYfq8y_HbLeEBH4yd2o/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
   </tr>
   <tr>
     <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 2:      </span>Nov 17 - 19</td>
@@ -91,16 +78,16 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-fyfk"><span style="font-weight:bold">Nov 19 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/17rmoWDnC949FEr7NMyfmmT9oR6KWm_hk/view?usp=share_link" target="_blank" rel="noopener noreferrer">2020 Kangaroo 1-2</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1rpZCaNz5oNNVoM2kzSXIyjSpcIDfmHsZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">Kangaroo 2020 3-4</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1BdcSg9MceMevWSBR2DKD3WU88_w_dfnC/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Gauss 7</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1aepyTcthX27_AOKtdTYZcNJZCvu_lBdh/view?usp=share_link" target="_blank" rel="noopener noreferrer">2020 Kangaroo 7-8</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-c3ow"><a href="https://forms.gle/zDKMeiT5hLf1T4SL8" target="_blank" rel="noopener noreferrer">Your answer here</a></td>
+    <td class="tg-c3ow"><a href="https://forms.gle/MuKPx1wTcv4wzV9D8" target="_blank" rel="noopener noreferrer">Your answer here</a></td>
+    <td class="tg-c3ow"><a href="https://forms.gle/TcwEkXg9mvKSJXj37" target="_blank" rel="noopener noreferrer">Your answer here</a></td>
+    <td class="tg-c3ow"><a href="https://forms.gle/kg7viCY92WwdQKWn7" target="_blank" rel="noopener noreferrer">Your answer here</a></td>
   </tr>
   <tr>
     <td class="tg-nbj5">PMI: 283 674 7551<br>passcode GoosE</td>
@@ -169,34 +156,34 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-fyfk"><span style="font-weight:bold">Feb 4 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-6xkr" colspan="4"><span style="font-weight:bold">SESSION 7:    Mar 1 - 3</span></td>
+    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 7:    Mar 1 - 3</span></td>
   </tr>
   <tr>
-    <td class="tg-4ufb">Grade 1-2</td>
-    <td class="tg-k4xr">Grade 3-4</td>
-    <td class="tg-w0k3">Grade 5-6</td>
-    <td class="tg-q50x">Grade 7 +</td>
+    <td class="tg-alsg">Grade 1-2</td>
+    <td class="tg-crqu">Grade 3-4</td>
+    <td class="tg-jch0">Grade 5-6</td>
+    <td class="tg-ygsm">Grade 7 +</td>
   </tr>
   <tr>
-    <td class="tg-9hzb"><span style="font-weight:bold">Mar 3 - Sunday @ 9am</span></td>
-    <td class="tg-9hzb"><span style="font-weight:bold">Mar 1 - Friday @ 5pm</span></td>
-    <td class="tg-9hzb"><span style="font-weight:bold">Mar 3 - Sunday @ 11:00am</span></td>
-    <td class="tg-9hzb"><span style="font-weight:bold">Mar 3 - Sunday @ 12:30pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Mar 3 - Sunday @ 9am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Mar 1 - Friday @ 5pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Mar 3 - Sunday @ 11:00am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Mar 3 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-6xkr" colspan="4"><span style="font-weight:bold">SESSION 8:    Mar 15 - 17  ----   </span><span style="font-weight:bold;color:#FE0000;background-color:#FFFE65">LAST one (!)</span></td>
+    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 8:    Mar 15 - 17  ----   </span><span style="font-weight:bold;color:#FE0000;background-color:#FFFE65">LAST one (!)</span></td>
   </tr>
   <tr>
-    <td class="tg-4ufb">Grade 1-2</td>
-    <td class="tg-k4xr">Grade 3-4</td>
-    <td class="tg-w0k3">Grade 5-6</td>
-    <td class="tg-q50x">Grade 7 +</td>
+    <td class="tg-alsg">Grade 1-2</td>
+    <td class="tg-crqu">Grade 3-4</td>
+    <td class="tg-jch0">Grade 5-6</td>
+    <td class="tg-ygsm">Grade 7 +</td>
   </tr>
   <tr>
-    <td class="tg-9hzb"><span style="font-weight:bold">Mar 17 - Sunday @ 9am</span></td>
-    <td class="tg-9hzb"><span style="font-weight:bold">Mar 15 - Friday @ 5pm</span></td>
-    <td class="tg-9hzb"><span style="font-weight:bold">Mar 17 - Sunday @ 11:00am</span></td>
-    <td class="tg-9hzb"><span style="font-weight:bold">Mar 15 - Sunday @ 12:30pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Mar 17 - Sunday @ 9am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Mar 15 - Friday @ 5pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Mar 17 - Sunday @ 11:00am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Mar 15 - Sunday @ 12:30pm</span></td>
   </tr>
 </tbody>
 </table>
