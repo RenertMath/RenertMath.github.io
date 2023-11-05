@@ -186,3 +186,4 @@ Email <b>tutoring@renert.com</b> with any questions.
   </tr>
 </tbody>
 </table>
+</style>
