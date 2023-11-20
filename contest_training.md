@@ -84,16 +84,10 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1aepyTcthX27_AOKtdTYZcNJZCvu_lBdh/view?usp=share_link" target="_blank" rel="noopener noreferrer">2020 Kangaroo 7-8</a></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><a href="https://forms.gle/zDKMeiT5hLf1T4SL8" target="_blank" rel="noopener noreferrer">Your answer here</a></td>
-    <td class="tg-c3ow"><a href="https://forms.gle/MuKPx1wTcv4wzV9D8" target="_blank" rel="noopener noreferrer">Your answer here</a></td>
-    <td class="tg-c3ow"><a href="https://forms.gle/TcwEkXg9mvKSJXj37" target="_blank" rel="noopener noreferrer">Your answer here</a></td>
-    <td class="tg-c3ow"><a href="https://forms.gle/kg7viCY92WwdQKWn7" target="_blank" rel="noopener noreferrer">Your answer here</a></td>
-  </tr>
-  <tr>
-    <td class="tg-nbj5">PMI: 283 674 7551<br>passcode GoosE</td>
-    <td class="tg-nbj5">PMI: 724 089 2663<br>passcode GoosE</td>
-    <td class="tg-nbj5">PMI: 284 167 3363<br>passcode GoosE</td>
-    <td class="tg-nbj5">PMI: 284 167 3363<br>passcode GoosE</td>
+    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1ZzxBrvTzmAJnv2grIajyg7cz-WxPXEBj/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1koavRXwSWsBfJwpt_Cvwy-41Ro0VHBR-/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1x-9shRoR0BklZrujcsRZr6cru4B40NES/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-nbj5"><a href="https://forms.gle/mxz5XygJLHnUwSPn8" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
   </tr>
   <tr>
     <td class="tg-75eo" colspan="4"><span style="font-weight:bold">SESSION 3:      </span>Dec 1 - 3</td>
