@@ -88,7 +88,7 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1ZzxBrvTzmAJnv2grIajyg7cz-WxPXEBj/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
     <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1koavRXwSWsBfJwpt_Cvwy-41Ro0VHBR-/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
     <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1x-9shRoR0BklZrujcsRZr6cru4B40NES/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
-    <td class="tg-nbj5">KEY<br></td>
+    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1IN3WAXYCqn-mTAMB7fn1KwiLtKO1F5RZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
   </tr>
   <tr>
     <td class="tg-75eo" colspan="4"><span style="font-weight:bold">SESSION 3:      </span>Dec 1 - 3</td>
