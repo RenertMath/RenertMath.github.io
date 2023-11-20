@@ -8,7 +8,7 @@
  * <b><font color="red">Students can attend one level up or down based on their comfort level. They may join multiple sessions so long as they have submitted their answers for each session they wish to attend.</font></b><br><br>
 Email <b>tutoring@renert.com</b> with any questions.
 <br>
-<style type="text/css">
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
