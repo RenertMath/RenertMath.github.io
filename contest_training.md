@@ -30,6 +30,7 @@ Email <b>tutoring@renert.com</b> with any questions.
 .tg .tg-w4w7{background-color:#FFF;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-jch0{background-color:#9AFF99;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-75eo{background-color:#fffe65;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -60,7 +61,7 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1ZzxBrvTzmAJnv2grIajyg7cz-WxPXEBj/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
     <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1koavRXwSWsBfJwpt_Cvwy-41Ro0VHBR-/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
     <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1x-9shRoR0BklZrujcsRZr6cru4B40NES/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
-    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1kdAcfOgpoM4PEUYfq8y_HbLeEBH4yd2o/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
+    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1IN3WAXYCqn-mTAMB7fn1KwiLtKO1F5RZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
   </tr>
   <tr>
     <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 2:      </span>Nov 17 - 19</td>
@@ -87,7 +88,7 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1ZzxBrvTzmAJnv2grIajyg7cz-WxPXEBj/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
     <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1koavRXwSWsBfJwpt_Cvwy-41Ro0VHBR-/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
     <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1x-9shRoR0BklZrujcsRZr6cru4B40NES/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
-    <td class="tg-nbj5"><a href="https://forms.gle/mxz5XygJLHnUwSPn8" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
+    <td class="tg-nbj5">KEY<br></td>
   </tr>
   <tr>
     <td class="tg-75eo" colspan="4"><span style="font-weight:bold">SESSION 3:      </span>Dec 1 - 3</td>
@@ -105,7 +106,16 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 4:      </span>Dec 15 - 17</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">NEW PMI: 269 361 7203</td>
+    <td class="tg-0pky">NEW PMI: 269 361 7203</td>
+  </tr>
+  <tr>
+    <td class="tg-8o4g"><span style="font-weight:bold">SESSION 4:      </span>Dec 15 - 17</td>
+    <td class="tg-8o4g"></td>
+    <td class="tg-8o4g"></td>
+    <td class="tg-8o4g">Passcode: GoosE</td>
   </tr>
   <tr>
     <td class="tg-alsg">Grade 1-2</td>
