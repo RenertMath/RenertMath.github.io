@@ -17,6 +17,7 @@ Email <b>tutoring@renert.com</b> with any questions.
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0iys{background-color:#FFF;border-color:inherit;color:#00E;text-align:center;text-decoration:underline;vertical-align:top}
 .tg .tg-tpog{background-color:#9AFF99;border-color:inherit;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-fyfk{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-l4ik{background-color:#FFF;border-color:#000000;color:#00E;text-align:center;text-decoration:underline;vertical-align:top}
 .tg .tg-0jzc{background-color:#FFF;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
@@ -30,6 +31,7 @@ Email <b>tutoring@renert.com</b> with any questions.
 .tg .tg-w4w7{background-color:#FFF;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-jch0{background-color:#9AFF99;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-75eo{background-color:#fffe65;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
@@ -85,7 +87,7 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1aepyTcthX27_AOKtdTYZcNJZCvu_lBdh/view?usp=share_link" target="_blank" rel="noopener noreferrer">2020 Kangaroo 7-8</a></td>
   </tr>
   <tr>
-    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1ZzxBrvTzmAJnv2grIajyg7cz-WxPXEBj/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1vZqeD83gQuR9sRF5Ex8Eq3XVKAWOu44Y/view" target="_blank" rel="noopener noreferrer">KEY</a></td>
     <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1koavRXwSWsBfJwpt_Cvwy-41Ro0VHBR-/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
     <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1x-9shRoR0BklZrujcsRZr6cru4B40NES/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
     <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1IN3WAXYCqn-mTAMB7fn1KwiLtKO1F5RZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
@@ -106,16 +108,34 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">NEW PMI: 269 361 7203</td>
-    <td class="tg-0pky">NEW PMI: 269 361 7203</td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1Zz2uLRux2N6vYDda0y46lNI_0lXtAeyG/view?usp=share_link" target="_blank" rel="noopener noreferrer">Kangaroo 2012 G1-2</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1GhiykCQsDFLU4EBMA1NOKjDSkXegNp3n/view?usp=share_link" target="_blank" rel="noopener noreferrer">2016 CESMC Level 2</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1nB7KQwH6g7JpT_KElky98g4IHxErbgFd/view?usp=share_link" target="_blank" rel="noopener noreferrer">2019 Kangaroo G56</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1kJ5E7XmTBO_CfX9yOYsQWkTQBKmkV390/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Pascal</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><a href="https://forms.gle/Dcv9HEnQR6FnVVRh7" target="_blank" rel="noopener noreferrer">Your Answer</a></td>
+    <td class="tg-c3ow"><a href="https://forms.gle/ZCojKWA5EeSVh7z96" target="_blank" rel="noopener noreferrer">Your Answer</a></td>
+    <td class="tg-c3ow"><a href="https://forms.gle/RdKhX5Ye4eW47b88A" target="_blank" rel="noopener noreferrer">You Answer</a></td>
+    <td class="tg-c3ow"><a href="https://forms.gle/aANoDgRs1yBMgfiJ7" target="_blank" rel="noopener noreferrer">Your Answer</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">PMI: 283 674 7551</td>
+    <td class="tg-c3ow">PMI: 724 089 2663</td>
+    <td class="tg-c3ow">NEW PMI: 269 361 7203</td>
+    <td class="tg-c3ow">NEW PMI: 269 361 7203</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Passcode: GoosE</td>
+    <td class="tg-0lax">Passcode: GoosE</td>
+    <td class="tg-0lax">Passcode: GoosE</td>
+    <td class="tg-0lax">Passcode: GoosE</td>
   </tr>
   <tr>
     <td class="tg-8o4g"><span style="font-weight:bold">SESSION 4:      </span>Dec 15 - 17</td>
     <td class="tg-8o4g"></td>
     <td class="tg-8o4g"></td>
-    <td class="tg-8o4g">Passcode: GoosE</td>
+    <td class="tg-8o4g"></td>
   </tr>
   <tr>
     <td class="tg-alsg">Grade 1-2</td>
@@ -130,7 +150,16 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-fyfk"><span style="font-weight:bold">Dec 17 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 5:     </span>Jan 19 - 21</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-8o4g"><span style="font-weight:bold">SESSION 5:     </span>Jan 19 - 21</td>
+    <td class="tg-8o4g"></td>
+    <td class="tg-8o4g"></td>
+    <td class="tg-8o4g"></td>
   </tr>
   <tr>
     <td class="tg-alsg">Grade 1-2</td>
