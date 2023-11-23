@@ -31,7 +31,6 @@ Email <b>tutoring@renert.com</b> with any questions.
 .tg .tg-w4w7{background-color:#FFF;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-jch0{background-color:#9AFF99;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-75eo{background-color:#fffe65;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
@@ -122,14 +121,14 @@ Email <b>tutoring@renert.com</b> with any questions.
   <tr>
     <td class="tg-c3ow">PMI: 283 674 7551</td>
     <td class="tg-c3ow">PMI: 724 089 2663</td>
-    <td class="tg-c3ow">NEW PMI: 269 361 7203</td>
-    <td class="tg-c3ow">NEW PMI: 269 361 7203</td>
+    <td class="tg-c3ow"><span style="font-weight:bold;color:#FE0000">NEW </span><span style="color:#333">PMI:</span><span style="font-weight:bold;color:#333"> </span>269 361 7203</td>
+    <td class="tg-c3ow"><span style="font-weight:bold;color:#FE0000">NEW</span> PMI: 269 361 7203</td>
   </tr>
   <tr>
     <td class="tg-baqh">Passcode: GoosE</td>
-    <td class="tg-0lax">Passcode: GoosE</td>
-    <td class="tg-0lax">Passcode: GoosE</td>
-    <td class="tg-0lax">Passcode: GoosE</td>
+    <td class="tg-baqh">Passcode: GoosE</td>
+    <td class="tg-baqh">Passcode: GoosE</td>
+    <td class="tg-baqh">Passcode: GoosE</td>
   </tr>
   <tr>
     <td class="tg-8o4g"><span style="font-weight:bold">SESSION 4:      </span>Dec 15 - 17</td>
