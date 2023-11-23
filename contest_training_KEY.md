@@ -1,15 +1,6 @@
-<b>Bright Minds Math Competition Club (MCC) <font color="red">is back!</font></b> for the 2023-24 school year 
+CODE FOR TABLE ONLY KEY FOR DEC 3
 
-<b>How Does it work?</b> <br>
- *	In order to attend, the student MUST work on the contest form that will be discussed on the coming weekend, and solve it to the best of their ability. It is OK to not answer a question if the student has no idea how to do it. The whole point of the kids solving ahead of time is for them to get familiar with the questions, and for the instructors to know which questions we should go over.
- *	The student MUST send us their answers through the link 'Your answers here' by the evening prior to their scheduled session in order to participate in the session.
- *	When there is more than one child per household attending, each student should submit the form with their solutions.
- *	Please submit a SINGLE form per student. Multiple entries are unnecessary.<br>
- * <b><font color="red">Students can attend one level up or down based on their comfort level. They may join multiple sessions so long as they have submitted their answers for each session they wish to attend.</font></b><br><br>
-Email <b>tutoring@renert.com</b> with any questions.
-<br>
-
-
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -30,6 +21,7 @@ Email <b>tutoring@renert.com</b> with any questions.
 .tg .tg-w4w7{background-color:#FFF;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-jch0{background-color:#9AFF99;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-75eo{background-color:#fffe65;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -60,7 +52,7 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1ZzxBrvTzmAJnv2grIajyg7cz-WxPXEBj/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
     <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1koavRXwSWsBfJwpt_Cvwy-41Ro0VHBR-/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
     <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1x-9shRoR0BklZrujcsRZr6cru4B40NES/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
-    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1kdAcfOgpoM4PEUYfq8y_HbLeEBH4yd2o/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
+    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1IN3WAXYCqn-mTAMB7fn1KwiLtKO1F5RZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
   </tr>
   <tr>
     <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 2:      </span>Nov 17 - 19</td>
@@ -84,10 +76,10 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1aepyTcthX27_AOKtdTYZcNJZCvu_lBdh/view?usp=share_link" target="_blank" rel="noopener noreferrer">2020 Kangaroo 7-8</a></td>
   </tr>
   <tr>
-    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1ZzxBrvTzmAJnv2grIajyg7cz-WxPXEBj/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1vZqeD83gQuR9sRF5Ex8Eq3XVKAWOu44Y/view" target="_blank" rel="noopener noreferrer">KEY</a></td>
     <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1koavRXwSWsBfJwpt_Cvwy-41Ro0VHBR-/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
     <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1x-9shRoR0BklZrujcsRZr6cru4B40NES/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
-    <td class="tg-nbj5"><a href="https://forms.gle/mxz5XygJLHnUwSPn8" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
+    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1IN3WAXYCqn-mTAMB7fn1KwiLtKO1F5RZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
   </tr>
   <tr>
     <td class="tg-75eo" colspan="4"><span style="font-weight:bold">SESSION 3:      </span>Dec 1 - 3</td>
@@ -105,7 +97,22 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 4:      </span>Dec 15 - 17</td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1Zz2uLRux2N6vYDda0y46lNI_0lXtAeyG/view?usp=share_link" target="_blank" rel="noopener noreferrer">Kangaroo 2012 G1-2</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1GhiykCQsDFLU4EBMA1NOKjDSkXegNp3n/view?usp=share_link" target="_blank" rel="noopener noreferrer">2016 CESMC Level 2</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1nB7KQwH6g7JpT_KElky98g4IHxErbgFd/view?usp=share_link" target="_blank" rel="noopener noreferrer">2019 Kangaroo G56</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1kJ5E7XmTBO_CfX9yOYsQWkTQBKmkV390/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Pascal</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1yiKBdfXG2leEKdW1jzjRLEBFjaz1bavE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1GhiykCQsDFLU4EBMA1NOKjDSkXegNp3n/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1he0gT7GACWp2F88TyWIRkh8CJavvnIp6/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1ejPcWjvkqeDwMA8tpId_gepsuf90_In4/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+  </tr>
+  <tr>
+    <td class="tg-8o4g"><span style="font-weight:bold">SESSION 4:      </span>Dec 15 - 17</td>
+    <td class="tg-8o4g"></td>
+    <td class="tg-8o4g"></td>
+    <td class="tg-8o4g"></td>
   </tr>
   <tr>
     <td class="tg-alsg">Grade 1-2</td>
@@ -120,7 +127,16 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-fyfk"><span style="font-weight:bold">Dec 17 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 5:     </span>Jan 19 - 21</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-8o4g"><span style="font-weight:bold">SESSION 5:     </span>Jan 19 - 21</td>
+    <td class="tg-8o4g"></td>
+    <td class="tg-8o4g"></td>
+    <td class="tg-8o4g"></td>
   </tr>
   <tr>
     <td class="tg-alsg">Grade 1-2</td>
