@@ -63,7 +63,7 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1ZzxBrvTzmAJnv2grIajyg7cz-WxPXEBj/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
     <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1koavRXwSWsBfJwpt_Cvwy-41Ro0VHBR-/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
     <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1x-9shRoR0BklZrujcsRZr6cru4B40NES/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
-    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1kdAcfOgpoM4PEUYfq8y_HbLeEBH4yd2o/view" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1IN3WAXYCqn-mTAMB7fn1KwiLtKO1F5RZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
   </tr>
   <tr>
     <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 2:      </span>Nov 17 - 19</td>
@@ -88,8 +88,8 @@ Email <b>tutoring@renert.com</b> with any questions.
   </tr>
   <tr>
     <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1vZqeD83gQuR9sRF5Ex8Eq3XVKAWOu44Y/view" target="_blank" rel="noopener noreferrer">KEY</a></td>
-    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1ibR_xIOm72Fh3PlCOQPpn9WLML97uer0/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
-    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/14T9x9ghziGIaWstjG2dfZ_jppYoTXQQ1/view" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1koavRXwSWsBfJwpt_Cvwy-41Ro0VHBR-/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1x-9shRoR0BklZrujcsRZr6cru4B40NES/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
     <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1IN3WAXYCqn-mTAMB7fn1KwiLtKO1F5RZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
   </tr>
   <tr>
@@ -130,12 +130,6 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-c3ow">Passcode: GoosE</td>
     <td class="tg-c3ow">Passcode: GoosE</td>
     <td class="tg-c3ow">Passcode: GoosE</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1yiKBdfXG2leEKdW1jzjRLEBFjaz1bavE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1GhiykCQsDFLU4EBMA1NOKjDSkXegNp3n/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1he0gT7GACWp2F88TyWIRkh8CJavvnIp6/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1ejPcWjvkqeDwMA8tpId_gepsuf90_In4/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
   </tr>
   <tr>
     <td class="tg-8o4g"><span style="font-weight:bold">SESSION 4:      </span>Dec 15 - 17</td>
