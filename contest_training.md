@@ -5,7 +5,9 @@
  *	The student MUST send us their answers through the link 'Your answers here' by the evening prior to their scheduled session in order to participate in the session.
  *	When there is more than one child per household attending, each student should submit the form with their solutions.
  *	Please submit a SINGLE form per student. Multiple entries are unnecessary.<br>
- * <b><font color="red">Students can attend one level up or down based on their comfort level. They may join multiple sessions so long as they have submitted their answers for each session they wish to attend.</font></b><br><br>
+ * <b><font color="red">Students can attend one level up or down based on their comfort level. They may join multiple sessions so long as they have submitted their answers for each session they wish to attend.</font></b>
+  * <b>You will find the zoom access information below. Please refer to this website as you will not receive an email with zoom details.</b>
+ <br><br>
 Email <b>tutoring@renert.com</b> with any questions.
 <br>
 <style type="text/css">
