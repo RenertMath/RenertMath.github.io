@@ -115,7 +115,7 @@ Email <b>tutoring@renert.com</b> with any questions.
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1yiKBdfXG2leEKdW1jzjRLEBFjaz1bavE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1GhiykCQsDFLU4EBMA1NOKjDSkXegNp3n/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-c3ow"><a href="https://docs.google.com/document/d/1Q_OliCBEbTxaW6r2hL4jHVYhJAmcX4PwM0QhghkMHFA/edit?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
     <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1he0gT7GACWp2F88TyWIRkh8CJavvnIp6/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
     <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1ejPcWjvkqeDwMA8tpId_gepsuf90_In4/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
   </tr>
