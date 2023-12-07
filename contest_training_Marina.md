@@ -48,15 +48,15 @@ Email <b>tutoring@renert.com</b> with any questions.
   </tr>
   <tr>
     <td class="tg-0iys"><a href="https://drive.google.com/file/d/1VjhsQ7Vza0UhduFKPgdE7Jy7wPyvFTmh/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Kangaroo 1-2</a></td>
-    <td class="tg-l4ik"><a href="https://drive.google.com/file/d/1XjqXLEniwogk84h4G9RGHJIYnqCzzdyt/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Kangaroo 3-4</a></td>
-    <td class="tg-l4ik"><a href="https://drive.google.com/file/d/1TtQYbhoH53X1-bfT8bemMml0B50LaEwI/view?usp=share_link" target="_blank" rel="noopener noreferrer">2020 Kangaroo 5-6</a></td>
-    <td class="tg-l4ik"><a href="https://drive.google.com/file/d/1wjFVOktGGsoX1GW2NsV1hwywyn73py3B/view?usp=share_link" target="_blank" rel="noopener noreferrer">2019 Pascal</a></td>
+    <td class="tg-l4ik">2021 Kangaroo 3-4</td>
+    <td class="tg-l4ik">2020 Kangaroo 5-6</td>
+    <td class="tg-l4ik">2019 Pascal</td>
   </tr>
   <tr>
     <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1ZzxBrvTzmAJnv2grIajyg7cz-WxPXEBj/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
-    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1koavRXwSWsBfJwpt_Cvwy-41Ro0VHBR-/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
-    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1x-9shRoR0BklZrujcsRZr6cru4B40NES/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
-    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1IN3WAXYCqn-mTAMB7fn1KwiLtKO1F5RZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-w4w7">KEY<br></td>
+    <td class="tg-w4w7">KEY<br></td>
+    <td class="tg-w4w7">KEY</td>
   </tr>
   <tr>
     <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 2:      </span>Nov 17 - 19</td>
@@ -75,15 +75,15 @@ Email <b>tutoring@renert.com</b> with any questions.
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://drive.google.com/file/d/17rmoWDnC949FEr7NMyfmmT9oR6KWm_hk/view?usp=share_link" target="_blank" rel="noopener noreferrer">2020 Kangaroo 1-2</a></td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1rpZCaNz5oNNVoM2kzSXIyjSpcIDfmHsZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">Kangaroo 2020 3-4</a></td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1BdcSg9MceMevWSBR2DKD3WU88_w_dfnC/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Gauss 7</a></td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1aepyTcthX27_AOKtdTYZcNJZCvu_lBdh/view?usp=share_link" target="_blank" rel="noopener noreferrer">2020 Kangaroo 7-8</a></td>
+    <td class="tg-c3ow">Kangaroo 2020 3-4</td>
+    <td class="tg-c3ow">2021 Gauss 7</td>
+    <td class="tg-c3ow">2020 Kangaroo 7-8</td>
   </tr>
   <tr>
     <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1vZqeD83gQuR9sRF5Ex8Eq3XVKAWOu44Y/view" target="_blank" rel="noopener noreferrer">KEY</a></td>
-    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1ibR_xIOm72Fh3PlCOQPpn9WLML97uer0/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
-    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/14T9x9ghziGIaWstjG2dfZ_jppYoTXQQ1/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
-    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1IN3WAXYCqn-mTAMB7fn1KwiLtKO1F5RZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-nbj5"><span style="font-weight:bold;color:#fe0000">KEY</span></td>
+    <td class="tg-nbj5"><span style="font-weight:bold;color:#FE0000">KEY</span></td>
+    <td class="tg-nbj5">KEY</td>
   </tr>
   <tr>
     <td class="tg-75eo" colspan="4"><span style="font-weight:bold">SESSION 3:      </span>Dec 1 - 3</td>
@@ -102,15 +102,15 @@ Email <b>tutoring@renert.com</b> with any questions.
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1Zz2uLRux2N6vYDda0y46lNI_0lXtAeyG/view?usp=share_link" target="_blank" rel="noopener noreferrer">Kangaroo 2012 G1-2</a></td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1GhiykCQsDFLU4EBMA1NOKjDSkXegNp3n/view?usp=share_link" target="_blank" rel="noopener noreferrer">2016 CESMC Level 2</a></td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1nB7KQwH6g7JpT_KElky98g4IHxErbgFd/view?usp=share_link" target="_blank" rel="noopener noreferrer">2019 Kangaroo G56</a></td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1kJ5E7XmTBO_CfX9yOYsQWkTQBKmkV390/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Pascal</a></td>
+    <td class="tg-c3ow">2016 CESMC Level 2</td>
+    <td class="tg-c3ow">2019 Kangaroo G56</td>
+    <td class="tg-c3ow">2021 Pascal</td>
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1yiKBdfXG2leEKdW1jzjRLEBFjaz1bavE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
-    <td class="tg-c3ow"><a href="https://docs.google.com/document/d/1Q_OliCBEbTxaW6r2hL4jHVYhJAmcX4PwM0QhghkMHFA/edit?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1he0gT7GACWp2F88TyWIRkh8CJavvnIp6/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1ejPcWjvkqeDwMA8tpId_gepsuf90_In4/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-c3ow">KEY</td>
+    <td class="tg-c3ow">KEY</td>
+    <td class="tg-c3ow">KEY</td>
   </tr>
   <tr>
     <td class="tg-8o4g"><span style="font-weight:bold">SESSION 4:      </span>Dec 15 - 17</td>
@@ -132,9 +132,12 @@ Email <b>tutoring@renert.com</b> with any questions.
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="https://www.zipgrade.com/s/HkAjn21/" target="_blank" rel="noopener noreferrer">Kangaroo G1-2&nbsp;&nbsp;2016</a></td>
-    <td class="tg-0pky"><a href="https://www.zipgrade.com/s/Du1aBE0/" target="_blank" rel="noopener noreferrer">Byron Germain G34 2017</a></td>
-    <td class="tg-c3ow"><a href="https://www.zipgrade.com/s/tM9TEQG/" target="_blank" rel="noopener noreferrer">Kangaroo G56 2020</a></td>
-    <td class="tg-c3ow"><a href="https://www.zipgrade.com/s/MflI4OW/" target="_blank" rel="noopener noreferrer">Pascal G9 2010</a></td>
+    <td class="tg-0pky">Byron Germain G34 2017</td>
+    <td class="tg-c3ow">Kangaroo G56 2020</td>
+    <td class="tg-c3ow">Pascal G9 2010</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="4"><span style="font-weight:bold;color:#FE0000">NEW!  Find how to access your ZIP GRADE Student ID and more instructions how to use ZIP Grade HERE! </span></td>
   </tr>
   <tr>
     <td class="tg-8o4g"><span style="font-weight:bold">SESSION 5:     </span>Jan 19 - 21</td>
@@ -201,3 +204,4 @@ Email <b>tutoring@renert.com</b> with any questions.
   </tr>
 </tbody>
 </table>
+
