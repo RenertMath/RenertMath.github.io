@@ -141,7 +141,7 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-3xi5">Pascal G9 2010</td>
   </tr>
   <tr>
-    <td class="tg-y698" colspan="4"><span style="font-weight:bold;color:#FE0000">NEW!  Find how to access your ZIP GRADE Student ID and more instructions how to use ZIP Grade HERE! </span></td>
+    <td class="tg-y698" colspan="4"><span style="font-weight:bold;color:#FE0000">NEW!  Find how to access your ZIP GRADE Student ID and more instructions how to use ZIP Grade </span><a href="https://renertmath.github.io/contest_training_KEY" target="_blank" rel="noopener noreferrer">HERE</a><span style="font-weight:bold;color:#FE0000">! </span></td>
   </tr>
   <tr>
     <td class="tg-opee"><span style="font-weight:bold">SESSION 5:     </span>Jan 19 - 21</td>
