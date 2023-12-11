@@ -20,11 +20,11 @@
 <li> <a href="https://vchan2.github.io/Challenges/2020-21Winter_Break.pdf"> 2020-21 Winter Break math challenges </a> (<a href="https://vchan2.github.io/Challenges/2020-21Winter_Break_winners.pdf">Results</a>)</li>
         <li> <a href="https://renertmath.github.io/RenertMath-PumpkinBomb2021/"> PumpkinBomb Challenge 2021</a>  </li>
         <li> <a href="https://renertmath.github.io/RenertMath-PumpkinBomb2021/2022.html"> PumpkinBomb Challenge 2022</a>  </li>
-        <li> <a href="https://renertmath.github.io/Challenges/12Days2022.html"> 12 Days of ChrisMATH 2022</a>  </li>
--->
-        <li> <a href="https://renertmath.github.io/RenertMath-CelebrateMath/"> COL Math Challenge 2019/2020 </a>  </li>
-         <li> <a href="https://forms.gle/DZttRC35TUTXBnS48"> Pi Day t-shirt Contest 2023 </a>  </li>
          <li> <a href="https://forms.gle/49pb1BB7Ui55rvN28"> February Break Math Comics Challenge 2023 </a>  </li>
+         <li> <a href="https://forms.gle/DZttRC35TUTXBnS48"> Pi Day t-shirt Contest 2023 </a>  </li>
+-->
+        <li> <a href="https://renertmath.github.io/Challenges/12Days2023.html"> 12 Days of ChrisMATH 2023</a>  </li>
+        <li> <a href="https://renertmath.github.io/RenertMath-CelebrateMath/"> COL Math Challenge 2019/2020 </a>  </li>
       </ul> 
     </p>
     
