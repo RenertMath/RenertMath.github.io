@@ -19,11 +19,9 @@
  * Enter the student name and their CafeID number in the "Zipgrade Student ID" field to access the MCC training contests as well as for future Math competitions put on by Renert Math
 <br>
   <center> <img src="https://renertmath.github.io/Zip%20grade%20student%20login.png" class="center" alt="Image" width="50%" height="50%"></center>
-   <br><br>
+   <br>
   <b> After the session ends </b>, we will publish a PDF with a unique ZIPGRADE ACCESS CODE that students will use to view their score
-
- <br> Email tutoring@renert.com with any questions. <br>
-
+      Email tutoring@renert.com with any questions. <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
