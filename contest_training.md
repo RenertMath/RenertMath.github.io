@@ -14,7 +14,7 @@
   * Enter the student name and their BM Student ID number in the "Zipgrade Student ID" field to access the MCC training contests as well as for future Math competitions put on by Renert Math.
 <br> <br>
 <b> If you are a Renert School Student:</b>
-<br>
+<br><br>
 * The student ID you will use is the same as your Cafe student number.
  * Enter the student name and their CafeID number in the "Zipgrade Student ID" field to access the MCC training contests as well as for future Math competitions put on by Renert Math
 <br>
