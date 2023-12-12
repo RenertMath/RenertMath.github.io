@@ -20,7 +20,7 @@
 <br>
   <center> <img src="https://renertmath.github.io/Zip%20grade%20student%20login.png" class="center" alt="Image" width="50%" height="50%"></center>
    <br><br>
-   After the session ends, we will publish a PDF with a unique ZIPGRADE ACCESS CODE that students will use to view their score
+  <b> After the session ends </b>, we will publish a PDF with a unique ZIPGRADE ACCESS CODE that students will use to view their score
 
  <br> Email tutoring@renert.com with any questions. <br>
 
