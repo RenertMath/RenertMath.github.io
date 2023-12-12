@@ -34,7 +34,7 @@
     <td class="tg-0lax">Here you will find your child's name and their BM Student ID number. Make note of this 5 digit number</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="https://www.tablesgenerator.com/BM%20ID%20student.png" alt="Image" width="55" height="17"></td>
+    <td class="tg-0lax"><img src="https://renertmath.github.io/BM%20ID%20student.png" alt="Image" width="55" height="17"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Enter the student name and their BM Student ID number in the "Zipgrade Student ID" field to access the MCC training contests as well as for future Math competitions put on by Renert Math.</td>
@@ -49,7 +49,7 @@
     <td class="tg-0lax">Enter the student name and their CafeID number in the "Zipgrade Student ID" field to access the MCC training contests as well as for future Math competitions put on by Renert Math</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="https://www.tablesgenerator.com/Zip%20grade%20student%20login.png" alt="Image" width="55" height="17"></td>
+    <td class="tg-0lax"><img src="https://renertmath.github.io/Zip%20grade%20student%20login.png" alt="Image" width="55" height="17"></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="color:#FE0000">After the session ends, we will publish a PDF with a unique ZIPGRADE ACCESS CODE that students will use to view their score</span></td>
