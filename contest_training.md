@@ -16,7 +16,8 @@
 <br> <br>
 <b> If you are a Renert School Student:</b>
 <br><br>
-* The student ID you will use is the same as your Cafe student number. Make note of this 4 digit number
+* The student ID you will use is the same as your Cafe student number. Make note of this 4 digit number.
+*  If you do not know your child’s Renert School Cafe Number please email tutoring@renert.com and it will be provided to you.
 * Click the link to the test your child will complete in the table below. This link will take you to Zipgrade (our new MCC training system)
  * Enter the student name and their CafeID number in the "Zipgrade Student ID" field to access the MCC training contests as well as for future Math competitions put on by Renert Math
 <br>
