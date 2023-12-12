@@ -106,7 +106,7 @@
     <td class="tg-3xi5"><a href="https://www.zipgrade.com/s/MflI4OW/" target="_blank" rel="noopener noreferrer">Pascal G9 2010</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Next Sessions</td>
+    <td class="tg-0lax"><br> Next Sessions<br></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
