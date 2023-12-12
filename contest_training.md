@@ -1,24 +1,27 @@
 <b>Bright Minds Math Competition Club (MCC) <font color="red">is back!</font></b> for the 2023-24 school year 
+<b>
+<font color="red">**NEW </font> PROCESS FOR ACCESSING MATERIALS AND RESULTS for MCC SESSIONS:</b>
 
-**NEW PROCESS FOR ACCESSING MATERIALS AND RESULTS for MCC SESSIONS:
-
-How does it work?
-In order to attend upcoming MCC sessions, students MUST work on the contest at home in advance and submit their answers prior to the session. It is OK to not answer a question if the student has no idea how to do it. The whole point of the kids solving ahead of time is for them to get familiar with the questions, and for the instructors to know which questions we should go over. 
+<b>How does it work?</b>
+<br>In order to attend upcoming MCC sessions, students MUST work on the contest at home in advance and submit their answers prior to the session. <br>
+It is OK to not answer a question if the student has no idea how to do it. The whole point of the kids solving ahead of time is for them to get familiar with the questions, and for the instructors to know which questions we should go over. <br>
 Students can attend one level up or down based on their comfort level. They may join multiple sessions so long as they have submitted their answers for each session they wish to attend.
 
-If you are a Bright Minds student: 
+<b>If you are a Bright Minds student:</b> 
  *	Login to your family portal, click "My Account" then "Current Courses/ Registrations".
  *	Here you will find your child's name and their BM Student ID number. Make note of this 5 digit number
 <img src="https://renertmath.github.io/BM%20ID%20student.png" class="center" alt="Image" width="100%" height="100%">
   * Enter the student name and their BM Student ID number in the "Zipgrade Student ID" field to access the MCC training contests as well as for future Math competitions put on by Renert Math.
-<br> 
- If you are a Renert School Student:
- * The student ID you will use is the same as your Cafe student number.
+<br> <br>
+<b> If you are a Renert School Student:</b>
+<br>
+* The student ID you will use is the same as your Cafe student number.
  * Enter the student name and their CafeID number in the "Zipgrade Student ID" field to access the MCC training contests as well as for future Math competitions put on by Renert Math
-   <img src="https://renertmath.github.io/Zip%20grade%20student%20login.png" class="center" alt="Image" width="50%" height="50%">
-
+ * <br>
+  <center></center> <img src="https://renertmath.github.io/Zip%20grade%20student%20login.png" class="center" alt="Image" width="50%" height="50%"></center>
    <br>
-   After the session ends, we will publish a PDF with a unique ZIPGRADE ACCESS CODE that students will use to view their score</span></td>
+   After the session ends, we will publish a PDF with a unique ZIPGRADE ACCESS CODE that students will use to view their score
+
  <br> Email tutoring@renert.com with any questions. <br>
 
 <style type="text/css">
