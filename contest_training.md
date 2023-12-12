@@ -1,4 +1,4 @@
-<b>Bright Minds Math Competition Club (MCC) <font color="red">is back!</font></b> for the 2023-24 school year 
+<b>Bright Minds Math Competition Club (MCC) <font color="red">is back!</font></b> for the 2023-24 school year <br>
 <b><font color="red">**NEW </font> </b>PROCESS FOR ACCESSING MATERIALS AND RESULTS for MCC SESSIONS:
 
 <b>How does it work?</b>
