@@ -61,11 +61,13 @@
 </table> 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
-  padding:10px 5px;word-break:normal;}
-.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-2yin{background-color:#0FF;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-dnvf{background-color:#ffffc7;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ig7t{background-color:#ffffff;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-8uzp{background-color:#FFFE65;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-gfzf{background-color:#FFCE93;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
@@ -73,17 +75,15 @@
 .tg .tg-aaov{background-color:#9AFF99;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-3xi5{background-color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-jmx1{background-color:#FFFFC7;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-fll5{border-color:inherit;font-weight:bold;text-align:center;vertical-align:bottom}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-w8ff{background-color:#FFF;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-jmx1{background-color:#FFFFC7;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8uzp"><span style="font-weight:bold">SESSION 4:</span> <span style="font-weight:bold;background-color:#FFFE65">Dec 15 - 17</span></th>
-    <th class="tg-8uzp"></th>
-    <th class="tg-8uzp"></th>
-    <th class="tg-8uzp"></th>
+    <th class="tg-8uzp" colspan="4"><span style="font-weight:bold">SESSION 4:</span> <span style="font-weight:bold;background-color:#FFFE65">Dec 15 - 17</span></th>
   </tr>
 </thead>
 <tbody>
@@ -106,22 +106,25 @@
     <td class="tg-3xi5"><a href="https://www.zipgrade.com/s/MflI4OW/" target="_blank" rel="noopener noreferrer">Pascal G9 2010</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><br> Next Sessions<br></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-fll5"><span style="font-weight:bold">PMI: 283 674 7551</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
+    <td class="tg-fll5"><span style="font-weight:bold">PMI: 724 089 2663</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
+    <td class="tg-fll5"><span style="font-weight:bold">PMI: 269 361 7203</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
+    <td class="tg-fll5"><span style="font-weight:bold">PMI: 269 361 7203</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
   </tr>
   <tr>
-    <td class="tg-jmx1"><span style="font-weight:bold">SESSION 5:</span> <span style="font-weight:bold;background-color:#FFFFC7">Jan 19 - 21</span></td>
-    <td class="tg-jmx1"></td>
-    <td class="tg-jmx1"></td>
-    <td class="tg-jmx1"></td>
+    <td class="tg-0pky">Next Sessions</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-gfzf"><span style="font-weight:bold;background-color:#FFCE93">Grade 1-2</span></td>
-    <td class="tg-a8xd"><span style="font-weight:bold;background-color:#FFCCC9">Grade 3-4</span></td>
-    <td class="tg-aaov"><span style="font-weight:bold;background-color:#9AFF99">Grade 5-6</span></td>
-    <td class="tg-2yin"><span style="font-weight:bold;background-color:#0FF">Grade 7 +</span></td>
+    <td class="tg-dnvf" colspan="4"><span style="font-weight:bold">SESSION 5:</span> <span style="font-weight:bold">Jan 19 - 21</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 1-2</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 3-4</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 5-6</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 7 +</span></td>
   </tr>
   <tr>
     <td class="tg-w8ff"><span style="font-weight:bold">Jan 21 - Sunday @ 9am</span></td>
@@ -130,13 +133,13 @@
     <td class="tg-w8ff"><span style="font-weight:bold">Jan 21 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-jmx1" colspan="4"><span style="font-weight:bold">SESSION 6: Feb 2 - 4</span></td>
+    <td class="tg-dnvf" colspan="4"><span style="font-weight:bold">SESSION 6: Feb 2 - 4</span></td>
   </tr>
   <tr>
-    <td class="tg-gfzf"><span style="font-weight:bold;background-color:#FFCE93">Grade 1-2</span></td>
-    <td class="tg-a8xd"><span style="font-weight:bold;background-color:#FFCCC9">Grade 3-4</span></td>
-    <td class="tg-aaov"><span style="font-weight:bold;background-color:#9AFF99">Grade 5-6</span></td>
-    <td class="tg-2yin"><span style="font-weight:bold;background-color:#0FF">Grade 7 +</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 1-2</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 3-4</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 5-6</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 7 +</span></td>
   </tr>
   <tr>
     <td class="tg-w8ff"><span style="font-weight:bold">Feb 4 - Sunday @ 9am</span></td>
@@ -148,10 +151,10 @@
     <td class="tg-jmx1" colspan="4"><span style="font-weight:bold">SESSION 7: Mar 1 - 3</span></td>
   </tr>
   <tr>
-    <td class="tg-gfzf"><span style="font-weight:bold;background-color:#FFCE93">Grade 1-2</span></td>
-    <td class="tg-a8xd"><span style="font-weight:bold;background-color:#FFCCC9">Grade 3-4</span></td>
-    <td class="tg-aaov"><span style="font-weight:bold;background-color:#9AFF99">Grade 5-6</span></td>
-    <td class="tg-2yin"><span style="font-weight:bold;background-color:#0FF">Grade 7 +</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 1-2</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 3-4</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 5-6</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 7 +</span></td>
   </tr>
   <tr>
     <td class="tg-w8ff"><span style="font-weight:bold">Mar 3 - Sunday @ 9am</span></td>
@@ -163,10 +166,10 @@
     <td class="tg-jmx1" colspan="4"><span style="font-weight:bold">SESSION 8: Mar 15 - 17 ----</span> <span style="font-weight:bold;color:#FE0000">LAST one (!)</span></td>
   </tr>
   <tr>
-    <td class="tg-gfzf"><span style="font-weight:bold;background-color:#FFCE93">Grade 1-2</span></td>
-    <td class="tg-a8xd"><span style="font-weight:bold;background-color:#FFCCC9">Grade 3-4</span></td>
-    <td class="tg-aaov"><span style="font-weight:bold;background-color:#9AFF99">Grade 5-6</span></td>
-    <td class="tg-2yin"><span style="font-weight:bold;background-color:#0FF">Grade 7 +</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 1-2</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 3-4</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 5-6</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 7 +</span></td>
   </tr>
   <tr>
     <td class="tg-w8ff"><span style="font-weight:bold">Mar 17 - Sunday @ 9am</span></td>
