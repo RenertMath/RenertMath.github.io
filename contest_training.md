@@ -1,7 +1,6 @@
 <b>Bright Minds Math Competition Club (MCC) <font color="red">is back!</font></b> for the 2023-24 school year 
 <style type="text/css">
-**NEW PROCESS FOR ACCESSING MATERIALS AND RESULTS for MCC SESSIONS:
- .tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
 .tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
   padding:10px 5px;word-break:normal;}
 .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
@@ -56,7 +55,7 @@
     <td class="tg-73oq"><span style="color:#FE0000">After the session ends, we will publish a PDF with a unique ZIPGRADE ACCESS CODE that students will use to view their score</span></td>
   </tr>
   <tr>
-    <td class="tg-73oq"></td>
+    <td class="tg-73oq">Email tutoring@renert.com with any questions.</td>
   </tr>
 </tbody>
 </table>
@@ -70,13 +69,15 @@ Email <b>tutoring@renert.com</b> with any questions.
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nto1{background-color:#000000;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-2yin{background-color:#0FF;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-8uzp{background-color:#FFFE65;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-gfzf{background-color:#FFCE93;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-a8xd{background-color:#FFCCC9;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-aaov{background-color:#9AFF99;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-ksrh{background-color:#000000;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-jmx1{background-color:#FFFFC7;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-w8ff{background-color:#FFF;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
 </style>
@@ -103,10 +104,16 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-c3ow"><span style="font-weight:bold">Dec 17 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><a href="https://www.zipgrade.com/s/HkAjn21/"><span style="text-decoration:none;color:#76159A;background-color:transparent">Kangaroo G1-2 2016</span></a></td>
-    <td class="tg-0pky"><a href="https://www.zipgrade.com/s/Du1aBE0/" target="_blank" rel="noopener noreferrer">Byron Germain G34 2017</a></td>
-    <td class="tg-c3ow"><a href="https://www.zipgrade.com/s/tM9TEQG/" target="_blank" rel="noopener noreferrer">Kangaroo G56 2020</a></td>
-    <td class="tg-c3ow"><a href="https://www.zipgrade.com/s/MflI4OW/" target="_blank" rel="noopener noreferrer">Pascal G9 2010</a></td>
+    <td class="tg-ksrh"><a href="https://www.zipgrade.com/s/HkAjn21/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#76159A">Kangaroo G1-2 2016</span></a></td>
+    <td class="tg-nto1"><a href="https://www.zipgrade.com/s/Du1aBE0/" target="_blank" rel="noopener noreferrer">Byron Germain G34 2017</a></td>
+    <td class="tg-ksrh"><a href="https://www.zipgrade.com/s/tM9TEQG/" target="_blank" rel="noopener noreferrer">Kangaroo G56 2020</a></td>
+    <td class="tg-ksrh"><a href="https://www.zipgrade.com/s/MflI4OW/" target="_blank" rel="noopener noreferrer">Pascal G9 2010</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Next Sessions</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-jmx1"><span style="font-weight:bold">SESSION 5:</span> <span style="font-weight:bold;background-color:#FFFFC7">Jan 19 - 21</span></td>
@@ -170,12 +177,6 @@ Email <b>tutoring@renert.com</b> with any questions.
     <td class="tg-w8ff"><span style="font-weight:bold">Mar 15 - Friday @ 5pm</span></td>
     <td class="tg-w8ff"><span style="font-weight:bold">Mar 17 - Sunday @ 11:00am</span></td>
     <td class="tg-w8ff"><span style="font-weight:bold">Mar 15 - Sunday @ 12:30pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky" colspan="4"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky" colspan="4">To check out he previous sessions click here.</td>
   </tr>
 </tbody>
 </table>
