@@ -1,29 +1,210 @@
-
 <b>Bright Minds Math Competition Club (MCC) <font color="red">is back!</font></b> for the 2023-24 school year 
 
-<b>MARINA WORKING ON THIS</b> <br>
-  <b>How Does it work?</b> <br>
-  
-  
- *	If you are Bright MInds student: yoou access your Id in theportal xxxx. This will be the same number that yuIn order to attend, the student MUST work on the contest  will use as a zip grade ID whenever yu need to access zip grade to submit a test or to access your score xxxx
-
-
-
- *	If you are a Renert School student the reference number you will use is the same as you use for the cafe. You can find this number in your school profile.xxxx
- *
-
-We can instruct students with similar as I did in the google drive document  Student session
-
-https://docs.google.com/document/d/1G5GNhow6usE-ZGnnJEkwZAVn98YjzXFAC2jx7JEUbrA/edit
-
-After the sessions we can publish the pdf with the access code that each student will need. I already exported the spreadsheet. We can hide the names or the ID number (maybe this is easier) So we give first, second name + access code. They still need the Id to login.
-
-Also we need to give instructions to the instructors in how to use zip grade app. THis should be the easier part. hahahhaha
-
-
+<b>How Does it work?</b> <br>
+ *	In order to attend, the student MUST work on the contest form that will be discussed on the coming weekend, and solve it to the best of their ability. It is OK to not answer a question if the student has no idea how to do it. The whole point of the kids solving ahead of time is for them to get familiar with the questions, and for the instructors to know which questions we should go over.
+ *	The student MUST send us their answers through the link 'Your answers here' by the evening prior to their scheduled session in order to participate in the session.
+ *	When there is more than one child per household attending, each student should submit the form with their solutions.
+ *	Please submit a SINGLE form per student. Multiple entries are unnecessary.<br>
+ * <b>Students can attend one level up or down based on their comfort level. They may join multiple sessions so long as they have submitted their answers for each session they wish to attend.</b>
+  * <b><font color="red">You will find the zoom access information below. Please refer to this website as you will not receive an email with zoom details.</font></b>
+ <br><br>
 Email <b>tutoring@renert.com</b> with any questions.
 <br>
 <style type="text/css">
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0iys{background-color:#FFF;border-color:inherit;color:#00E;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-tpog{background-color:#9AFF99;border-color:inherit;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-fyfk{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-l4ik{background-color:#FFF;border-color:#000000;color:#00E;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-0jzc{background-color:#FFF;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-alsg{background-color:#FFCE93;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nbj5{background-color:#FFF;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-8o4g{background-color:#FFFE65;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-crqu{background-color:#FFCCC9;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ygsm{background-color:#0FF;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-bohg{background-color:#FFF;border-color:#000000;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-w4w7{background-color:#FFF;border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-jch0{background-color:#9AFF99;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-75eo{background-color:#fffe65;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 1:     </span>Nov 3 - 5</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-alsg">Grade 1-2</td>
+    <td class="tg-crqu">Grade 3-4</td>
+    <td class="tg-tpog">Grade 5-6</td>
+    <td class="tg-ygsm">Grade 7 +</td>
+  </tr>
+  <tr>
+    <td class="tg-0jzc"><span style="font-weight:bold">Nov 5 - Sunday @ 9am</span></td>
+    <td class="tg-bohg">Nov 3 - Friday @ 5pm</td>
+    <td class="tg-bohg">Nov 5 - Sunday @ 11:00am</td>
+    <td class="tg-0jzc"><span style="font-weight:bold">Nov 5 - Sunday @ 12:30pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0iys"><a href="https://drive.google.com/file/d/1VjhsQ7Vza0UhduFKPgdE7Jy7wPyvFTmh/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Kangaroo 1-2</a></td>
+    <td class="tg-l4ik"><a href="https://drive.google.com/file/d/1XjqXLEniwogk84h4G9RGHJIYnqCzzdyt/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Kangaroo 3-4</a></td>
+    <td class="tg-l4ik"><a href="https://drive.google.com/file/d/1TtQYbhoH53X1-bfT8bemMml0B50LaEwI/view?usp=share_link" target="_blank" rel="noopener noreferrer">2020 Kangaroo 5-6</a></td>
+    <td class="tg-l4ik"><a href="https://drive.google.com/file/d/1wjFVOktGGsoX1GW2NsV1hwywyn73py3B/view?usp=share_link" target="_blank" rel="noopener noreferrer">2019 Pascal</a></td>
+  </tr>
+  <tr>
+    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1ZzxBrvTzmAJnv2grIajyg7cz-WxPXEBj/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
+    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1koavRXwSWsBfJwpt_Cvwy-41Ro0VHBR-/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
+    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1x-9shRoR0BklZrujcsRZr6cru4B40NES/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a><br></td>
+    <td class="tg-w4w7"><a href="https://drive.google.com/file/d/1IN3WAXYCqn-mTAMB7fn1KwiLtKO1F5RZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+  </tr>
+  <tr>
+    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 2:      </span>Nov 17 - 19</td>
+  </tr>
+  <tr>
+    <td class="tg-alsg">Grade 1-2</td>
+    <td class="tg-crqu">Grade 3-4</td>
+    <td class="tg-jch0">Grade 5-6</td>
+    <td class="tg-ygsm">Grade 7 +</td>
+  </tr>
+  <tr>
+    <td class="tg-fyfk"><span style="font-weight:bold">Nov 19 - Sunday @ 9am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Nov 17 - Friday @ 5pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Nov 19 - Sunday @ 11:00am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Nov 19 - Sunday @ 12:30pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/17rmoWDnC949FEr7NMyfmmT9oR6KWm_hk/view?usp=share_link" target="_blank" rel="noopener noreferrer">2020 Kangaroo 1-2</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1rpZCaNz5oNNVoM2kzSXIyjSpcIDfmHsZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">Kangaroo 2020 3-4</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1BdcSg9MceMevWSBR2DKD3WU88_w_dfnC/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Gauss 7</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1aepyTcthX27_AOKtdTYZcNJZCvu_lBdh/view?usp=share_link" target="_blank" rel="noopener noreferrer">2020 Kangaroo 7-8</a></td>
+  </tr>
+  <tr>
+    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1vZqeD83gQuR9sRF5Ex8Eq3XVKAWOu44Y/view" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1ibR_xIOm72Fh3PlCOQPpn9WLML97uer0/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/14T9x9ghziGIaWstjG2dfZ_jppYoTXQQ1/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-nbj5"><a href="https://drive.google.com/file/d/1IN3WAXYCqn-mTAMB7fn1KwiLtKO1F5RZ/view?usp=share_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+  </tr>
+  <tr>
+    <td class="tg-75eo" colspan="4"><span style="font-weight:bold">SESSION 3:      </span>Dec 1 - 3</td>
+  </tr>
+  <tr>
+    <td class="tg-alsg">Grade 1-2</td>
+    <td class="tg-crqu">Grade 3-4</td>
+    <td class="tg-jch0">Grade 5-6</td>
+    <td class="tg-ygsm">Grade 7 +</td>
+  </tr>
+  <tr>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 9am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 1 - Friday @ 5pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 11:00am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 3 - Sunday @ 12:30pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1Zz2uLRux2N6vYDda0y46lNI_0lXtAeyG/view?usp=share_link" target="_blank" rel="noopener noreferrer">Kangaroo 2012 G1-2</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1GhiykCQsDFLU4EBMA1NOKjDSkXegNp3n/view?usp=share_link" target="_blank" rel="noopener noreferrer">2016 CESMC Level 2</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1nB7KQwH6g7JpT_KElky98g4IHxErbgFd/view?usp=share_link" target="_blank" rel="noopener noreferrer">2019 Kangaroo G56</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1kJ5E7XmTBO_CfX9yOYsQWkTQBKmkV390/view?usp=share_link" target="_blank" rel="noopener noreferrer">2021 Pascal</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1yiKBdfXG2leEKdW1jzjRLEBFjaz1bavE/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-c3ow"><a href="https://docs.google.com/document/d/1Q_OliCBEbTxaW6r2hL4jHVYhJAmcX4PwM0QhghkMHFA/edit?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1he0gT7GACWp2F88TyWIRkh8CJavvnIp6/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1ejPcWjvkqeDwMA8tpId_gepsuf90_In4/view?usp=drive_link" target="_blank" rel="noopener noreferrer">KEY</a></td>
+  </tr>
+  <tr>
+    <td class="tg-8o4g"><span style="font-weight:bold">SESSION 4:      </span>Dec 15 - 17</td>
+    <td class="tg-8o4g"></td>
+    <td class="tg-8o4g"></td>
+    <td class="tg-8o4g"></td>
+  </tr>
+  <tr>
+    <td class="tg-alsg">Grade 1-2</td>
+    <td class="tg-crqu">Grade 3-4</td>
+    <td class="tg-jch0">Grade 5-6</td>
+    <td class="tg-ygsm">Grade 7 +</td>
+  </tr>
+  <tr>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 17 - Sunday @ 9am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 15 - Friday @ 5pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 17 - Sunday @ 11:00am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Dec 17 - Sunday @ 12:30pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-8o4g"><span style="font-weight:bold">SESSION 5:     </span>Jan 19 - 21</td>
+    <td class="tg-8o4g"></td>
+    <td class="tg-8o4g"></td>
+    <td class="tg-8o4g"></td>
+  </tr>
+  <tr>
+    <td class="tg-alsg">Grade 1-2</td>
+    <td class="tg-crqu">Grade 3-4</td>
+    <td class="tg-jch0">Grade 5-6</td>
+    <td class="tg-ygsm">Grade 7 +</td>
+  </tr>
+  <tr>
+    <td class="tg-fyfk"><span style="font-weight:bold">Jan 21 - Sunday @ 9am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Jan 19 - Friday @ 5pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Jan 21 - Sunday @ 11:00am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Jan 21 - Sunday @ 12:30pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 6:     Feb 2 - 4</span></td>
+  </tr>
+  <tr>
+    <td class="tg-alsg">Grade 1-2</td>
+    <td class="tg-crqu">Grade 3-4</td>
+    <td class="tg-jch0">Grade 5-6</td>
+    <td class="tg-ygsm">Grade 7 +</td>
+  </tr>
+  <tr>
+    <td class="tg-fyfk"><span style="font-weight:bold">Feb 4 - Sunday @ 9am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Feb 2 - Friday @ 5pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Feb 4 - Sunday @ 11:00am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Feb 4 - Sunday @ 12:30pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 7:    Mar 1 - 3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-alsg">Grade 1-2</td>
+    <td class="tg-crqu">Grade 3-4</td>
+    <td class="tg-jch0">Grade 5-6</td>
+    <td class="tg-ygsm">Grade 7 +</td>
+  </tr>
+  <tr>
+    <td class="tg-fyfk"><span style="font-weight:bold">Mar 3 - Sunday @ 9am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Mar 1 - Friday @ 5pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Mar 3 - Sunday @ 11:00am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Mar 3 - Sunday @ 12:30pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8o4g" colspan="4"><span style="font-weight:bold">SESSION 8:    Mar 15 - 17  ----   </span><span style="font-weight:bold;color:#FE0000;background-color:#FFFE65">LAST one (!)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-alsg">Grade 1-2</td>
+    <td class="tg-crqu">Grade 3-4</td>
+    <td class="tg-jch0">Grade 5-6</td>
+    <td class="tg-ygsm">Grade 7 +</td>
+  </tr>
+  <tr>
+    <td class="tg-fyfk"><span style="font-weight:bold">Mar 17 - Sunday @ 9am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Mar 15 - Friday @ 5pm</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Mar 17 - Sunday @ 11:00am</span></td>
+    <td class="tg-fyfk"><span style="font-weight:bold">Mar 15 - Sunday @ 12:30pm</span></td>
+  </tr>
 </tbody>
-
+</table>
