@@ -55,10 +55,10 @@
     <td class="tg-0lax"><span style="color:#FE0000">After the session ends, we will publish a PDF with a unique ZIPGRADE ACCESS CODE that students will use to view their score</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Email tutoring@renert.com with any questions.</td>
+    <td class="tg-0lax">Email tutoring@renert.com with any questions. <br></td>
   </tr>
 </tbody>
-</table> <br>
+</table> 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
