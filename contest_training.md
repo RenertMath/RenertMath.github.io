@@ -1,79 +1,62 @@
 <b>Bright Minds Math Competition Club (MCC) <font color="red">is back!</font></b> for the 2023-24 school year 
-
-<b>How Does it work?</b> <br>
- <style type="text/css">
-.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+<style type="text/css">
+**NEW PROCESS FOR ACCESSING MATERIALS AND RESULTS for MCC SESSIONS:
+ .tg  {border:none;border-collapse:collapse;border-spacing:0;}
 .tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
   padding:10px 5px;word-break:normal;}
 .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-mcqj{border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-mcqj"><span style="color:#FE0000">**NEW </span>PROCESS FOR ACCESSING MATERIALS AND RESULTS for MCC SESSIONS:</th>
-    <th class="tg-0lax"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-73oq">How does it work?</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-73oq">In order to attend upcoming MCC sessions, students MUST work on the contest at home in advance and submit their answers prior to the session. It is OK to not answer a question if the student has no idea how to do it. The whole point of the kids solving ahead of time is for them to get familiar with the questions, and for the instructors to know which questions we should go over.</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-73oq">Students can attend one level up or down based on their comfort level. They may join multiple sessions so long as they have submitted their answers for each session they wish to attend.</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-mcqj">If you are a Bright Minds student:</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-73oq">Login to your family portal, click "My Account" then "Current Courses/ Registrations".</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-73oq">Here you will find your child's name and their BM Student ID number. Make note of this 5 digit number</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-73oq"><img src="https://www.tablesgenerator.com/BM%20ID%20student.png" width="400" height="300"></td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-73oq">Enter the student name and their BM Student ID number in the "Zipgrade Student ID" field to access the MCC training contests as well as for future Math competitions put on by Renert Math.</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-mcqj">If you are a Renert School Student:</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-73oq">If you are a Renert School Student, the student ID you will use is the same as your Cafe student number.</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-73oq">Enter the student name and their CafeID number in the "Zipgrade Student ID" field to access the MCC training contests as well as for future Math competitions put on by Renert Math</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-73oq"><img src="https://www.tablesgenerator.com/Zip%20grade%20student%20login.png" width="400" height="300"></td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-73oq"><span style="color:#FE0000">After the session ends, we will publish a PDF with a unique ZIPGRADE ACCESS CODE each student will need to view their score</span></td>
-    <td class="tg-0lax">&amp; answer key. (Ensure you have your BM Student ID/ Renert School CafeID number handy as you will need it for this step too.)</td>
+    <td class="tg-73oq"><span style="color:#FE0000">After the session ends, we will publish a PDF with a unique ZIPGRADE ACCESS CODE that students will use to view their score</span></td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
-    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
