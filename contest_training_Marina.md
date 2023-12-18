@@ -14,7 +14,7 @@ You will need:
 Student Name: Child1  
 *ZipGrade Student ID: 5 digits number - the same you used to take the test
 *Student Access Code: ******  <b><span style="font-weight:bold;color:#FE0000">NEW!</span> </b>- this code will be the same for each time you access the portal
-<img src="https://renertmath.github.io/Student%20POrtal%201.png" width="1119" height="388">
+<img src="https://renertmath.github.io/Student%20POrtal%201.png" width="80%" height="80%">
 You can find your Access Code <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">here</a>.
 
 ** The ZipGrade Student Portal allows your teacher to schedule quizzes and post results to a secure location. Do not share your credentials with other students. 
@@ -22,7 +22,8 @@ You can find your Access Code <a href="http://www.zipgrade.com/student/" target=
 At the Student Portal you will see on the left a link to the Paper you solved. Click on it.
 
 
-<img src="https://renertmath.github.io/Student%20POrtal%201.png" width="1119" height="388">
+<img src="https://renertmath.github.io/Student POrtal 2.png" width="100%" height="100">
+
 
 
 <style type="text/css">
