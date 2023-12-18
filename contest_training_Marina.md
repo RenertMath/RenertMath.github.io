@@ -8,23 +8,23 @@ Email <b>tutoring@renert.com</b> with any questions.
 <b>Student Instructions to Access Student Portal</b>
 
 To check your results from the paper you practiced on you will need to go to the student portal: <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">http://www.ZipGrade.com/student/</a>
-<br>Select the LEFT side (Login to Student Portal)
-You will need: 
+<br><br>Select the LEFT side (Login to Student Portal)
+<br><br>You will need: 
 
 Student Name: Child1  
-*ZipGrade Student ID: 5 digits number - the same you used to take the test
-*Student Access Code: ******  <b><span style="font-weight:bold;color:#FE0000">NEW!</span> </b>- this code will be the same for each time you access the portal
+* ZipGrade Student ID: 5 digits number - the same you used to take the test<br>
+* Student Access Code: ******  <b><span style="font-weight:bold;color:#FE0000">NEW!</span> </b>- this code will be the same for each time you access the portal
 <img src="https://renertmath.github.io/Student%20POrtal%201.png" width="80%" height="80%">
 You can find your Access Code <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">here</a>.
 
-** The ZipGrade Student Portal allows your teacher to schedule quizzes and post results to a secure location. Do not share your credentials with other students. 
+* The ZipGrade Student Portal allows your teacher to schedule quizzes and post results to a secure location. Do not share your credentials with other students. 
 
 At the Student Portal you will see on the left a link to the Paper you solved. Click on it.
 
 
-<img src="https://renertmath.github.io/Student POrtal 2.png" width="100%" height="100">
-
-
+<img src="https://renertmath.github.io/Student POrtal 2.png" width="100%" height="100%">
+<br>
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
