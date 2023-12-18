@@ -84,71 +84,26 @@
     <td class="tg-fll5"><span style="font-weight:bold">PMI: 269 361 7203</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
     <td class="tg-fll5"><span style="font-weight:bold">PMI: 269 361 7203</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
   </tr>
-  <tr>
-    <td class="tg-0pky"><span style="font-weight:bold;color:#FE0000">Next Sessions</span></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-dnvf" colspan="4"><span style="font-weight:bold">SESSION 5:</span> <span style="font-weight:bold">Jan 19 - 21</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 1-2</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 3-4</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 5-6</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 7 +</span></td>
-  </tr>
-  <tr>
-    <td class="tg-w8ff"><span style="font-weight:bold">Jan 21 - Sunday @ 9am</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Jan 19 - Friday @ 5pm</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Jan 21 - Sunday @ 11:00am</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Jan 21 - Sunday @ 12:30pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dnvf" colspan="4"><span style="font-weight:bold">SESSION 6: Feb 2 - 4</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 1-2</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 3-4</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 5-6</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 7 +</span></td>
-  </tr>
-  <tr>
-    <td class="tg-w8ff"><span style="font-weight:bold">Feb 4 - Sunday @ 9am</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Feb 2 - Friday @ 5pm</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Feb 4 - Sunday @ 11:00am</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Feb 4 - Sunday @ 12:30pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-jmx1" colspan="4"><span style="font-weight:bold">SESSION 7: Mar 1 - 3</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 1-2</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 3-4</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 5-6</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 7 +</span></td>
-  </tr>
-  <tr>
-    <td class="tg-w8ff"><span style="font-weight:bold">Mar 3 - Sunday @ 9am</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Mar 1 - Friday @ 5pm</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Mar 3 - Sunday @ 11:00am</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Mar 3 - Sunday @ 12:30pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-jmx1" colspan="4"><span style="font-weight:bold">SESSION 8: Mar 15 - 17 ----</span> <span style="font-weight:bold;color:#FE0000">LAST one (!)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 1-2</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 3-4</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 5-6</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 7 +</span></td>
-  </tr>
-  <tr>
-    <td class="tg-w8ff"><span style="font-weight:bold">Mar 17 - Sunday @ 9am</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Mar 15 - Friday @ 5pm</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Mar 17 - Sunday @ 11:00am</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Mar 15 - Sunday @ 12:30pm</span></td>
-  </tr>
 </tbody>
 </table>
+<b>Student Instructions to Access Student Portal</b>
+
+To check your results from the paper you practiced on you will need to go to the student portal: <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">http://www.ZipGrade.com/student/</a>
+<br><br>Select the LEFT side (Login to Student Portal)
+<br><br>You will need: 
+
+Student Name: Child1  
+* ZipGrade Student ID: 5 digits number - the same you used to take the test<br>
+* Student Access Code: ******  <b><span style="font-weight:bold;color:#FE0000">NEW!</span> </b>- this code will be the same for each time you access the portal
+<img src="https://renertmath.github.io/Student%20POrtal%201.png" width="80%" height="80%">
+You can find your Access Code <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">here</a>.
+
+* The ZipGrade Student Portal allows your teacher to schedule quizzes and post results to a secure location. Do not share your credentials with other students. 
+
+At the Student Portal you will see on the left a link to the Paper you solved. Click on it.
+
+
+<img src="https://renertmath.github.io/Student POrtal 2.png" width="100%" height="100%">
+<br>
+<br>
+
