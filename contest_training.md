@@ -83,8 +83,7 @@
 </table>
 <b>Student Instructions to Access Student Portal</b>
 
-To check your results from the paper you practiced on you will need to go to the student portal: <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">http://www.ZipGrade.com/student/</a>
-<br><br>Select the LEFT side (Login to Student Portal)
+To check your results from the paper you practiced on you will need to go to the student portal: <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">http://www.ZipGrade.com/student/</a>--Select the LEFT side (Login to Student Portal)
 <br><br>You will need: 
 
 Student Name: Child1  
