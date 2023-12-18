@@ -78,12 +78,7 @@
     <td class="tg-baqh"><a href="https://drive.google.com/file/d/1x-9shRoR0BklZrujcsRZr6cru4B40NES/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
     <td class="tg-baqh"><a href="https://drive.google.com/file/d/1g_NIKjCj8EPeEJKpUV1EqtYfkd1BafwY/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
   </tr>
-  <tr>
-    <td class="tg-fll5"><span style="font-weight:bold">PMI: 283 674 7551</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
-    <td class="tg-fll5"><span style="font-weight:bold">PMI: 724 089 2663</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
-    <td class="tg-fll5"><span style="font-weight:bold">PMI: 269 361 7203</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
-    <td class="tg-fll5"><span style="font-weight:bold">PMI: 269 361 7203</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
-  </tr>
+ 
 </tbody>
 </table>
 <b>Student Instructions to Access Student Portal</b>
