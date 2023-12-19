@@ -96,4 +96,108 @@ To check your results from the paper you practiced on:
 <img src="https://renertmath.github.io/Student POrtal 2.png" width="100%" height="100%">
 <br>
 <br>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c75e{background-color:#96fffb;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-dnvf{background-color:#ffffc7;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ig7t{background-color:#ffffff;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-h6b3{background-color:#ffccc9;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-xcap{background-color:#9aff99;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-o7c8{background-color:#fcff2f;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-bbaj{background-color:#ffce93;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-w8ff{background-color:#FFF;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-jmx1{background-color:#FFFFC7;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-o7c8" colspan="4"><span style="font-weight:bold">SESSION 5:</span> <span style="font-weight:bold">Jan 19 - 21</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bbaj"><span style="font-weight:bold">Grade 1-2</span></td>
+    <td class="tg-h6b3"><span style="font-weight:bold">Grade 3-4</span></td>
+    <td class="tg-xcap"><span style="font-weight:bold">Grade 5-6</span></td>
+    <td class="tg-c75e"><span style="font-weight:bold">Grade 7 +</span></td>
+  </tr>
+  <tr>
+    <td class="tg-w8ff"><span style="font-weight:bold">Jan 21 - Sunday @ 9am</span></td>
+    <td class="tg-w8ff"><span style="font-weight:bold">Jan 19 - Friday @ 5pm</span></td>
+    <td class="tg-w8ff"><span style="font-weight:bold">Jan 21 - Sunday @ 11:00am</span></td>
+    <td class="tg-w8ff"><span style="font-weight:bold">Jan 21 - Sunday @ 12:30pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Kangaroo G12 2017</td>
+    <td class="tg-c3ow">Kangaroo G34&nbsp;&nbsp;2012</td>
+    <td class="tg-c3ow">Gauss G7 2010 </td>
+    <td class="tg-c3ow">Kangaroo G78 2017</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Pdf for printing</td>
+    <td class="tg-c3ow">Pdf for printing</td>
+    <td class="tg-c3ow">Pdf for printing</td>
+    <td class="tg-c3ow">Pdf for printing</td>
+  </tr>
+  <tr>
+    <td class="tg-7btt"><span style="font-weight:bold">PMI: 283 674 7551</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
+    <td class="tg-7btt"><span style="font-weight:bold">PMI: 724 089 2663</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
+    <td class="tg-7btt"><span style="font-weight:bold">PMI: 269 361 7203</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
+    <td class="tg-7btt"><span style="font-weight:bold">PMI: 269 361 7203</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dnvf"><span style="font-weight:bold">SESSION 6: Feb 2 - 4</span></td>
+    <td class="tg-jmx1"></td>
+    <td class="tg-jmx1"></td>
+    <td class="tg-jmx1"></td>
+  </tr>
+  <tr>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 1-2</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 3-4</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 5-6</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 7 +</span></td>
+  </tr>
+  <tr>
+    <td class="tg-w8ff"><span style="font-weight:bold">Feb 4 - Sunday @ 9am</span></td>
+    <td class="tg-w8ff"><span style="font-weight:bold">Feb 2 - Friday @ 5pm</span></td>
+    <td class="tg-w8ff"><span style="font-weight:bold">Feb 4 - Sunday @ 11:00am</span></td>
+    <td class="tg-w8ff"><span style="font-weight:bold">Feb 4 - Sunday @ 12:30pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-jmx1" colspan="4"><span style="font-weight:bold">SESSION 7: Mar 1 - 3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 1-2</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 3-4</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 5-6</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 7 +</span></td>
+  </tr>
+  <tr>
+    <td class="tg-w8ff"><span style="font-weight:bold">Mar 3 - Sunday @ 9am</span></td>
+    <td class="tg-w8ff"><span style="font-weight:bold">Mar 1 - Friday @ 5pm</span></td>
+    <td class="tg-w8ff"><span style="font-weight:bold">Mar 3 - Sunday @ 11:00am</span></td>
+    <td class="tg-w8ff"><span style="font-weight:bold">Mar 3 - Sunday @ 12:30pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-jmx1" colspan="4"><span style="font-weight:bold">SESSION 8: Mar 15 - 17 ----</span> <span style="font-weight:bold;color:#FE0000">LAST one (!)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 1-2</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 3-4</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 5-6</span></td>
+    <td class="tg-ig7t"><span style="font-weight:bold">Grade 7 +</span></td>
+  </tr>
+  <tr>
+    <td class="tg-w8ff"><span style="font-weight:bold">Mar 17 - Sunday @ 9am</span></td>
+    <td class="tg-w8ff"><span style="font-weight:bold">Mar 15 - Friday @ 5pm</span></td>
+    <td class="tg-w8ff"><span style="font-weight:bold">Mar 17 - Sunday @ 11:00am</span></td>
+    <td class="tg-w8ff"><span style="font-weight:bold">Mar 15 - Sunday @ 12:30pm</span></td>
+  </tr>
+</tbody>
+</table>
