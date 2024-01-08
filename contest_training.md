@@ -173,5 +173,5 @@ To check your results from the paper you practiced on:
     <td class="tg-w8ff"><span style="font-weight:bold">Mar 17 - Sunday @ 11:00am</span></td>
     <td class="tg-w8ff"><span style="font-weight:bold">Mar 15 - Sunday @ 12:30pm</span></td>
   </tr>
-</tbody>
+
 </table>
