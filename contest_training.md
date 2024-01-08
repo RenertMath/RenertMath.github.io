@@ -121,24 +121,8 @@ To check your results from the paper you practiced on:
 <img src="https://renertmath.github.io/Student POrtal 2.png" width="100%" height="100%">
 <br>
 <br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c75e{background-color:#96fffb;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-dnvf{background-color:#ffffc7;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ig7t{background-color:#ffffff;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-h6b3{background-color:#ffccc9;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-xcap{background-color:#9aff99;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-o7c8{background-color:#fcff2f;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-bbaj{background-color:#ffce93;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-w8ff{background-color:#FFF;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-jmx1{background-color:#FFFFC7;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
-</style>
+
+
 <table class="tg">
 
   <tr>
