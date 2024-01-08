@@ -140,42 +140,7 @@ To check your results from the paper you practiced on:
 .tg .tg-jmx1{background-color:#FFFFC7;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-o7c8" colspan="4"><span style="font-weight:bold">SESSION 5:</span> <span style="font-weight:bold">Jan 19 - 21</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-bbaj"><span style="font-weight:bold">Grade 1-2</span></td>
-    <td class="tg-h6b3"><span style="font-weight:bold">Grade 3-4</span></td>
-    <td class="tg-xcap"><span style="font-weight:bold">Grade 5-6</span></td>
-    <td class="tg-c75e"><span style="font-weight:bold">Grade 7 +</span></td>
-  </tr>
-  <tr>
-    <td class="tg-w8ff"><span style="font-weight:bold">Jan 21 - Sunday @ 9am</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Jan 19 - Friday @ 5pm</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Jan 21 - Sunday @ 11:00am</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Jan 21 - Sunday @ 12:30pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Kangaroo G12 2017</td>
-    <td class="tg-c3ow">Kangaroo G34&nbsp;&nbsp;2012</td>
-    <td class="tg-c3ow">Gauss G7 2010 </td>
-    <td class="tg-c3ow">Kangaroo G78 2017</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">Pdf for printing</td>
-    <td class="tg-c3ow">Pdf for printing</td>
-    <td class="tg-c3ow">Pdf for printing</td>
-    <td class="tg-c3ow">Pdf for printing</td>
-  </tr>
-  <tr>
-    <td class="tg-7btt"><span style="font-weight:bold">PMI: 283 674 7551</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold">PMI: 724 089 2663</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold">PMI: 269 361 7203</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold">PMI: 269 361 7203</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
-  </tr>
+
   <tr>
     <td class="tg-dnvf"><span style="font-weight:bold">SESSION 6: Feb 2 - 4</span></td>
     <td class="tg-jmx1"></td>
