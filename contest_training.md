@@ -54,29 +54,60 @@
   </tr>
 </thead>
 <tbody>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c75e{background-color:#96fffb;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-dnvf{background-color:#ffffc7;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ig7t{background-color:#ffffff;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-h6b3{background-color:#ffccc9;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-xcap{background-color:#9aff99;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-o7c8{background-color:#fcff2f;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-bbaj{background-color:#ffce93;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-w8ff{background-color:#FFF;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-jmx1{background-color:#FFFFC7;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
   <tr>
-    <td class="tg-gfzf"><span style="font-weight:bold;background-color:#FFCE93">Grade 1-2</span></td>
-    <td class="tg-a8xd"><span style="font-weight:bold;background-color:#FFCCC9">Grade 3-4</span></td>
-    <td class="tg-aaov"><span style="font-weight:bold;background-color:#9AFF99">Grade 5-6</span></td>
-    <td class="tg-2yin"><span style="font-weight:bold;background-color:#0FF">Grade 7 +</span></td>
+    <th class="tg-o7c8" colspan="4"><span style="font-weight:bold">SESSION 5:</span> <span style="font-weight:bold">Jan 19 - 21</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bbaj"><span style="font-weight:bold">Grade 1-2</span></td>
+    <td class="tg-h6b3"><span style="font-weight:bold">Grade 3-4</span></td>
+    <td class="tg-xcap"><span style="font-weight:bold">Grade 5-6</span></td>
+    <td class="tg-c75e"><span style="font-weight:bold">Grade 7 +</span></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:bold">Dec 17 - Sunday @ 9am</span></td>
-    <td class="tg-c3ow"><span style="font-weight:bold">Dec 15 - Friday @ 5pm</span></td>
-    <td class="tg-c3ow"><span style="font-weight:bold">Dec 17 - Sunday @ 11:00am</span></td>
-    <td class="tg-c3ow"><span style="font-weight:bold">Dec 17 - Sunday @ 12:30pm</span></td>
+    <td class="tg-w8ff"><span style="font-weight:bold">Jan 21 - Sunday @ 9am</span></td>
+    <td class="tg-w8ff"><span style="font-weight:bold">Jan 19 - Friday @ 5pm</span></td>
+    <td class="tg-w8ff"><span style="font-weight:bold">Jan 21 - Sunday @ 11:00am</span></td>
+    <td class="tg-w8ff"><span style="font-weight:bold">Jan 21 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-3xi5"><a href="https://www.zipgrade.com/s/HkAjn21/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#76159A">Kangaroo G1-2 2016</span></a></td>
-    <td class="tg-c6of"><a href="https://www.zipgrade.com/s/Du1aBE0/" target="_blank" rel="noopener noreferrer">Byron Germain G34 2017</a></td>
-    <td class="tg-3xi5"><a href="https://www.zipgrade.com/s/tM9TEQG/" target="_blank" rel="noopener noreferrer">Kangaroo G56 2020</a></td>
-    <td class="tg-3xi5"><a href="https://www.zipgrade.com/s/MflI4OW/" target="_blank" rel="noopener noreferrer">Pascal G9 2010</a></td>
+    <td class="tg-c3ow"><a href="https://www.zipgrade.com/s/XL5WyVX/" target="_blank" rel="noopener noreferrer">Kangaroo G12 2017</a></td>
+    <td class="tg-c3ow"><a href="https://www.zipgrade.com/s/hPULU3Z/" target="_blank" rel="noopener noreferrer">Kangaroo G34  2012</a></td>
+    <td class="tg-c3ow"><a href="https://www.zipgrade.com/s/I4CQ3i6/" target="_blank" rel="noopener noreferrer">Gauss G7 2010</a></td>
+    <td class="tg-c3ow"><a href="https://www.zipgrade.com/s/zqfxe44/" target="_blank" rel="noopener noreferrer">Kangaroo G78 2017</a></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="https://drive.google.com/file/d/1iPzvi0JDFwRnjp5UnCibvpY3mwDrhy0f/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
-    <td class="tg-baqh"><a href="https://drive.google.com/file/d/1UhIGAS8BVfvMJt67rvIMT3sV4UHCKj_h/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
-    <td class="tg-baqh"><a href="https://drive.google.com/file/d/1x-9shRoR0BklZrujcsRZr6cru4B40NES/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
-    <td class="tg-baqh"><a href="https://drive.google.com/file/d/1g_NIKjCj8EPeEJKpUV1EqtYfkd1BafwY/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1Cf-YveqVeUnAC6PN7CvdiV96E43z5y3L/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1EuoEyl4Zh4TNQsg2mWqEgo3Dj2F70iOC/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1USu2TMuPiIZ-eGlwOLcWLJO3TvfrDOaZ/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/130W70L-C6wWjdaDV034N8R6o5Ix1dpG9/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
+  </tr>
+  <tr>
+    <td class="tg-7btt"><span style="font-weight:bold">PMI: 283 674 7551</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
+    <td class="tg-7btt"><span style="font-weight:bold">PMI: 724 089 2663</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
+    <td class="tg-7btt"><span style="font-weight:bold">PMI: 269 361 7203</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
+    <td class="tg-7btt"><span style="font-weight:bold">PMI: 269 361 7203</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
   </tr>
  
 </tbody>
