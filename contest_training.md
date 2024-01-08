@@ -47,13 +47,7 @@
 .tg .tg-w8ff{background-color:#FFF;border-color:inherit;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-jmx1{background-color:#FFFFC7;border-color:inherit;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-8uzp" colspan="4"><span style="font-weight:bold">SESSION 4:</span> <span style="font-weight:bold;background-color:#FFFE65">Dec 15 - 17</span></th>
-  </tr>
-</thead>
-<tbody>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
