@@ -92,10 +92,10 @@
     <td class="tg-c3ow"><a href="https://www.zipgrade.com/s/zqfxe44/" target="_blank" rel="noopener noreferrer">Kangaroo G78 2017</a></td>
   </tr>
   <tr>
-  <td class="tg-c3ow"><a href="https://drive.google.com/drive/folders/1GX8fJ3srrGxu_q-q84Q-AwzDzCoK_8gC" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
+  <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1TSJpAcLv2kLcJ0nrz26UVgfY5OY-klj6/view?usp=sharing" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
     <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1EuoEyl4Zh4TNQsg2mWqEgo3Dj2F70iOC/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
     <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1USu2TMuPiIZ-eGlwOLcWLJO3TvfrDOaZ/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
-    <td class="tg-c3ow"><a href="https://drive.google.com/drive/folders/1G7FElM2xbGthfmsNwXZIkoTfjHTbflWF" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1Wr1_TB1R4_XM9lZzC93plW2x2T3PrqGJ/view?usp=sharing" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
   
   </tr>
   <tr>
