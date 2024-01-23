@@ -122,24 +122,6 @@ To check your results from the paper you practiced on:
 <table class="tg">
 
   <tr>
-    <td class="tg-dnvf"><span style="font-weight:bold">SESSION 6: Feb 2 - 4</span></td>
-    <td class="tg-jmx1"></td>
-    <td class="tg-jmx1"></td>
-    <td class="tg-jmx1"></td>
-  </tr>
-  <tr>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 1-2</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 3-4</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 5-6</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 7 +</span></td>
-  </tr>
-  <tr>
-    <td class="tg-w8ff"><span style="font-weight:bold">Feb 4 - Sunday @ 9am</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Feb 2 - Friday @ 5pm</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Feb 4 - Sunday @ 11:00am</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Feb 4 - Sunday @ 12:30pm</span></td>
-  </tr>
-  <tr>
     <td class="tg-jmx1" colspan="4"><span style="font-weight:bold">SESSION 7: Mar 1 - 3</span></td>
   </tr>
   <tr>
