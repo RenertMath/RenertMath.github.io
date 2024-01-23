@@ -85,7 +85,7 @@
   </tr>
   <tr>
     <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1t_WkYa2-SRVn_2scgWbo59IP8pxFNoZy/view?usp=drive_link" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
-    <td class="tg-m5nv"><a href=" <th class="tg-ttta"><span style="font-weight:bold">SESSION 6</span><br>Feb 2-4<br></th>" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
+    <td class="tg-m5nv"><a href=" https://drive.google.com/file/d/1G_Y7OUtVCIGokBGtKrA98preqaPQM7Dn/view?usp=drive_link" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
     <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1a2frwP1QIQ6_wTXXo-kSlDlJfsaHB81X/view?usp=drive_link" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
     <td class="tg-m5nv"><a href="https://drive.google.com/file/d/166avE4kyoW57Y5KBcjWvCKVKFepRQgx4/view?usp=drive_link" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
     <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1c_nc13_vBQxqVDerNlh2N5fvhqbid1W4/view?usp=drive_link" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
