@@ -54,7 +54,7 @@
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-795s"><span style="font-weight:bold">SESSION 6:</span> Feb 2<span style="font-weight:bold;background-color:#FFFE65"> - 4</span></th>
+    <th class="tg-ttta"><span style="font-weight:bold">SESSION 6</span><br>Feb 2-4<br></th>
     <th class="tg-795s"></th>
     <th class="tg-795s"></th>
     <th class="tg-gr12"></th>
