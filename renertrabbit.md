@@ -52,7 +52,7 @@ To Access your answers in the bubble sheet from Renert Rabbit 2024
 <tbody>
   <tr>
     <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG1.pdf" target="_blank" rel="noopener noreferrer">RR 2024 G1</a></td>
-    <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG23.pdf.pdf" target="_blank" rel="noopener noreferrer">RR 2024 G23</a></td>
+    <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG23.pdf" target="_blank" rel="noopener noreferrer">RR 2024 G23</a></td>
     <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG45.pdf" target="_blank" rel="noopener noreferrer">RR 2024 G45</a></td>
     <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG6.pdf" target="_blank" rel="noopener noreferrer">RR 2024 G6</a></td>
   </tr>
@@ -106,7 +106,7 @@ To Access your answers in the bubble sheet from Renert Rabbit 2024
   <tr>
     <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2021RenertRabbit_Gr1.pdf" target="_blank" rel="noopener noreferrer">RR 2021 G1</a></td>
     <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2021RenertRabbit_Gr2-3.pdf" target="_blank" rel="noopener noreferrer">RR 2021 G23</a></td>
-    <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/ 2021RenertRabbit_Gr4.pdf" target="_blank" rel="noopener noreferrer">RR 2021 G4</a></td>
+    <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2021RenertRabbit_Gr4.pdf" target="_blank" rel="noopener noreferrer">RR 2021 G4</a></td>
     <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2021RenertRabbit_Gr5-6.pdf" target="_blank" rel="noopener noreferrer">RR 2021 G56</a></td>
      </tr>
   <tr>
