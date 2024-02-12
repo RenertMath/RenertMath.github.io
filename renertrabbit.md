@@ -1,5 +1,8 @@
 
   <h2> Renert Rabbit - Past Contests </h2>
+
+To Access your results from Renert Rabbit got to ZipGrade <a href="https://www.zipgrade.com/student/portal/home/"> Student Portal </a> and login using your ID number.
+
 <div class="row">
   <div class="column">
        <h2> 2023</h2>
