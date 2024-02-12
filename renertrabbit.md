@@ -11,8 +11,7 @@ To Access your answers in the bubble sheet from Renert Rabbit 2024
 * <b>Renert School Access Code <a href="https://renertmath.github.io/RR RS ACEESS code.pdf" target="_blank" rel="noopener noreferrer" style="font-weight:bold;color:#FE0000">HERE</a></b>.
 <img src="https://renertmath.github.io/Student%20POrtal%201.png" width="80%" height="80%">
 
-
-* The ZipGrade Student Portal allows your teacher to schedule quizzes and post results to a secure location. Do not share your credentials with other students.
+* Do not share your credentials with other students.
 * Click on the link at the Student Portal. 
 
 <img src="https://renertmath.github.io/Student POrtal 2.png" width="100%" height="100%">
@@ -20,52 +19,6 @@ To Access your answers in the bubble sheet from Renert Rabbit 2024
 <br>
 
 <h2> Renert Rabbit - Past Contests </h2>
-
-<div class="row">
-  <div class="column">
-       <h2> 2023</h2>
-    <p>
-      <ul>
-                <li> <a href="renertrabbit/2023 Renert Rabbit Gr1.pdf"> Renert Rabbit Grade 1 </a>   <br><a href="renertrabbit/2023 Renert Rabbit Gr1 SOLUTIONS.pdf"> RR Grade 1 Key</a>  </li>
-        
-         <li> <a href="renertrabbit/2023 Renert Rabbit Gr2-3.pdf"> Renert Rabbit Grade 2-3 </a>   <br><a href="renertrabbit/2023 Renert Rabbit Gr2-3 SOLUTIONS.pdf"> RR Grade 2-3 Key</a>  </li>
-        
-        <li> <a href="renertrabbit/2023 Renert Rabbit Gr4-5.pdf"> Renert Rabbit Grade 4-5 </a><br><a href="renertrabbit/2023 Renert Rabbit Gr4-5 SOLUTIONS.pdf">RR Grade 4-5 Key </a>  </li>
-        
-         <li> <a href="renertrabbit/2023 Renert Rabbit Gr6.pdf"> Renert Rabbit Grade 6 </a>  <br> <a href="renertrabbit/2023 Renert Rabbit Gr6 SOLUTIONS.pdf"> RR Grade 6 Key </a>  </li>
-        
-             </ul> 
-    </p>
- 
-  </div>
-  
-  <div class="column">
-    <h2> 2022 </h2>
-   <p>
-      <ul>
-                <li> <a href="renertrabbit/2022RenertRabbit_Gr1.pdf"> Renert Rabbit Grade 1 </a>  <br> <a href="renertrabbit/2022RenertRabbit_Gr1_KEY.pdf"> RR Grade 1 Key</a>  </li>
-        <li> <a href="renertrabbit/2022RenertRabbit_Gr2-3_revised.pdf"> Renert Rabbit Grade 2-3 </a><br><a href="renertrabbit/2022RenertRabbit_Gr2-3_KEY.pdf"> RR Grade 2-3 Key </a>  </li>
-        <li> <a href="renertrabbit/2022RenertRabbit_Gr4-5.pdf"> Renert Rabbit Grade 4-5 </a><br><a href="renertrabbit/2022RenertRabbit_Gr4-5_KEY.pdf">RR Grade 4-5 Key </a>  </li>
-         <li> <a href="renertrabbit/2022RenertRabbit_Gr6_revised.pdf"> Renert Rabbit Grade 6 </a><br>   <a href="renertrabbit/2022RenertRabbit_Gr6_KEY.pdf"> RR Grade 6 Key </a>  </li>
-             </ul> 
-    </p>
-      </div>
-
-<div class="column">
-    <h2> 2021 </h2>
-   <p>
-      <ul>
-                <li> <a href="renertrabbit/2021RenertRabbit_Gr1.pdf"> Renert Rabbit Grade 1 </a> <br>  <a href="renertrabbit/2021RenertRabbit_Gr1_KEY.pdf"> RR Grade 1 Key</a>  </li>
-        <li> <a href="renertrabbit/2021RenertRabbit_Gr2-3.pdf"> Renert Rabbit Grade 2-3 </a><br><a href="renertrabbit/2021RenertRabbit_Gr2-3 KEY.pdf"> RR Grade 2-3 Key </a>  </li>
-        <li> <a href="renertrabbit/2021RenertRabbit_Gr4.pdf"> Renert Rabbit Grade 4 </a><br><a href="renertrabbit/2021RenertRabbit_Gr4_KEY.pdf">RR Grade 4 Key </a>  </li>
-         <li> <a href="renertrabbit/2021RenertRabbit_Gr5-6.pdf"> Renert Rabbit Grade 5-6 </a> <br>  <a href="renertrabbit/2021RenertRabbit_Gr5-6_KEY.pdf"> RR Grade 5-6 Key </a>  </li>
-             </ul> 
-    </p>
-      </div>
-
-<hr>
-To Access your Bubble sheet from 
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
