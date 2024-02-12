@@ -1,5 +1,5 @@
 
-  <h2> Past Contests </h2>
+  <h2> Renert Rabbit - Past Contests </h2>
 <div class="row">
   <div class="column">
        <h2> 2023</h2>
