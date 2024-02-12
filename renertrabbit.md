@@ -1,8 +1,21 @@
 
   <h2> Renert Rabbit - Past Contests </h2>
 
-To Access your results from Renert Rabbit got to ZipGrade <a href="https://www.zipgrade.com/student/portal/home/"> Student Portal </a> and login using your ID number.
+To Access your results from Renert Rabbit 2024
+* Go to the student portal: <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">http://www.ZipGrade.com/student/</a>. Select the LEFT side (Login to Student Portal)
+* ZipGrade Student ID: 5 digits number - If you are Bright MInds student, this is your ID that you find at the portal (5 digits, starting with 5), if you are Renert School student this is your cafe number(5 digits, starting with 3) <br>
+* Student Access Code: <b><span style="font-weight:bold;color:#FE0000">NEW!</span> </b>- this code will be the same for each time you access the portal.
+* <b>Bright Minds Access Code <a href="https://renertmath.github.io/RR BM ACEESS code.pdf" target="_blank" rel="noopener noreferrer" style="font-weight:bold;color:#FE0000">HERE</a></b>.
+* <b>Renert School Access Code <a href="https://renertmath.github.io/RR RS ACEESS code.pdf" target="_blank" rel="noopener noreferrer" style="font-weight:bold;color:#FE0000">HERE</a></b>.
+<img src="https://renertmath.github.io/Student%20POrtal%201.png" width="80%" height="80%">
 
+
+* The ZipGrade Student Portal allows your teacher to schedule quizzes and post results to a secure location. Do not share your credentials with other students.
+* Click on the link at the Student Portal. 
+
+<img src="https://renertmath.github.io/Student POrtal 2.png" width="100%" height="100%">
+<br>
+<br>
 <div class="row">
   <div class="column">
        <h2> 2023</h2>
