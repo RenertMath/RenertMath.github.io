@@ -71,12 +71,13 @@
     <td class="tg-m6gg"><span style="font-weight:bold">Mar 3 - Sunday @ 11:00am</span></td>
     <td class="tg-m6gg"><span style="font-weight:bold">Mar 3 - Sunday @ 12:30pm</span></td>
   </tr>
-  <tr>
-    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/0UFhjdU/" target="_blank" rel="noopener noreferrer">Kangaroo G1-2 2018</a><br></td>
-    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/XxY0FX7/" target="_blank" rel="noopener noreferrer">Byron-Germain 2018</a><br></td>
-    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/YflqmyL/" target="_blank" rel="noopener noreferrer">Gauss G7 2020</a><br></td>
-    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/g6iEitw/" target="_blank" rel="noopener noreferrer">Pascal G9 2018</a><br></td>
+<tr>
+    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/0UFhjdU/" target="_blank" rel="noopener noreferrer">Kangaroo G1-2</a><br><a href="https://www.zipgrade.com/s/0UFhjdU/" target="_blank" rel="noopener noreferrer">2018</a><br></td>
+    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/XxY0FX7/" target="_blank" rel="noopener noreferrer">Byron-Germain</a><br><a href="https://www.zipgrade.com/s/XxY0FX7/" target="_blank" rel="noopener noreferrer">2018</a><br></td>
+    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/YflqmyL/" target="_blank" rel="noopener noreferrer">Gauss G7</a><br><a href="https://www.zipgrade.com/s/YflqmyL/" target="_blank" rel="noopener noreferrer">2020</a><br></td>
+    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/g6iEitw/" target="_blank" rel="noopener noreferrer">Pascal G9 </a><br><a href="https://www.zipgrade.com/s/g6iEitw/" target="_blank" rel="noopener noreferrer">2018</a><br></td>
   </tr>
+ 
   <tr>
     <td class="tg-m5nv"><a href="https://drive.google.com/file/d/16V35_Xi2QUYIi9a9CXf1OZdcGa9vguxl/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
     <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1Y1-uy2NH69JdL9-gyrq5Hzd-d9oz5yLu/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
