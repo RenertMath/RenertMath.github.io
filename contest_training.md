@@ -45,10 +45,10 @@
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 605px">
 <colgroup>
-<col style="width:  180px">
-<col style="width:  180px">
-<col style="width: 180px">
-<col style="width:  180px">
+<col style="width:  250px">
+<col style="width:  250px">
+<col style="width: 250px">
+<col style="width:  250px">
 </colgroup>
 <thead>
   <tr>
