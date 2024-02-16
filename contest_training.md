@@ -111,21 +111,7 @@ To check your results from the paper you practiced on:
 
 <table class="tg">
 
-  <tr>
-    <td class="tg-jmx1" colspan="4"><span style="font-weight:bold">SESSION 7: Mar 1 - 3</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 1-2</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 3-4</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 5-6</span></td>
-    <td class="tg-ig7t"><span style="font-weight:bold">Grade 7 +</span></td>
-  </tr>
-  <tr>
-    <td class="tg-w8ff"><span style="font-weight:bold">Mar 3 - Sunday @ 9am</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Mar 1 - Friday @ 5pm</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Mar 3 - Sunday @ 11:00am</span></td>
-    <td class="tg-w8ff"><span style="font-weight:bold">Mar 3 - Sunday @ 12:30pm</span></td>
-  </tr>
+
   <tr>
     <td class="tg-jmx1" colspan="4"><span style="font-weight:bold">SESSION 8: Mar 15 - 17 ----</span> <span style="font-weight:bold;color:#FE0000">LAST one (!)</span></td>
   </tr>
