@@ -37,69 +37,61 @@
 .tg .tg-795s{background-color:#FFFE65;border-color:#656565;color:#606C71;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-fdej{border-color:#656565;color:#656565;font-weight:bold;text-align:center;vertical-align:bottom}
 .tg .tg-3t98{background-color:#9AFF99;border-color:#656565;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-n4v6{background-color:#ffcb2f;border-color:#656565;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-3v0q{background-color:#FFCCC9;border-color:#656565;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-ttta{background-color:#FFFE65;border-color:#656565;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-gr12{background-color:#fffe65;border-color:#656565;text-align:left;vertical-align:top}
 .tg .tg-6e0g{background-color:#FFCE93;border-color:#656565;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-mzie{background-color:#0FF;border-color:#656565;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-m6gg{background-color:#FFF;border-color:#656565;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 746px">
+<table class="tg" style="undefined;table-layout: fixed; width: 605px">
 <colgroup>
 <col style="width: 154.333333px">
-<col style="width: 154.333333px">
-<col style="width: 154.333333px">
-<col style="width: 154.333333px">
-<col style="width: 154.333333px">
+<col style="width: 143.333333px">
+<col style="width: 162.333333px">
+<col style="width: 145.333333px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-ttta"><span style="font-weight:bold">SESSION 6</span><br>Feb 2-4<br></th>
+    <th class="tg-ttta"><span style="font-weight:bold">SESSION 7</span><br>Mar 1 - 3<br></th>
     <th class="tg-795s"></th>
     <th class="tg-795s"></th>
-    <th class="tg-gr12"></th>
     <th class="tg-795s"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-6e0g"><span style="background-color:#FFCE93">Grade 1</span></td>
-    <td class="tg-3v0q"><span style="font-weight:bold;background-color:#FFCCC9">Grade 2-3</span></td>
-    <td class="tg-3t98"><span style="font-weight:bold;background-color:#9AFF99">Grade 4-5</span></td>
-    <td class="tg-n4v6">Grade 6</td>
-    <td class="tg-mzie"><span style="font-weight:bold;background-color:#0FF">Grade 7 +</span></td>
+    <td class="tg-6e0g"><span style="background-color:#FFCE93">Level 1-2</span></td>
+    <td class="tg-3v0q"><span style="font-weight:bold;background-color:#FFCCC9">Level 3 -4</span></td>
+    <td class="tg-3t98"><span style="font-weight:bold;background-color:#9AFF99">Level 5 - 6</span></td>
+    <td class="tg-mzie"><span style="font-weight:bold;background-color:#0FF">Level 7+</span></td>
   </tr>
   <tr>
-    <td class="tg-m6gg"><span style="font-weight:bold">Feb 4 - Sunday @ 9am</span></td>
-    <td class="tg-m6gg"><span style="font-weight:bold">Feb 2 - Friday @ 5pm</span></td>
-    <td class="tg-m6gg"><span style="font-weight:bold">Feb 4 - Sunday @ 11:00am</span></td>
-    <td class="tg-m6gg"><span style="font-weight:bold">Feb 4 - Sunday @ 10:00am</span></td>
-    <td class="tg-m6gg"><span style="font-weight:bold">Feb 4 - Sunday @ 12:30pm</span></td>
+    <td class="tg-m6gg"><span style="font-weight:bold">Mar 3 - Sunday @ 9am</span></td>
+    <td class="tg-m6gg"><span style="font-weight:bold">Mar 1 - Friday @ 5pm</span></td>
+    <td class="tg-m6gg"><span style="font-weight:bold">Mar 3 - Sunday @ 11:00am</span></td>
+    <td class="tg-m6gg"><span style="font-weight:bold">Mar 3 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/3EyXrVi/" target="_blank" rel="noopener noreferrer">Renert Rabbit G1 2023</a></td>
-    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/I73vesv/" target="_blank" rel="noopener noreferrer">Renert Rabbit G23 2023</a></td>
-    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/W6q22R2/" target="_blank" rel="noopener noreferrer">Renert Rabbit G45 2023</a></td>
-    <td class="tg-m5nv"><a href="https://www.zipgrade.com/s/TVJrj1W/" target="_blank" rel="noopener noreferrer">Renert Rabbit G6 2023</a></td>
-    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/vk36XCo/" target="_blank" rel="noopener noreferrer">Kangaroo G78 2017</a></td>
+    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/0UFhjdU/" target="_blank" rel="noopener noreferrer">Kangaroo G1-22018</a><br></td>
+    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/XxY0FX7/" target="_blank" rel="noopener noreferrer">Byron-Germain2018</a><br></td>
+    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/YflqmyL/" target="_blank" rel="noopener noreferrer">Gauss G72020</a><br></td>
+    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/g6iEitw/" target="_blank" rel="noopener noreferrer">Pascal G92018</a><br></td>
   </tr>
   <tr>
-    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1t_WkYa2-SRVn_2scgWbo59IP8pxFNoZy/view?usp=drive_link" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
-    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1JR6JBkVufv8HC9q3u72XlpUB8_XLpNeu/view?usp=drive_link" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
-    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1a2frwP1QIQ6_wTXXo-kSlDlJfsaHB81X/view?usp=drive_link" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
-    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/166avE4kyoW57Y5KBcjWvCKVKFepRQgx4/view?usp=drive_link" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
-    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1c_nc13_vBQxqVDerNlh2N5fvhqbid1W4/view?usp=drive_link" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
+    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/16V35_Xi2QUYIi9a9CXf1OZdcGa9vguxl/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
+    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1Y1-uy2NH69JdL9-gyrq5Hzd-d9oz5yLu/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
+    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1smsSmptOA5aOkzYFxPBO5HpXJQpStN1h/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
+    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1wXsxGBHo0KPyrbfZlPnaQYLAnvO8aWtc/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a><br></td>
   </tr>
   <tr>
     <td class="tg-fdej"><span style="font-weight:bold">PMI: 283 674 7551</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
     <td class="tg-fdej"><span style="font-weight:bold">PMI: 724 089 2663</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
     <td class="tg-fdej"><span style="font-weight:bold">PMI: 269 361 7203</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
-    <td class="tg-fdej"><span style="font-weight:bold">PMI: 284 167 3363</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
-    <td class="tg-fdej"><span style="font-weight:bold">PMI: 269 361 7203</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
+    <td class="tg-fdej">PMI: 284 167 3363<br>Passcode: GoosE</td>
   </tr>
 </tbody>
-</table>      
+</table>
+
 To check your results from the paper you practiced on:
 * Go to the student portal: <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">http://www.ZipGrade.com/student/</a>. Select the LEFT side (Login to Student Portal)
 * ZipGrade Student ID: 5 digits number - the same you used to take the test<br>
