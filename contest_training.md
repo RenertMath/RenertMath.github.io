@@ -45,10 +45,10 @@
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 605px">
 <colgroup>
-<col style="width:  163px">
-<col style="width:  163px">
-<col style="width: 163px">
-<col style="width:  163px">
+<col style="width:  165px">
+<col style="width:  165px">
+<col style="width: 165px">
+<col style="width:  165px">
 </colgroup>
 <thead>
   <tr>
@@ -72,10 +72,10 @@
     <td class="tg-m6gg"><span style="font-weight:bold">Mar 3 - Sunday @ 12:30pm</span></td>
   </tr>
   <tr>
-    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/0UFhjdU/" target="_blank" rel="noopener noreferrer">Kangaroo G1-22018</a><br></td>
-    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/XxY0FX7/" target="_blank" rel="noopener noreferrer">Byron-Germain2018</a><br></td>
-    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/YflqmyL/" target="_blank" rel="noopener noreferrer">Gauss G72020</a><br></td>
-    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/g6iEitw/" target="_blank" rel="noopener noreferrer">Pascal G92018</a><br></td>
+    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/0UFhjdU/" target="_blank" rel="noopener noreferrer">Kangaroo G1-2 2018</a><br></td>
+    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/XxY0FX7/" target="_blank" rel="noopener noreferrer">Byron-Germain 2018</a><br></td>
+    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/YflqmyL/" target="_blank" rel="noopener noreferrer">Gauss G7 2020</a><br></td>
+    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/g6iEitw/" target="_blank" rel="noopener noreferrer">Pascal G9 2018</a><br></td>
   </tr>
   <tr>
     <td class="tg-m5nv"><a href="https://drive.google.com/file/d/16V35_Xi2QUYIi9a9CXf1OZdcGa9vguxl/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
