@@ -25,7 +25,7 @@
    <br>
   <b> After the session ends </b>, we will publish a PDF with a unique ZIPGRADE ACCESS CODE that students will use to view their score
       <br>Email tutoring@renert.com with any questions. <br>
-
+      
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -39,6 +39,7 @@
 .tg .tg-3t98{background-color:#9AFF99;border-color:#656565;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-n4v6{background-color:#ffcb2f;border-color:#656565;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-3v0q{background-color:#FFCCC9;border-color:#656565;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ttta{background-color:#FFFE65;border-color:#656565;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-gr12{background-color:#fffe65;border-color:#656565;text-align:left;vertical-align:top}
 .tg .tg-6e0g{background-color:#FFCE93;border-color:#656565;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-mzie{background-color:#0FF;border-color:#656565;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
@@ -85,7 +86,7 @@
   </tr>
   <tr>
     <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1t_WkYa2-SRVn_2scgWbo59IP8pxFNoZy/view?usp=drive_link" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
-    <td class="tg-m5nv"><a href=" https://drive.google.com/file/d/1G_Y7OUtVCIGokBGtKrA98preqaPQM7Dn/view?usp=drive_link" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
+    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1JR6JBkVufv8HC9q3u72XlpUB8_XLpNeu/view?usp=drive_link" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
     <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1a2frwP1QIQ6_wTXXo-kSlDlJfsaHB81X/view?usp=drive_link" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
     <td class="tg-m5nv"><a href="https://drive.google.com/file/d/166avE4kyoW57Y5KBcjWvCKVKFepRQgx4/view?usp=drive_link" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
     <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1c_nc13_vBQxqVDerNlh2N5fvhqbid1W4/view?usp=drive_link" target="_blank" rel="noopener noreferrer">PDF for printing</a></td>
@@ -98,8 +99,7 @@
     <td class="tg-fdej"><span style="font-weight:bold">PMI: 269 361 7203</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
   </tr>
 </tbody>
-</table>
-      
+</table>      
 To check your results from the paper you practiced on:
 * Go to the student portal: <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">http://www.ZipGrade.com/student/</a>. Select the LEFT side (Login to Student Portal)
 * ZipGrade Student ID: 5 digits number - the same you used to take the test<br>
