@@ -45,10 +45,10 @@
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 605px">
 <colgroup>
-<col style="width:  170px">
-<col style="width:  170px">
-<col style="width: 170px">
-<col style="width:  170px">
+<col style="width:  180px">
+<col style="width:  180px">
+<col style="width: 180px">
+<col style="width:  180px">
 </colgroup>
 <thead>
   <tr>
@@ -60,8 +60,8 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-6e0g"><span style="background-color:#FFCE93">Level 1-2</span></td>
-    <td class="tg-3v0q"><span style="font-weight:bold;background-color:#FFCCC9">Level 3 -4</span></td>
+    <td class="tg-6e0g"><span style="background-color:#FFCE93">Level 1 - 2</span></td>
+    <td class="tg-3v0q"><span style="font-weight:bold;background-color:#FFCCC9">Level 3 - 4</span></td>
     <td class="tg-3t98"><span style="font-weight:bold;background-color:#9AFF99">Level 5 - 6</span></td>
     <td class="tg-mzie"><span style="font-weight:bold;background-color:#0FF">Level 7+</span></td>
   </tr>
