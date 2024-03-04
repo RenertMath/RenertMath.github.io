@@ -1,11 +1,11 @@
-### Renert &pi; Day challenge 2023
+### Renert &pi; Day challenge 2024
 
-The finals will take place on Monday, March 13 (Grade 4 and 7-12), and Tuesday, March 14 (K, Grades 1-3, and Grade 6) during your normal math class. Finalists will compete in a common area, with a teacher checking digits. To be a finalist, you must be in the top 5 of your grade (K through grade 6) or of division 3/4 during qualifiers the week before.
+The finals will take place on Thursday, March 14 (Grades K-8), and Friday, March 15 (Grades 9-12) during your normal math class. Finalists will compete in a common area, with a teacher checking digits. To be a finalist, you must be in the top 5 of your grade (K through grade 6) or of Grade 7/8 or of Grades 9-12 during qualifiers the week before.
 
 Rules:
 - Be courteous and respectful. This is a fun event, and unkindness of any sort will not be tolerated.
 - Students get 3 "strikes": a strike only counts if the supervising teacher needs to stop the student and correct them. If the student catches themselves ("3.14159, 897 - I mean 26535"), then no problem. In light of this, teachers will not immediately react to correct and incorrect digits recited, and instead give a few seconds just in case.
-- In the interest of time and getting things moving, students will have up to 30 seconds to continue recitation after a pause. After 30 seconds, a gentle encouragement to give their best guess will be given, otherwise it will count as a strike.
+- In the interest of time and getting things moving, students will have up to 30 seconds to continue recitation after a pause. After 30 seconds, a gentle encouragement to give their best guess will be given, otherwise it will count as a strike. 
 - We are going to be counting *decimal* digits, so that 3.14 will count as 2 (decimal) digits.
 
 Prizes: To be determined
