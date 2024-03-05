@@ -52,7 +52,7 @@
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-ttta"><span style="font-weight:bold">SESSION 7</span><br>Mar 1 - 3<br></th>
+    <th class="tg-ttta"><span style="font-weight:bold">SESSION 8</span><br>Mar 15 - 17<br></th>
     <th class="tg-795s"></th>
     <th class="tg-795s"></th>
     <th class="tg-795s"></th>
@@ -66,10 +66,10 @@
     <td class="tg-mzie"><span style="font-weight:bold;background-color:#0FF">Level 7+</span></td>
   </tr>
   <tr>
-    <td class="tg-m6gg"><span style="font-weight:bold">Mar 3 - Sunday @ 9am</span></td>
-    <td class="tg-m6gg"><span style="font-weight:bold">Mar 1 - Friday @ 5pm</span></td>
-    <td class="tg-m6gg"><span style="font-weight:bold">Mar 3 - Sunday @ 11:00am</span></td>
-    <td class="tg-m6gg"><span style="font-weight:bold">Mar 3 - Sunday @ 12:30pm</span></td>
+    <td class="tg-m6gg"><span style="font-weight:bold">Mar 17 - Sunday @ 9am</span></td>
+    <td class="tg-m6gg"><span style="font-weight:bold">Mar 15 - Friday @ 5pm</span></td>
+    <td class="tg-m6gg"><span style="font-weight:bold">Mar 17 - Sunday @ 11:00am</span></td>
+    <td class="tg-m6gg"><span style="font-weight:bold">Mar 17 - Sunday @ 12:30pm</span></td>
   </tr>
 <tr>
     <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/0UFhjdU/" target="_blank" rel="noopener noreferrer">Kangaroo G1-2</a><br><a href="https://www.zipgrade.com/s/0UFhjdU/" target="_blank" rel="noopener noreferrer">2018</a><br></td>
