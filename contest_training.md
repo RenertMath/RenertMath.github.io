@@ -80,7 +80,7 @@
  
   <tr>
     <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1UXbiHyGuC-uYIyU5ryD4Ibve11WZna-p/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
-    <td class="https://drive.google.com/file/d/1O-5563MAyqtOCXehSXOO_VabEmMexYG1/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
+   <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1O-5563MAyqtOCXehSXOO_VabEmMexYG1/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
     <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1T_ElF4WKsr_ZIJdCymA5w10C7YeKtoec/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
     <td class="tg-m5nv"><a href="https://drive.google.com/file/d/18F_qM-tfg_6fYCOy5qyyBfHWHAwt9FZ2/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a><br></td>
   </tr>
