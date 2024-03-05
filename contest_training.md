@@ -79,10 +79,10 @@
   </tr>
  
   <tr>
-    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/16V35_Xi2QUYIi9a9CXf1OZdcGa9vguxl/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
-    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1Y1-uy2NH69JdL9-gyrq5Hzd-d9oz5yLu/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
-    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1smsSmptOA5aOkzYFxPBO5HpXJQpStN1h/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
-    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1wXsxGBHo0KPyrbfZlPnaQYLAnvO8aWtc/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a><br></td>
+    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1UXbiHyGuC-uYIyU5ryD4Ibve11WZna-p/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
+    <td class="https://drive.google.com/file/d/1O-5563MAyqtOCXehSXOO_VabEmMexYG1/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
+    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/1T_ElF4WKsr_ZIJdCymA5w10C7YeKtoec/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a></td>
+    <td class="tg-m5nv"><a href="https://drive.google.com/file/d/18F_qM-tfg_6fYCOy5qyyBfHWHAwt9FZ2/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Pdf for printing</a><br></td>
   </tr>
   <tr>
     <td class="tg-fdej"><span style="font-weight:bold">PMI: 283 674 7551</span><br><span style="font-weight:bold">Passcode: GoosE</span></td>
