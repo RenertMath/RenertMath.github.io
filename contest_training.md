@@ -72,10 +72,10 @@
     <td class="tg-m6gg"><span style="font-weight:bold">Mar 17 - Sunday @ 12:30pm</span></td>
   </tr>
 <tr>
-    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/0UFhjdU/" target="_blank" rel="noopener noreferrer">Kangaroo G1-2</a><br><a href="https://www.zipgrade.com/s/Z6CA581/" target="_blank" rel="noopener noreferrer">2019</a><br></td>
-    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/XxY0FX7/" target="_blank" rel="noopener noreferrer">Kangaroo G3-4</a><br><a href="https://www.zipgrade.com/s/feJKLYC/" target="_blank" rel="noopener noreferrer">2007</a><br></td>
-    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/YflqmyL/" target="_blank" rel="noopener noreferrer">Kangaroo G 5-6</a><br><a href="https://www.zipgrade.com/s/p24Ut5w/" target="_blank" rel="noopener noreferrer">2021</a><br></td>
-    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/g6iEitw/" target="_blank" rel="noopener noreferrer">Kangaroo G7-8</a><br><a href="https://www.zipgrade.com/s/qO2R8LC/" target="_blank" rel="noopener noreferrer">2019</a><br></td>
+    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/Z6CA581/" target="_blank" rel="noopener noreferrer">Kangaroo G1-2</a><br><a href="https://www.zipgrade.com/s/Z6CA581/" target="_blank" rel="noopener noreferrer">2019</a><br></td>
+    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/feJKLYC/" target="_blank" rel="noopener noreferrer">Kangaroo G3-4</a><br><a href="https://www.zipgrade.com/s/feJKLYC/" target="_blank" rel="noopener noreferrer">2007</a><br></td>
+    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/p24Ut5w/" target="_blank" rel="noopener noreferrer">Kangaroo G 5-6</a><br><a href="https://www.zipgrade.com/s/p24Ut5w/" target="_blank" rel="noopener noreferrer">2021</a><br></td>
+    <td class="tg-a6fy"><a href="https://www.zipgrade.com/s/qO2R8LC/" target="_blank" rel="noopener noreferrer">Kangaroo G7-8</a><br><a href="https://www.zipgrade.com/s/qO2R8LC/" target="_blank" rel="noopener noreferrer">2019</a><br></td>
   </tr>
  
   <tr>
