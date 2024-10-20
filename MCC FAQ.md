@@ -24,9 +24,12 @@
 <p><span style="font-weight: 400;">Yes, you will have access to the answer key and your child's answers via zipgrade </span><span style="font-weight: 400;">after the session ends</span><span style="font-weight: 400;">.</span></p>
 <p><strong>If we can not attend a session, do you do make-up sessions?</strong></p>
 <p><span style="font-weight: 400;">No, we can not facilitate make up sessions</span><span style="font-weight: 400;">. The answer keys will be available via zipgrade after the session date. If your child would like help with solving a problem or two, they can attend Homework Help sessions and ask for assistance there.</span></p>
+
+<p><strong>Can my child attend more than one session?</span></p>
+<p><span style="font-weight: 400;">Students can attend one level up or down based on their comfort level. They may join multiple sessions so long as they have submitted their answers for each session they wish to attend.</span></p>
+  
 <p><strong>Who do we contact if we have more questions?</strong></p>
 <p><span style="font-weight: 400;">Email </span><span style="font-weight: 400;">tutoring@renert.com</span><span style="font-weight: 400;"> or call 587-392-1115 with any questions you may have - but kindly review ALL points above before doing so.&nbsp;</span></p>
 <p><span style="font-weight: 400;">The Bright Minds office will field your questions but the office is closed during the weekend MCC session times so reachout Monday-Friday 12:00-7pm or Saturday 9:00am-3:00pm with your questions.</span></p>
-<p>&nbsp;</p>Can my child attend more than one session?
- *	Students can attend one level up or down based on their comfort level. They may join multiple sessions so long as they have submitted their answers for each session they wish to attend.
+
 
