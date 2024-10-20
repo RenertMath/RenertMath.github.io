@@ -33,7 +33,7 @@
     <h2> Enrichment </h2><p>
       <ul>
         <li> <a href="https://renertmath.github.io/contests.html"> General contest information </a> </li>
-        <li><a href="https://renertmath.github.io/contest_training.html"> Contest training Sessions </a> </li>
+        <li><a href="https://renertmath.github.io/contest_training.html"> MCC - Math Competition Club - training sessions </a> </li>
         <li><a href="https://renertmath.github.io/renertrabbit.html"> Renert Rabbit Competition </a> </li>
         <li><a href="https://renertmath.github.io/mathnite.html"> Math Nite </a> </li>
         <!--
