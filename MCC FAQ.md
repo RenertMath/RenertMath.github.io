@@ -25,7 +25,7 @@
 <p><strong>If we can not attend a session, do you do make-up sessions?</strong></p>
 <p><span style="font-weight: 400;">No, we can not facilitate make up sessions</span><span style="font-weight: 400;">. The answer keys will be available via zipgrade after the session date. If your child would like help with solving a problem or two, they can attend Homework Help sessions and ask for assistance there.</span></p>
 
-<p><strong>Can my child attend more than one session?</span></p>
+<p><strong>Can my child attend more than one session?</span></strong></p>
 <p><span style="font-weight: 400;">Students can attend one level up or down based on their comfort level. They may join multiple sessions so long as they have submitted their answers for each session they wish to attend.</span></p>
   
 <p><strong>Who do we contact if we have more questions?</strong></p>
