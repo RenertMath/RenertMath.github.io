@@ -1,5 +1,4 @@
-How to access your answers after the session
-
+<p><span style="color: #993300;"><strong>How to access your answers after the session</strong></span></p>
 
 To check your results from the paper you practiced on:
 * Go to the student portal: <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">http://www.ZipGrade.com/student/</a>. Select the LEFT side (Login to Student Portal)
