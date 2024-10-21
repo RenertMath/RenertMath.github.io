@@ -6,10 +6,10 @@
 <img src="https://renertmath.github.io/BM%20ID%20student.png" class="center" alt="Image" width="100%" height="100%">
 <br> <br>
 <b> If you are a Renert School Student:</b>
-<br><br>
-* The student ID you will use is the same as your Cafe student number. Make note of this 4 digit number.
+<br>
+*  The student ID you will use is the same as your Cafe student number. Make note of this 4 digit number.
 *  If you do not know your child’s Renert School Cafe Number please email tutoring@renert.com and it will be provided to you.
-*<br>
+<br>
   <center> <img src="https://renertmath.github.io/Zip%20grade%20student%20login.png" class="center" alt="Image" width="50%" height="50%"></center>
    <br>
  
