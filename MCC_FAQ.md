@@ -29,8 +29,7 @@
 <p><span style="font-weight: 400;">Students can attend one level up or down based on their comfort level. They may join multiple sessions so long as they have submitted their answers for each session they wish to attend.</span></p>
   
 <p><strong>Who do we contact if we have more questions?</strong></p>
-<p><strong>Email</strong> <span style="color: #993300;"><strong>tutoring@renert.com</strong></span> or <span style="color: #993300;"><strong>call 587-392-1115</strong></span> with any questions you may have - but kindly review ALL points above before doing so.</p>
+<p><strong>Email</strong> <span style="color: #ff0000;"><strong>tutoring@renert.com</strong></span> or <span style="color: #993300;"><strong><span style="color: #000000;">call</span> <span style="color: #ff0000;">587-392-1115</span></strong></span> with any questions you may have - but kindly review ALL points above before doing so.</p>
 <p>The Bright Minds office is closed during the weekend.</p>
 <p>Reachout Monday-Friday 12:00-7pm</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Saturday 9:00am-3:00pm&nbsp;</p>
-
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Saturday 9:00am-3:00pm&nbsp;</p>
