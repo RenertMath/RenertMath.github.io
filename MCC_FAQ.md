@@ -1,5 +1,5 @@
-<p><strong>Math Competition Club FAQ</strong></p>
-<p>&nbsp;</p>
+<p><span style="color: #993300;"><strong>Math Competition Club FAQ</strong></span></p>
+<br>
 <p><strong>Why should my child participate in the Bright Minds Math competition club (MCC)?</strong></p>
 <p><span style="font-weight: 400;">Math competition club is an enrichment activity which challenges students to build logical and analytical reasoning skills, get creative, and use the tools they have been given in an unfamiliar environment. Whether they ever intend to participate in a formal competition is immaterial.&nbsp;</span></p>
 <p><span style="font-weight: 400;">This is a skills building activity that can be attended by anyone interested. These sessions are available to all students at no cost to you. It is an excellent way to greatly enrich your child&rsquo;s math education.</span></p>
