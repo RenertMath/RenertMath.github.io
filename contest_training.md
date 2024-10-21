@@ -9,7 +9,3 @@ For each session there will be a link to the contest that the student will be wo
  *	<a href="https://renertmath.github.io/MCC/MCC_ID_info">How to submit your answers and find your ZIP GRADE Student ID</a>
  *	<a href="https://renertmath.github.io/MCC/MCC_results">How to acces your answers after the session</a>
 
-<a href="https://renertmath.github.io/contest_training.html">
-https://github.com/RenertMath/RenertMath.github.io/blob/master/MCC_FAQ.md
-https://github.com/RenertMath/RenertMath.github.io/blob/MCC/MCC_ID_info.md
-https://github.com/RenertMath/RenertMath.github.io/blob/MCC/MCC_results.md
