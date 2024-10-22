@@ -6,7 +6,6 @@
 *	 Enter your name
 *	 Enter the ZIP GRADE student ID.   <a href="https://renertmath.github.io/MCC_submit">Where to find my ZIP GRADE Student ID</a>?
 *	 Solve the questions and submit them to the instructor.
-*	 In case you want to print the test, a pdf copy is also available.
 *	It is OK to not answer a question if the student has no idea how to do it. The whole point of the kids solving ahead of time is for them to get familiar with the questions, and for the instructors to know which questions we should go over. <br>
 *	AFTER the class/session, you can <a href="https://renertmath.github.io/MCC_answers"> access your answers</a>.
 <br>
