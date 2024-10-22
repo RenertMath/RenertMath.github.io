@@ -1,4 +1,4 @@
-<p><span style="color: #993300;"><strong>How to submit your answers and find your ZIP GRADE Student ID</strong></span></p>
+<p><span style="color: #993300;"><strong>How to find your ZIP GRADE Student ID</strong></span></p>
 
 <b>If you are a Bright Minds student:</b> 
  *	Login to your family portal
@@ -13,6 +13,11 @@
 <li>If you do not know your Renert School Cafe Number, please email tutoring@renert.com.</li>
 </ul>
 <br>
+ <p><span style="color: #993300;"><strong>How to submit your answers</strong></span></p>
+ *	Click on TEST ONLINE for your session.
+ *	A ZIP GRade page will open.
+ *	Enter your name and your ZIP grade student ID
   <center> <img src="https://renertmath.github.io/Zip%20grade%20student%20login.png" class="center" alt="Image" width="30%" height="30%"></center>
    <br>
- 
+
+
