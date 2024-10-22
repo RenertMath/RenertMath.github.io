@@ -1,12 +1,12 @@
 <b>Math Competition Club (MCC) <font color="red">is back!</font></b> for the 2024-25 school year <br><br>
 <b>How does it work?</b>
 <br>
-*	 In order to attend upcoming MCC sessions, students MUST work on the contest at home in advance.
+*	 In order to attend upcoming MCC sessions, you MUST work on the contest at home in advance.
 *	 Go to the link ONLINE TEST.
-*	 Enter your name
+*	 Enter your name.
 *	 Enter the ZIP GRADE student ID.   <a href="https://renertmath.github.io/MCC_submit">Where to find my ZIP GRADE Student ID</a>?
 *	 Solve the questions and submit them to the instructor.
-*	It is OK to not answer a question if the student has no idea how to do it. The whole point of the kids solving ahead of time is for them to get familiar with the questions, and for the instructors to know which questions we should go over. <br>
+*	It is OK to not answer to all questions. The point is to get familiar with the questions, and for the instructors to know which questions they should go over. <br>
 *	AFTER the class/session, you can <a href="https://renertmath.github.io/MCC_answers"> access your answers</a>.
 <br>
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
