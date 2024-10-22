@@ -16,7 +16,7 @@
  <p><span style="color: #993300;"><strong>How to submit your answers</strong></span></p>
 <ul>
 <li>Click on TEST ONLINE for your session.</li>
-<li>A ZIP Garde page will open.</li>
+<li>A ZIP Grade page will open.</li>
 <li>Enter your name and your ZIP grade student ID</li>
 </ul>
   <center> <img src="https://renertmath.github.io/Zip%20grade%20student%20login.png" class="center" alt="Image" width="30%" height="30%"></center>
