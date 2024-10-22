@@ -1,13 +1,16 @@
 <b>Math Competition Club (MCC) <font color="red">is back!</font></b> for the 2024-25 school year <br><br>
 <b>How does it work?</b>
 <br>
-*	 In order to attend upcoming MCC sessions, you MUST work on the contest at home in advance.
-*	 Go to the link ONLINE TEST.
+*  Classes/Sessions are running on Saturdays and Sundays.
+*  See schedule below for dates, times and zoom information. 
+*	 In order to attend MCC sessions, you MUST work on the contest at home in advance.
+*	 Go to the link ONLINE TEST according to your grade.
 *	 Enter your name.
-*	 Enter the ZIP GRADE student ID.   <a href="https://renertmath.github.io/MCC_submit">Where to find my ZIP GRADE Student ID</a>?
+*	 Enter the ZIP GRADE student ID.<a href="https://renertmath.github.io/MCC_submit">Where to find my ZIP GRADE Student ID</a>?
 *	 Solve the questions and submit them to the instructor.
-*	It is OK to not answer to all questions. The point is to get familiar with the questions, and for the instructors to know which questions they should go over. <br>
-*	AFTER the class/session, you can access your answers. <a href="https://renertmath.github.io/MCC_answers">See how, HERE</a>!
+*	It is OK to not answer everything. The point is to get familiar with the questions, and for the instructors to know which questions they should go over. <br>
+*	AFTER the class/session, you can access your answers. <a href="https://renertmath.github.io/MCC_answers">See how HERE</a>!
+*	If you have questions check our <a href="https://renertmath.github.io/MCC_FAQ">MCC-FAQ cliquing here</a>.
 <br>
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
 <tr><th style="background-color:#f8a102;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:5px 5px;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top;will-change:transform;word-break:normal">GRADE 1 - 2</th><th style="background-color:#34ff34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:5px 5px;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top;will-change:transform;word-break:normal">GRADE 3 -4</th><th style="background-color:#ed4ef1;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:5px 5px;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top;will-change:transform;word-break:normal">GRADE 5 - 6</th>
