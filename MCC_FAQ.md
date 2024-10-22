@@ -8,7 +8,6 @@
 <p><span style="font-weight: 400;">We learned in previous years that having the students work on the competition form ahead of time proved to be a winning strategy. Students got SO much more out of the training having attempted to solve the questions in advance.</span></p>
 <p><span style="font-weight: 400;">In order to attend, the student MUST work on the contest form that will be discussed on the coming weekend, and solve it to the best of their ability. It is OK to not answer a question if the student has no idea how to do it. The whole point of the kids solving ahead of time is for them to get familiar with the questions, and for the instructors to know which questions we should go over.</span></p>
 <p><span style="font-weight: 400;">The student MUST send us their answers via the zipgrade website no later than the evening prior to their scheduled session.</span></p>
-<p><span style="font-weight: 400;">Students can attend one session up or down based on their comfort level and they may join multiple sessions so long as they have submitted their answers for each session they wish to attend.</span></p>
 <p><strong>Are MCC sessions online or in-person?</strong></p>
 <p><span style="font-weight: 400;">All MCC sessions are online via zoom.&nbsp;</span></p>
 <p><span style="font-weight: 400;">Please only attend after attempting the contest questions and submitting your answers.</span></p>
@@ -25,7 +24,7 @@
 <p><strong>If we can not attend a session, do you do make-up sessions?</strong></p>
 <p><span style="font-weight: 400;">No, we can not facilitate make up sessions</span><span style="font-weight: 400;">. The answer keys will be available via zipgrade after the session date. If your child would like help with solving a problem or two, they can attend Homework Help sessions and ask for assistance there.</span></p>
 
-<p><strong>Can my child attend more than one session?</span></strong></p>
+<p><strong>Can my child attend more than one session?</strong></p>
 <p><span style="font-weight: 400;">Students can attend one level up or down based on their comfort level. They may join multiple sessions so long as they have submitted their answers for each session they wish to attend.</span></p>
   
 <p><strong>Who do we contact if we have more questions?</strong></p>
