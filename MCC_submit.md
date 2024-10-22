@@ -3,8 +3,8 @@
 <b>If you are a Bright Minds student:</b> 
  *	Login to your family portal
  *	Click "My Account" then "Current Courses/ Registrations".
- *	Here you will find your child's name and their BM Student ID number.
- *	This 5 digit number is your ZIp Grade student ID.
+ *	You will find your name and BM Student ID number.
+ *	This 5 digit number is also your ZIp Grade student ID.
 <img src="https://renertmath.github.io/BM%20ID%20student.png" class="center" alt="Image" width="100%" height="100%">
 <br> 
 <p><strong>If you are a Renert School Student:</strong></p>
