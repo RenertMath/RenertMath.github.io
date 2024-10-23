@@ -20,11 +20,12 @@
   box-sizing: border-box;
 }
 
-.banner {
+.page-header {
     height: 100px; /* Adjust the height as needed */
-    padding: 5px 0; /* Adjust padding if needed */
-    overflow: hidden; /* Optional: Ensures content fits within the reduced height */
+    padding: 5px 0; /* You can tweak padding to adjust inner content spacing */
+    overflow: hidden; /* This ensures no content overflows */
 }
+
 
 .vid {
   display: block;
