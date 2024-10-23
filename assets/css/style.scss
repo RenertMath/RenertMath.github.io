@@ -21,19 +21,22 @@
 }
 
 .page-header {
-    height: auto; /* Automatically adjusts to the content */
-    padding: 0px 0; /* Negligible padding */
+    height: auto;
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove any margin */
+    display: flex;
+    align-items: center; /* Vertically center content */
+    justify-content: center; /* Horizontally center content, if needed */
 }
 
 .page-header h1, 
 .page-header h2, 
-.page-header h3 {  /* Adjust for the specific heading levels used */
-    margin-top: 0px;  /* Minimal space above */
-    margin-bottom: 0px;  /* Minimal space below */
-    padding: 0;  /* Remove padding within the heading */
-    line-height: 1;  /* Control line height for tighter spacing */
+.page-header h3 {
+    margin-top: 0; /* Remove any space above */
+    margin-bottom: 0; /* Remove any space below */
+    padding: 0; /* Ensure no padding within the heading */
+    line-height: 1; /* Set line-height to a minimal value */
 }
-
 
 
 .vid {
