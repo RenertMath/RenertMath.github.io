@@ -12,7 +12,7 @@
 *	 Enter your ZIP GRADE student ID.
 *	 <strong> <a href="https://renertmath.github.io/MCC_submit">Where to find my ZIP GRADE Student ID</a>?</strong>
 *	Solve the questions and submit them.
-*	It is OK to not answer everything. The instructors want to know which questions are more difficult to focus on those during the class. <br>
+*	It is OK to not answer everything. The instructors want to know which questions are more difficult, and focus on those during the class. <br>
 *	AFTER the session (following Monday) you will be able to access your answers.<strong> <a href="https://renertmath.github.io/MCC_answers">See how, HERE</a>!</strong>
 *	You can check our <strong> <a href="https://renertmath.github.io/MCC_FAQ">MCC-FAQ</a> </strong>for more information.
 <br>
