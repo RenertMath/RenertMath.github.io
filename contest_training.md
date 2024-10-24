@@ -6,8 +6,8 @@
 *	 In order to attend MCC sessions, you MUST work on the contest problems at home in advance.
 *	 You have two options:
   1. Print the pdf and solve the questions. Click on the link ONLINE TEST according to your grade to submit.
-  2. Solve the questions directly on the computer. Go to the link ONLINE TEST according to your grade to openf the test and submit.
-*	 A Zip Grade page will open and take you to the test.
+  2. Solve the questions directly on the computer. Go to the link ONLINE TEST according to your grade to open the test, and submit.
+*	 A Zip Grade page will pop-up and take you to the test.
 *	 Enter your name.
 *	 Enter your ZIP GRADE student ID.
 *	 <strong> <a href="https://renertmath.github.io/MCC_submit">Where to find my ZIP GRADE Student ID</a>?</strong>
