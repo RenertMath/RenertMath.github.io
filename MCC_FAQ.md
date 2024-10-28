@@ -27,9 +27,10 @@
 <p><span style="font-weight: 400;">Students can attend one level up or down based on their comfort level. They may join multiple sessions so long as they have submitted their answers for each session they wish to attend.</span></p>
   
 <p><strong>Who do we contact if we have more questions?</strong></p>
-<p dir="auto">Email&nbsp;<strong>tutoring@renert.com</strong>&nbsp;or&nbsp;call&nbsp;<strong>587-392-1115</strong>.</p>
+<p dir="auto">Email&nbsp;<span style="color: #ff0000;"><strong>tutoring@renert.com</strong></span>&nbsp;or&nbsp;call&nbsp;<span style="color: #ff0000;"><strong>587-392-1115</strong></span>.</p>
 <p dir="auto">Please, kindly review ALL points above before doing so.</p>
-<p dir="auto">The Bright Minds office is closed during the MCC session time. Reach out during regular office hours:</p>
+<p dir="auto">The Bright Minds office is closed during the MCC session time.</p>
+<p dir="auto">Reach out during regular office hours:</p>
 <ul>
 <li dir="auto">Monday-Friday&nbsp; 12:00 - 7:00</li>
 <li dir="auto">Saturday&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 9:00 - 3:00</li>
