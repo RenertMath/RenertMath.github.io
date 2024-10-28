@@ -28,7 +28,7 @@
   
 <p><strong>Who do we contact if we have more questions?</strong></p>
 <p>Email <span style="color: #ff0000;"><strong>tutoring@renert.com</strong></span> or <span style="color: #993300;"><span style="color: #000000;">call</span> <strong><span style="color: #ff0000;">587-392-1115</span></strong></span>.
-     Please, kindly review ALL points above before doing so.
+  Please, kindly review ALL points above before doing so.
   The Bright Minds office is closed during the MCC session time.
   Reach out during regular office hours:</p>
 <p>Monday-Friday 12:00-7pm</p>
