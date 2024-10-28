@@ -10,11 +10,11 @@
 *	 A Zip Grade page will pop-up and take you to the test.
 *	 Enter your name.
 *	 Enter your ZIP GRADE student ID.
-*	 <strong> <a href="https://renertmath.github.io/MCC_submit">Where to find my ZIP GRADE Student ID</a>?</strong>
+*	 <strong> <a href="https://renertmath.github.io/MCC_submit" target="_blank">Where to find my ZIP GRADE Student ID</a>?</strong>
 *	Solve the questions and submit them.
 *	It is OK to not answer everything. The instructors want to know which questions are more difficult, and focus on those during the class. <br>
-*	AFTER the session (following Monday) you will be able to access your answers.<strong> <a href="https://renertmath.github.io/MCC_answers">See how, HERE</a>!</strong>
-*	You can check our <strong> <a href="https://renertmath.github.io/MCC_FAQ">MCC-FAQ</a> </strong>for more information.
+*	AFTER the session (following Monday) you will be able to access your answers.<strong> <a href="https://renertmath.github.io/MCC_answers" target="_blank">See how, HERE</a>!</strong>
+*	You can check our <strong> <a href="https://renertmath.github.io/MCC_FAQ" target="_blank">MCC-FAQ</a> </strong>for more information.
 <br>
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
 <tr><th style="background-color:#f8a102;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:5px 5px;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top;will-change:transform;word-break:normal">GRADE 1 - 2</th><th style="background-color:#34ff34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:5px 5px;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top;will-change:transform;word-break:normal">GRADE 3 -4</th><th style="background-color:#ed4ef1;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:5px 5px;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top;will-change:transform;word-break:normal">GRADE 5 - 6</th>
