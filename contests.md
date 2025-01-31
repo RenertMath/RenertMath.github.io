@@ -6,7 +6,7 @@ A: Here is information about the open math contests available to students at Ren
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSsMmMo6SRNnXfj-WKATuZCmd3CT3HyhVnXfgXrHE2x0QO4svekLCL5hjHnBtieqHi-FtarIzbv1cmJ/pubhtml?gid=1723870808&single=true" width="100%" height = "550"></iframe>
 
-Certain contests are invitation-only by the organizer (based on performance on other contests), and are not listed here (e.g. AHSMC II and CMO). Notice that some contests will run during school hours while others will have to be taken in the testing centre after school.
+Certain contests are invitation-only by the organizer (based on performance on other contests): AHSMC II, CMO Repechage, CMO, AIME, and COO. Notice that some contests will run during school hours while others will have to be taken in the testing centre after school.
 
 <b>Q: How do I register for a contest?</b>
 
