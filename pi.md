@@ -1,6 +1,6 @@
 ### Renert &pi; Day challenge 2024
 
-The finals will take place on Thursday, March 14 (Grades K-8), and Friday, March 15 (Grades 9-12) during your normal math class. Finalists will compete in a common area, with a teacher checking digits. To be a finalist, you must be in the top 5 of your grade (K through grade 6) or of Grade 7/8 or of Grades 9-12 during qualifiers the week before.
+The finals will take place on Thursday, March 13 (Grades K-8), and Friday, March 14 (Grades 9-12) during your normal math class. Finalists will compete in a common area, with a teacher checking digits. To be a finalist, you must be in the top 5 of your grade (K through grade 6) or of Grade 7/8 or of Grades 9-12 during qualifiers the week before.
 
 Rules:
 - Be courteous and respectful. This is a fun event, and unkindness of any sort will not be tolerated.
@@ -24,6 +24,18 @@ Gr 7-12
 -->
 
 Note: all records are counting decimal digits, rather than digits - that is, digits after the decimal place. In this way, 3.141 counts as 3 "digits".
+
+
+2024 records:
+ * K: Leo - 100
+ * Gr 1: Aavan - 130
+ * Gr 2: Yuvraj - 300
+ * Gr 3: Saanvi - 1300
+ * Gr 4: Aarya - 350
+ * Gr 5: Kian - 689
+ * Gr 6: Jonathan - 1010
+ * Gr 7-8: Naveen - 355
+ * Gr 9-12: Matthew - 3333
 
 2023 records:
  * K: Nathan - 61
