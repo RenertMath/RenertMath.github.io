@@ -1,6 +1,6 @@
-### Renert &pi; Day challenge 2024
+### Renert &pi; Day challenge 2025
 
-The finals will take place on Thursday, March 13 (Grades K-8), and Friday, March 14 (Grades 9-12) during your normal math class. Finalists will compete in a common area, with a teacher checking digits. To be a finalist, you must be in the top 5 of your grade (K through grade 6) or of Grade 7/8 or of Grades 9-12 during qualifiers the week before.
+The finals will take place on Thursday, March 13 (Grades K-8), and Friday, March 14 (Grades 9-12) during your normal math class. Finalists will compete in a common area, with a teacher checking digits. To be a finalist, you must be in the top 5 of your grade (K through grade 6) or of Grade 7/8 or of Grades 9-12 during qualifiers beforehand.
 
 Rules:
 - Be courteous and respectful. This is a fun event, and unkindness of any sort will not be tolerated.
@@ -78,11 +78,12 @@ All-time records:
  * K: Saanvi - 200 (2021)
  * Gr 1: Saanvi - 400 (2022)
  * Gr 2: Saanvi - 811 (2023)
- * Gr 3: Jonathan - 429 (2021)
+ * Gr 3: Saanvi - 1300 (2023)
  * Gr 4: Jonathan - 800 (2022)
  * Gr 5: Jonathan - 1205 (2023)
  * Gr 6: Matthew - 1176 (2021)
- * Gr 7-12: Matthew - 2860 (2023)
+ * Gr 7-8: Matthew - 2860 (2023)
+ * Gr 9-12: Matthew - 3333 (2024)
 
 <!--
  * K - Gr 1: Basil - 95 (2020)
