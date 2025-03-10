@@ -100,6 +100,7 @@ All-time records:
 
 ### Online links
    * <a href="https://in-thread.sonic-pi.net/t/sonic-pi-musical-spirograph/1813">Listen to &pi; here</a>
+   * <a href="http://www.numberworld.org/y-cruncher/news/2024.html#2024_6_28"> World record &pi; computation (June 2024)</a> - 202 trillion digits
    * <a href="https://cloud.google.com/blog/products/compute/calculating-100-trillion-digits-of-pi-on-google-cloud"> World record &pi; computation (June 2022)</a> - 100 trillion digits
    * <a href="https://www.fhgr.ch/fachgebiete/angewandte-zukunftstechnologien/davis-zentrum/pi-challenge/#c15513">(old) World record &pi; computation (August 2021)</a> - 62.8 trillion digits
    * <a href="https://pi.delivery/">pi.delivery</a> - Created by Google, this website has lots of information and demos. You can also find the first 50 trillion (50 000 000 000 000) digits of &pi; here!
