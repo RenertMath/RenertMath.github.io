@@ -1,7 +1,10 @@
 
-  <h2> Renert Rabbit 2024 </h2>
+  <h2> Renert Rabbit 2025 </h2>
 
-To Access your answers in the bubble sheet from Renert Rabbit 2024
+Renert Rabbit 2025 will take place at Renert School on Thursday, May 8 for Renert students and on Saturday, May 10 for Bright Minds students.
+
+<!--
+To Access your answers in the bubble sheet from Renert Rabbit 2025
 * Go to the student portal: <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">http://www.ZipGrade.com/student/</a>. Select the LEFT side (Login to Student Portal)
 * ZipGrade Student ID is a 5 digits number
 * Bright Minds student, this is your ID that you find at the portal (starting with 5)
@@ -17,6 +20,7 @@ To Access your answers in the bubble sheet from Renert Rabbit 2024
 <img src="https://renertmath.github.io/Student POrtal 2.png" width="100%" height="100%">
 <br>
 <br>
+-->
 
 <h2> Renert Rabbit - Past Contests </h2>
 
