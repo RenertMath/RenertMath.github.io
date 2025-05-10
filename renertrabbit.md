@@ -51,7 +51,6 @@ To Access your answers in the bubble sheet from Renert Rabbit 2025
     <th class="tg-baqh"></th>
     <th class="tg-baqh"></th>
   </tr>
-<tbody>
   <tr>
     <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG1.pdf" target="_blank" rel="noopener noreferrer">RR 2025 G1</a></td>
     <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG23.pdf" target="_blank" rel="noopener noreferrer">RR 2025 G23</a></td>
