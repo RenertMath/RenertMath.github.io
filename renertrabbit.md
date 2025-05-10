@@ -46,6 +46,26 @@ To Access your answers in the bubble sheet from Renert Rabbit 2025
 <col style="width: 183.333333px">
 </colgroup>
 <thead>
+   <tr>
+    <th class="tg-baqh">2024</th>
+    <th class="tg-baqh"></th>
+    <th class="tg-baqh"></th>
+    <th class="tg-baqh"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG1.pdf" target="_blank" rel="noopener noreferrer">RR 2024 G1</a></td>
+    <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG23.pdf" target="_blank" rel="noopener noreferrer">RR 2024 G23</a></td>
+    <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG45.pdf" target="_blank" rel="noopener noreferrer">RR 2024 G45</a></td>
+    <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG6.pdf" target="_blank" rel="noopener noreferrer">RR 2024 G6</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG1sol.pdf" target="_blank" rel="noopener noreferrer">RR 2024 G1 key</a></td>
+    <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG23sol.pdf" target="_blank" rel="noopener noreferrer">RR 2024 G23 key</a></td>
+    <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG45sol.pdf" target="_blank" rel="noopener noreferrer">RR 2024 G45 key</a></td>
+    <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG6sol.pdf" target="_blank" rel="noopener noreferrer">RR 2024 G6 key</a></td>
+  </tr>
   <tr>
     <th class="tg-baqh">2024</th>
     <th class="tg-baqh"></th>
