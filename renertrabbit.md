@@ -10,8 +10,8 @@ To Access your answers in the bubble sheet from Renert Rabbit 2025
 * Bright Minds student, this is your ID that you find at the portal (starting with 5)
 * Renert School student, this is your cafe number (starting with 3) <br>
 * Student Access Code: unique just for the Renert Rabbit results
-* <b>Bright Minds Access Code <a href="https://renertmath.github.io/RR BM ACEESS code.pdf" target="_blank" rel="noopener noreferrer" style="font-weight:bold;color:#FE0000">HERE</a></b>.
-* <b>Renert School Access Code <a href="https://renertmath.github.io/RR RS ACEESS code.pdf" target="_blank" rel="noopener noreferrer" style="font-weight:bold;color:#FE0000">HERE</a></b>.
+* <b>Bright Minds Access Code <a href="https://renertmath.github.io/RR2025_Access_code_BM.pdf" target="_blank" rel="noopener noreferrer" style="font-weight:bold;color:#FE0000">HERE</a></b>.
+* <b>Renert School Access Code <a href="https://renertmath.github.io/RR2025_Access_code_RS.pdf" target="_blank" rel="noopener noreferrer" style="font-weight:bold;color:#FE0000">HERE</a></b>.
 <img src="https://renertmath.github.io/Student%20POrtal%201.png" width="80%" height="80%">
 
 * Do not share your credentials with other students.
