@@ -45,14 +45,12 @@ To Access your answers in the bubble sheet from Renert Rabbit 2025
 <col style="width: 183.333333px">
 <col style="width: 183.333333px">
 </colgroup>
-
    <tr>
     <th class="tg-baqh">2025</th>
     <th class="tg-baqh"></th>
     <th class="tg-baqh"></th>
     <th class="tg-baqh"></th>
   </tr>
-
 <tbody>
   <tr>
     <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG1.pdf" target="_blank" rel="noopener noreferrer">RR 2025 G1</a></td>
@@ -72,7 +70,6 @@ To Access your answers in the bubble sheet from Renert Rabbit 2025
     <th class="tg-baqh"></th>
     <th class="tg-baqh"></th>
   </tr>
-</thead>
 <tbody>
   <tr>
     <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2024RenertRabbitG1.pdf" target="_blank" rel="noopener noreferrer">RR 2024 G1</a></td>
