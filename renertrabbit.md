@@ -2,7 +2,8 @@
   <h2> Renert Rabbit 2025 </h2>
 
 To Access your answers in the bubble sheet from Renert Rabbit 2025
-* Go to the student portal: <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">http://www.ZipGrade.com/student/</a>. Select the LEFT side (Login to Student Portal) with the ZipGrade ID
+* Go to the student portal: <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">http://www.ZipGrade.com/student/</a>.
+* Select the LEFT side (Login to Student Portal) with the ZipGrade ID
   <BR>
   
 * If you is a Bright Minds student:
