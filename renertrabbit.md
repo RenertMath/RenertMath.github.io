@@ -1,8 +1,5 @@
 
   <h2> Renert Rabbit 2025 </h2>
-
-Renert Rabbit 2025 will take place at Renert School on Thursday, May 8 for Renert students and on Saturday, May 10 for Bright Minds students.
-
 <!--
 To Access your answers in the bubble sheet from Renert Rabbit 2025
 * Go to the student portal: <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">http://www.ZipGrade.com/student/</a>. Select the LEFT side (Login to Student Portal)
@@ -53,13 +50,13 @@ To Access your answers in the bubble sheet from Renert Rabbit 2025
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2025RenertRabbitG1.pdf" target="_blank" rel="noopener noreferrer">RR 2025 G1</a></td>
-    <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2025RenertRabbit23.pdf" target="_blank" rel="noopener noreferrer">RR 2025 G23</a></td>
+    <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2025RenertRabbitG23.pdf" target="_blank" rel="noopener noreferrer">RR 2025 G23</a></td>
     <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2025RenertRabbitG45.pdf" target="_blank" rel="noopener noreferrer">RR 2025 G45</a></td>
     <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2025RenertRabbitG6.pdf" target="_blank" rel="noopener noreferrer">RR 2025 G6</a></td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2025RenertRabbitG1Sol.pdf" target="_blank" rel="noopener noreferrer">RR 2025 G1 key</a></td>
-    <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2025RenertRabbitG23sol.pdf" target="_blank" rel="noopener noreferrer">RR 2025 G23 key</a></td>
+    <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2025RenertRabbitG23Sol.pdf" target="_blank" rel="noopener noreferrer">RR 2025 G23 key</a></td>
     <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2025RenertRabbitG45Sol.pdf" target="_blank" rel="noopener noreferrer">RR 2025 G45 key</a></td>
     <td class="tg-baqh"><a href="https://renertmath.github.io/renertrabbit/2025RenertRabbitG6Sol.pdf" target="_blank" rel="noopener noreferrer">RR 2025 G6 key</a></td>
   </tr>
