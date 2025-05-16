@@ -7,8 +7,8 @@ To Access your answers in the bubble sheet from Renert Rabbit 2025
   <BR>
   
 * If you is a Bright Minds student:
-* * and your ID that you find at the BM portal is a 5 digit number (starting with 5), this will be your zipgrade ID.
-* * and your ID that you find at the BM portal is a 6 digit number (starting with 51), you will replace the first two digits (51) for 6 and obtain a 5 digit number (example, if your BM ID is 510312, your ZipGrade ID will be 60312.
+* * and your BM portal ID is a 5 digit number (starting with 5)  --->  this will be your ZipGrade ID.
+* * and your BM portal ID is a 6 digit number (starting with 51) ---> you will replace the first two digits (51) for 6 and obtain a 5 digit number (example, if your BM ID is 510312, your ZipGrade ID will be 60312).
 <br>
 
 * If you are a Renert School student:
