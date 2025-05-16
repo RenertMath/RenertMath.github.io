@@ -10,10 +10,10 @@ To Access your answers in the bubble sheet from Renert Rabbit 2025
 * * and your BM portal ID is a 5 digit number (starting with 5)  --->  this will be your ZipGrade ID.
 * * and your BM portal ID is a 6 digit number (starting with 51) ---> you will replace the first two digits (51) for 6 and obtain a 5 digit number (example, if your BM ID is 510312, your ZipGrade ID will be 60312).
 <br>
-
+<br>
 * If you are a Renert School student:
 * * your Zipgrade ID is your Renert School cafe number (starting with 3) <br>
-
+<br>
 * Student Access Code: unique just for the Renert Rabbit results
 * <b>Bright Minds Access Code <a href="https://renertmath.github.io/renertrabbit/RR2025AccessCodeBM.pdf" target="_blank" rel="noopener noreferrer" style="font-weight:bold;color:#FE0000">HERE</a></b>.
 * <b>Renert School Access Code <a href="https://renertmath.github.io/renertrabbit/RR2025AccessCodeRS.pdf" target="_blank" rel="noopener noreferrer" style="font-weight:bold;color:#FE0000">HERE</a></b>.
