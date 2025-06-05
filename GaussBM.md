@@ -16,6 +16,6 @@ To Access your answers in the bubble sheet from Gauss 2025
 <img src="https://renertmath.github.io/Student POrtal 2.png" width="100%" height="100%">
 <br>
 <br>
-<img src="https://renertmath.github.io/Access Code BM.png" width="15%" height="50%">
+<img src="https://renertmath.github.io/Access Code BM.png" width="50%" height="60%">
 
 
