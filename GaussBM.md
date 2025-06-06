@@ -12,8 +12,8 @@ Access your answers in the bubble sheet from Gauss 2025:
    <br>
     <img src="https://renertmath.github.io/Access Code BM.png" width="30%" height="30%">
 
-  * Get the forms Gauss 2025 G7 here.
-  * Get the forms Gauss 2025 G8 here.
+  * Get the forms Gauss 2025 G7 <a href="https://renertmath.github.io/renertrabbit/2025_2025Gauss7.pdf" target="_blank" rel="noopener noreferrer" style="font-weight:bold;color:#FE0000">HERE</a>. 
+  * Get the forms Gauss 2025 G8 <a href="https://renertmath.github.io/renertrabbit/2025_2025Gauss8.pdf" target="_blank" rel="noopener noreferrer" style="font-weight:bold;color:#FE0000">HERE</a>. 
   * Check the keys below
  <img src="https://renertmath.github.io/2025Gauss7KEY.png" width="20%" height="20%"><img src="https://renertmath.github.io/2025Gauss8KEY.png" width="20%" height="20%">
   
