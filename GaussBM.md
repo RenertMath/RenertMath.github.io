@@ -15,7 +15,7 @@ Access your answers in the bubble sheet from Gauss 2025:
   * Get the forms Gauss 2025 G7 here.
   * Get the forms Gauss 2025 G8 here.
   * Check the keys below
- <img src="https://renertmath.github.io/2025Gauss7KEY.png" width="200%" height="20%"><img src="https://renertmath.github.io/2025Gauss8KEY.png" width="20%" height="20%">
+ <img src="https://renertmath.github.io/2025Gauss7KEY.png" width="20%" height="20%"><img src="https://renertmath.github.io/2025Gauss8KEY.png" width="20%" height="20%">
   
  * BM Students Rank
 <img src="https://renertmath.github.io/RankBM2025.png" width="50%" height="50%">
