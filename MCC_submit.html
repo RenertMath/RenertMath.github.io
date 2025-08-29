@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>How to Find Your ZipGrade Student ID</title>
+  <link href="https://fonts.googleapis.com/css2?family=STIX+Two+Text:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --blue:#0077B6; --gray:#6C757D; --off:#F8F9FA;
+      --bg:var(--off); --surface:#FFFFFF; --surface-alt:#F0F7FB;
+      --text:var(--gray); --indigo:var(--blue); --ring:rgba(0,119,182,.28);
+      --shadow:0 10px 25px rgba(2,6,23,.08); --radius:18px;
+      --border:rgba(243,156,18,.25); --divider:rgba(0,119,182,.28);
+    }
+    body{margin:0;font-family:'STIX Two Text',serif;color:var(--text);line-height:1.6;background:var(--indigo);}
+    .container{max-width:1100px;margin:0 auto;padding:20px;}
+    header{text-align:center;margin:20px 0 40px;}
+    .maintopmarina{max-width:150px;display:block;margin:0 auto 20px;}
+    .page-title{font-size:clamp(28px,4vw,44px);color:#fff;margin:0;}
+    .page-subtitle{font-size:clamp(16px,2.5vw,22px);color:#f8f9fa;margin:8px 0 0;}
+
+    .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:16px;}
+    section{grid-column:span 12;background:var(--surface);border:1px solid var(--border);
+      border-radius:var(--radius);box-shadow:var(--shadow);padding:22px;margin-bottom:20px;}
+    h2{margin:0.25rem 0 0.75rem;color:var(--indigo);font-weight:700}
+    h3{margin:1rem 0 0.25rem;color:#0b3d63;font-weight:700}
+    .content p,.content li{font-size:16px}
+    .content ul{margin:0.5rem 0 0.75rem 1.1rem}
+    .content a{color:var(--indigo);background:var(--surface-alt);padding:0 .25rem;border-radius:6px;text-decoration:none;border-bottom:1px dashed var(--divider)}
+    .content a:hover{outline:2px solid var(--ring)}
+    .screenshot{display:block;margin:1rem auto;max-width:90%;box-shadow:var(--shadow);border-radius:12px;}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <img class="maintopmarina" src="https://renertmath.github.io/LogoLarge.png" alt="Renert Math Logo" />
+      <h1 class="page-title">How to Find Your ZipGrade Student ID</h1>
+      <p class="page-subtitle">Bright Minds &amp; Renert School Instructions</p>
+    </header>
+
+    <main class="grid" aria-label="Main content">
+      <section>
+        <div class="content">
+          <h2>Bright Minds Students</h2>
+          <ul>
+            <li>Login to your family portal.</li>
+            <li>Click <strong>My Account</strong> then <strong>Current Courses / Registrations</strong>.</li>
+            <li>You will find your name and BM Student ID number.</li>
+            <li>This 5-digit number is also your ZipGrade Student ID.</li>
+          </ul>
+          <img class="screenshot" src="https://renertmath.github.io/BM%20ID%20student.png" alt="Bright Minds Student Portal showing ID">
+
+          <h2>Renert School Students</h2>
+          <ul>
+            <li>The student ID you will use is the same as your <strong>Café student number</strong>.</li>
+            <li>If you do not know your Renert School Café Number, please email <a href="mailto:tutoring@renert.com">tutoring@renert.com</a>.</li>
+          </ul>
+
+          <h2>How to Submit Your Answers</h2>
+          <ul>
+            <li>Click on <strong>TEST ONLINE</strong> for your session.</li>
+            <li>A ZipGrade page will open.</li>
+            <li>Enter your name and your ZipGrade Student ID.</li>
+          </ul>
+
+          <img class="screenshot" style="max-width:400px" src="https://renertmath.github.io/Zip%20grade%20student%20login.png" alt="ZipGrade student login screen">
+        </div>
+      </section>
+    </main>
+
+  </div>
+</body>
+</html>
