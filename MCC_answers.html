@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Accessing Your Answers</title>
+  <link href="https://fonts.googleapis.com/css2?family=STIX+Two+Text:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --blue:   #0077B6;
+      --gray:   #6C757D;
+      --off:    #F8F9FA;
+      --bg: var(--off);
+      --surface: #FFFFFF;
+      --surface-alt: #F0F7FB;
+      --text: var(--gray);
+      --indigo: var(--blue);
+      --ring: rgba(0,119,182,.28);
+      --shadow: 0 10px 25px rgba(2,6,23,.08);
+      --radius: 18px;
+      --border: rgba(0,119,182,.22);
+      --divider: rgba(0,119,182,.28);
+    }
+
+    body{
+      margin:0;
+      font-family:'STIX Two Text', serif;
+      color:var(--text);
+      line-height:1.6;
+      background:var(--indigo);
+    }
+
+    .container{max-width:1100px;margin:0 auto;padding:20px;}
+    header{text-align:center;margin:20px 0 40px;}
+    .maintopmarina{max-width:320px;display:block;margin:0 auto 20px;}
+    .page-title{font-size:clamp(28px,4vw,44px);color:#ffffff;margin:0;}
+    .page-subtitle{font-size:clamp(16px,2.5vw,22px);color:#f8f9fa;margin:8px 0 0;}
+
+    .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:16px;}
+    section{
+      grid-column:span 12;
+      background:var(--surface);
+      border:1px solid rgba(243,156,18,.25);
+      border-radius:var(--radius);
+      box-shadow:var(--shadow);
+      padding:20px;
+      margin-bottom:20px;
+    }
+
+    section h2{color:var(--blue);margin-top:0;}
+    section p, section li{font-size:16px;}
+    section ul{padding-left:20px;}
+
+    footer{text-align:center;margin:40px 0;color:#fff;}  
+    h2{margin:0.25rem 0 0.5rem;color:var(--indigo);font-weight:700}
+    .content ul{margin:0.5rem 0 0.75rem 1.1rem}
+    .content ol{margin:0.25rem 0 0.75rem 1.1rem}
+    .content li{margin:0.15rem 0}
+    .content a{color:var(--indigo);background:var(--surface-alt);padding:0 .25rem;border-radius:6px;text-decoration:none;border-bottom:1px dashed var(--divider)}
+    .content a:hover{outline:2px solid var(--ring)}
+    .screenshot{display:block;margin:1rem auto;max-width:90%;box-shadow:var(--shadow);border-radius:12px;}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <img class="maintopmarina" src="https://renertmath.github.io/LogoLarge.png" alt="Renert Math Logo" />
+      <h1 class="page-title">How to Access Your Answers</h1>
+      <p class="page-subtitle">Instructions for using the ZipGrade Student Portal</p>
+    </header>
+
+    <main id="main" class="grid" aria-label="Main sections">
+      <section aria-labelledby="answers">
+        <div class="content">
+          <h2 id="answers">After the Session</h2>
+          <p>To check your results from the paper you practiced on:</p>
+          <ul>
+            <li>Go to the student portal: <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">http://www.ZipGrade.com/student/</a>. Select the <strong>LEFT</strong> side (Login to Student Portal).</li>
+            <li><strong>ZipGrade Student ID:</strong> the same you used to take the test.</li>
+            <li><strong>Student Access Code:</strong> <span style="font-weight:bold;color:#FE0000">NEW!</span> – this code will be the same for each time you access the portal.</li>
+            <li><strong>Find your Access Code <a href="https://renertmath.github.io/ZIP%20GRADE%20Students%20ACCESS%20CODES%20Oct%202024.pdf" target="_blank" rel="noopener noreferrer" style="font-weight:bold;color:#FE0000">HERE</a></strong>.</li>
+          </ul>
+
+          <img class="screenshot" src="https://renertmath.github.io/Student%20POrtal%201.png" alt="ZipGrade Student Portal login screen">
+
+          <ul>
+            <li>The ZipGrade Student Portal allows your teacher to schedule quizzes and post results to a secure location. Do not share your credentials with other students.</li>
+            <li>Click on the link at the Student Portal.</li>
+          </ul>
+
+          <img class="screenshot" src="https://renertmath.github.io/Student%20POrtal%202.png" alt="ZipGrade Student Portal results screen">
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2024 Renert Math. All rights reserved.</p>
+    </footer>
+  </div>
+</body>
+</html>
