@@ -1,30 +1,6 @@
 
   <h2> Renert Rabbit 2025 </h2>
 
-To Access your answers in the bubble sheet from Renert Rabbit 2025
-* Go to the student portal: <a href="http://www.zipgrade.com/student/" target="_blank" rel="noopener noreferrer">http://www.ZipGrade.com/student/</a>.
-* Select the LEFT side (Login to Student Portal) with the ZipGrade ID
-  <BR>
-  
-* If you are a Bright Minds student:
-* * and your BM portal ID is a 5 digit number (starting with 5)  --->  this will be your ZipGrade ID.
-* * and your BM portal ID is a 6 digit number (starting with 51) ---> you will replace the first two digits (51) for 6 and obtain a 5 digit number (example, if your BM ID is 510312, your ZipGrade ID will be 60312).
-<br>
-<br>
-* If you are a Renert School student:
-* * your Zipgrade ID is your Renert School cafe number (starting with 3) <br>
-<br>
-* Student Access Code: unique just for the Renert Rabbit results
-* <b>Bright Minds Access Code <a href="https://renertmath.github.io/renertrabbit/RR2025AccessCodeBM.pdf" target="_blank" rel="noopener noreferrer" style="font-weight:bold;color:#FE0000">HERE</a></b>.
-* <b>Renert School Access Code <a href="https://renertmath.github.io/renertrabbit/RR2025AccessCodeRS.pdf" target="_blank" rel="noopener noreferrer" style="font-weight:bold;color:#FE0000">HERE</a></b>.
-<img src="https://renertmath.github.io/Student%20POrtal%201.png" width="80%" height="80%">
-
-* Do not share your credentials with other students.
-* Click on the link at the Student Portal. 
-
-<img src="https://renertmath.github.io/Student POrtal 2.png" width="100%" height="100%">
-<br>
-<br>
 •	What is Renert Rabbit?
 o	Renert Rabbit is an in-house math competition for students currently in Grades 1-6.
 o	This contest is created entirely by the Math team at Renert School.
@@ -57,6 +33,7 @@ o	Working through previous math contest questions at home in a no-pressure envir
 .tg .tg-kioz{background-color:#ffffff;border-color:#656565;color:#606C71;text-align:center;vertical-align:top}
 .tg .tg-m6gg{background-color:#FFF;border-color:#656565;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
 </style>
+
 <table class="tg" style="undefined;table-layout: fixed; width: 655px">
 <colgroup>
 <col style="width: 183.333333px">
