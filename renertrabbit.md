@@ -1,6 +1,3 @@
-
-<hr>
-
 <h2> Renert Rabbit - Past Contests </h2>
 
 <style type="text/css">
