@@ -1,36 +1,36 @@
 <h2> Renert Rabbit - Past Contests </h2>
 
 <style type="text/css">
-  /* The "tg" class is the main container */
+  /* Main table container */
   table.tg {
     border-collapse: collapse !important;
     border-spacing: 0 !important;
-    width: 100% !important; /* Makes it fit the screen better */
+    width: 100% !important;
     max-width: 655px;
     table-layout: fixed;
     margin: 20px 0;
   }
 
-  /* Style for all cells */
+  /* Universal cell styling (Borders and alignment) */
   .tg td, .tg th {
     border: 1px solid black !important;
     font-family: Arial, sans-serif;
     font-size: 14px;
-    padding: 8px 5px; /* Slightly more room for links */
+    padding: 8px 5px;
     text-align: center;
     vertical-align: top;
     overflow: hidden;
     word-break: normal;
   }
 
-  /* Specifically style the YEAR headers */
+  /* Specific styling for the YEAR headers */
   .tg th.year-header {
     background-color: #eeeeee !important; /* Light grey */
     font-weight: bold !important;
     color: #333;
   }
 
-  /* Style the links so they are easier to click */
+  /* Link styling */
   .tg a {
     color: #0044cc;
     text-decoration: none;
