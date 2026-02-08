@@ -40,19 +40,20 @@ o	Working through previous math contest questions at home in a no-pressure envir
   border-width: 1px;
   font-family: Arial, sans-serif;
   font-size: 14px;
-  font-weight: normal;
+  font-weight: normal; /* Default to normal weight */
   overflow: hidden;
   padding: 5px 5px;
   word-break: normal;
 }
-.tg .tg-baqh {
+/* FIX: Changed selector from '.tg .tg-baqh' to '.tg th.tg-baqh' */
+/* This ensures only HEADER cells get the grey background, ignoring data cells */
+.tg th.tg-baqh {
   text-align: center;
   vertical-align: top;
   font-weight: bold;
-  background-color: #f0f0f0; /* Added light grey for year distinction */
+  background-color: #f0f0f0; 
 }
 </style>
-
 <table class="tg" style="table-layout: fixed; width: 655px">
 <colgroup>
 <col style="width: 163px">
