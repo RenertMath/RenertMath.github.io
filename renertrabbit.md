@@ -17,7 +17,7 @@ o	That being said, prizes will be awarded for top scoring participants.
 o	Encourage your child to attend MCC sessions (see above). This is the best way to help them prepare.
 o	Working through previous math contest questions at home in a no-pressure environment and then attending the MCC zoom sessions to ask questions and see how the instructor solves the most challenging questions live with the group will.
 
-<h2> Renert Rabbit - Past Contests </h2>
+<h2> Renert Rabbit </h2>
 
 <style type="text/css">
   /* The "tg" class is the main container */
