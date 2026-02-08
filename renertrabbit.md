@@ -20,18 +20,76 @@ o	Working through previous math contest questions at home in a no-pressure envir
 <h2> Renert Rabbit - Past Contests </h2>
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:5px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:5px 5px;word-break:normal;}
-.tg .tg-si6s{background-color:#ffffff;border-color:#656565;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-nx2e{background-color:#FFF;border-color:inherit;color:#606C71;text-align:center;vertical-align:top}
-.tg .tg-2go3{background-color:#FFF;color:#606C71;text-align:center;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-kioz{background-color:#ffffff;border-color:#656565;color:#606C71;text-align:center;vertical-align:top}
-.tg .tg-m6gg{background-color:#FFF;border-color:#656565;color:#606C71;font-weight:bold;text-align:center;vertical-align:top}
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.tg td {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 5px 5px;
+  word-break: normal;
+}
+.tg th {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 5px 5px;
+  word-break: normal;
+}
+.tg .tg-si6s {
+  background-color: #ffffff;
+  border-color: #656565;
+  color: #606C71;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: top;
+}
+.tg .tg-nx2e {
+  background-color: #FFF;
+  border-color: inherit;
+  color: #606C71;
+  text-align: center;
+  vertical-align: top;
+}
+.tg .tg-2go3 {
+  background-color: #FFF;
+  color: #606C71;
+  text-align: center;
+  vertical-align: top;
+}
+.tg .tg-baqh {
+  text-align: center;
+  vertical-align: top;
+}
+.tg .tg-c3ow {
+  border-color: inherit;
+  text-align: center;
+  vertical-align: top;
+}
+.tg .tg-kioz {
+  background-color: #ffffff;
+  border-color: #656565;
+  color: #606C71;
+  text-align: center;
+  vertical-align: top;
+}
+.tg .tg-m6gg {
+  background-color: #FFF;
+  border-color: #656565;
+  color: #606C71;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: top;
+}
 </style>
 
 <table class="tg" style="undefined;table-layout: fixed; width: 655px">
